@@ -1,0 +1,31 @@
+{
+ "base": "jhu-clsp/mmBERT-base",
+ "train_examples": 1529,
+ "epochs": [
+  {
+   "epoch": 1,
+   "train_loss": 0.2183,
+   "val_loss": 0.0706,
+   "minutes": 7.2
+  },
+  {
+   "epoch": 2,
+   "train_loss": 0.0333,
+   "val_loss": 0.0764,
+   "minutes": 14.8
+  },
+  {
+   "epoch": 3,
+   "train_loss": 0.0056,
+   "val_loss": 0.0709,
+   "minutes": 18.3
+  },
+  {
+   "epoch": 4,
+   "train_loss": 0.0005,
+   "val_loss": 0.0642,
+   "minutes": 22.4
+  }
+ ],
+ "minutes": 22.4
+}

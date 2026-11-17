@@ -1,0 +1,6 @@
+# LF everywhere: the preregistration freezes file hashes, and the offline tests compare them.
+* text=auto eol=lf
+*.jpg binary
+*.png binary
+*.gif binary
+*.mp4 binary

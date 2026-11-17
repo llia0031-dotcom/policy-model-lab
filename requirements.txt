@@ -1,0 +1,15 @@
+# Python 3.12. Install PyTorch for your GPU first, e.g. (Windows/Linux, CUDA 12.8):
+#   pip install torch==2.11.0 torchvision==0.26.0 --index-url https://download.pytorch.org/whl/cu128
+transformers==5.23.0
+accelerate==1.16.0
+peft==0.21.3
+bitsandbytes==0.50.2
+huggingface_hub==2.4.0
+safetensors==0.8.0
+av==19.0.2
+pillow==13.0.0
+numpy==2.5.4
+PyYAML==6.0.3
+rapidocr==3.10.0
+onnxruntime-gpu==1.23.2   # or onnxruntime (CPU) with POLICY_LAB_OCR_CUDA=0
+anthropic==2.9.0          # only for the Claude stages

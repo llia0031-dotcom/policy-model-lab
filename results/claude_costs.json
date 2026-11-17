@@ -1,0 +1,285 @@
+{
+ "runs": [
+  {
+   "tag": "synth-train",
+   "input_tokens": 124091,
+   "output_tokens": 198058,
+   "usd": 0.0557,
+   "time": "2026-11-17 08:21"
+  },
+  {
+   "tag": "video-test",
+   "input_tokens": 1550772,
+   "output_tokens": 24535,
+   "usd": 0.0837,
+   "time": "2026-11-17 08:28"
+  },
+  {
+   "tag": "text-haiku",
+   "input_tokens": 279807,
+   "output_tokens": 13963,
+   "usd": 0.0175,
+   "time": "2026-11-17 08:38"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 609713,
+   "output_tokens": 5824,
+   "usd": 0.0319,
+   "time": "2026-11-17 08:40"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 310778,
+   "output_tokens": 353,
+   "usd": 0.0156,
+   "time": "2026-11-17 08:42"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 304527,
+   "output_tokens": 326,
+   "usd": 0.0153,
+   "time": "2026-11-17 16:51"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 282070,
+   "output_tokens": 314,
+   "usd": 0.0142,
+   "time": "2026-11-17 16:54"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 310016,
+   "output_tokens": 300,
+   "usd": 0.0156,
+   "time": "2026-11-17 16:57"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 318966,
+   "output_tokens": 361,
+   "usd": 0.016,
+   "time": "2026-11-17 17:01"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 223394,
+   "output_tokens": 177,
+   "usd": 0.0112,
+   "time": "2026-11-17 17:03"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 227363,
+   "output_tokens": 399,
+   "usd": 0.0115,
+   "time": "2026-11-17 17:05"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 237641,
+   "output_tokens": 243,
+   "usd": 0.0119,
+   "time": "2026-11-17 17:09"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 295368,
+   "output_tokens": 252,
+   "usd": 0.0148,
+   "time": "2026-11-17 17:11"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 287016,
+   "output_tokens": 334,
+   "usd": 0.0144,
+   "time": "2026-11-17 17:14"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 336136,
+   "output_tokens": 453,
+   "usd": 0.0169,
+   "time": "2026-11-17 17:17"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 216542,
+   "output_tokens": 194,
+   "usd": 0.0109,
+   "time": "2026-11-17 17:20"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 228650,
+   "output_tokens": 226,
+   "usd": 0.0115,
+   "time": "2026-11-17 17:22"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 373514,
+   "output_tokens": 485,
+   "usd": 0.0188,
+   "time": "2026-11-17 17:25"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 300115,
+   "output_tokens": 529,
+   "usd": 0.0151,
+   "time": "2026-11-17 17:28"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 272621,
+   "output_tokens": 447,
+   "usd": 0.0137,
+   "time": "2026-11-17 17:30"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 358364,
+   "output_tokens": 387,
+   "usd": 0.018,
+   "time": "2026-11-17 17:32"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 352753,
+   "output_tokens": 345,
+   "usd": 0.0177,
+   "time": "2026-11-17 17:34"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 276614,
+   "output_tokens": 319,
+   "usd": 0.0139,
+   "time": "2026-11-17 17:37"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 292701,
+   "output_tokens": 352,
+   "usd": 0.0147,
+   "time": "2026-11-17 17:41"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 327285,
+   "output_tokens": 284,
+   "usd": 0.0164,
+   "time": "2026-11-17 17:44"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 316005,
+   "output_tokens": 347,
+   "usd": 0.0159,
+   "time": "2026-11-17 17:46"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 236972,
+   "output_tokens": 197,
+   "usd": 0.0119,
+   "time": "2026-11-17 17:49"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 271787,
+   "output_tokens": 315,
+   "usd": 0.0137,
+   "time": "2026-11-17 17:51"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 247758,
+   "output_tokens": 241,
+   "usd": 0.0124,
+   "time": "2026-11-17 17:52"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 301065,
+   "output_tokens": 255,
+   "usd": 0.0151,
+   "time": "2026-11-17 17:55"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 300211,
+   "output_tokens": 336,
+   "usd": 0.0151,
+   "time": "2026-11-17 17:57"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 353267,
+   "output_tokens": 456,
+   "usd": 0.0178,
+   "time": "2026-11-17 17:59"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 224472,
+   "output_tokens": 195,
+   "usd": 0.0113,
+   "time": "2026-11-17 18:02"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 240978,
+   "output_tokens": 223,
+   "usd": 0.0121,
+   "time": "2026-11-17 18:04"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 386157,
+   "output_tokens": 501,
+   "usd": 0.0194,
+   "time": "2026-11-17 18:07"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 302579,
+   "output_tokens": 629,
+   "usd": 0.0153,
+   "time": "2026-11-17 18:10"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 288690,
+   "output_tokens": 467,
+   "usd": 0.0146,
+   "time": "2026-11-17 18:13"
+  },
+  {
+   "tag": "kuaimod-haiku",
+   "input_tokens": 40055,
+   "output_tokens": 80,
+   "usd": 0.002,
+   "time": "2026-11-17 18:15"
+  },
+  {
+   "tag": "text-haiku-400",
+   "input_tokens": 279807,
+   "output_tokens": 21636,
+   "usd": 0.0194,
+   "time": "2026-11-17 22:53"
+  },
+  {
+   "tag": "video-test",
+   "input_tokens": 57256,
+   "output_tokens": 5151,
+   "usd": 0.0042,
+   "time": "2026-11-18 05:18"
+  }
+ ],
+ "total_usd": 0.6971
+}

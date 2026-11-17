@@ -1,0 +1,320 @@
+# Chinese short-video ads (split: video). Written 2026-11-17, before any model saw them. Brands are fictional.
+# Each video: 4 shots x 2 s, a subtitle per shot (lines), a post caption, optionally a 0.5 s sticker (flash).
+# Answers are fixed here. Policy basis: PRC Advertising Law (2021) and the SAMR guide on absolute terms,
+# same categories and clauses as grounded-review (policies/clauses.yaml there).
+# where: caption | screen (shot index 1-4; shot 1 is the cover) | flash (0.5 s sticker) | visual (no words)
+# art per shot: product (default) | drink_baijiu | drink_beer | drink_wine | drink_tea | drink_water | drink_juice | flag | lanterns
+- id: zv-01
+  product: {brand: 栖木, shape: box, palette: beige}
+  caption: 栖木实木衣帽架，全网质量最好的衣帽架，没有之一。#收纳
+  lines: [进门随手一挂, 北美白蜡木, 免工具三分钟装好, 到手价 ¥239]
+  labels:
+    - {cat: ABSOLUTE, where: caption, span: 全网质量最好的衣帽架，没有之一}
+- id: zv-02
+  product: {brand: 拾味, shape: jar, palette: gold}
+  caption: 拾味黑芝麻丸，每天两颗，白发变黑，脱发也治好了。
+  lines: [九蒸九晒黑芝麻, 不加蔗糖, 独立小包装, 一盒 30 颗 ¥69]
+  labels:
+    - {cat: MEDICAL, where: caption, span: 脱发也治好了}
+- id: zv-03
+  product: {brand: 知行, shape: book, palette: blue}
+  caption: 知行公考系统班，跟着学，笔试保证进面，不进面全额退。
+  lines: [行测申论双科, 每晚 8 点直播, 随堂练习自动批改, 早鸟价 ¥1980]
+  labels:
+    - {cat: GUARANTEE, where: caption, span: 笔试保证进面，不进面全额退}
+- id: zv-04
+  product: {brand: 白鹭, shape: vacuum, palette: gray}
+  caption: 别再买某些大牌扫地机了，吸力弱还爱卡死，纯属交智商税。
+  lines: [白鹭 S3 扫拖一体, 自动集尘 60 天, 避开袜子和线团, 首发 ¥2299]
+  labels:
+    - {cat: DISPARAGE, where: caption, span: 别再买某些大牌扫地机了，吸力弱还爱卡死，纯属交智商税}
+- id: zv-05
+  product: {brand: 云川, shape: bedding, palette: teal}
+  caption: 云川记忆棉护颈枕，89% 的用户说睡醒肩颈不僵了。
+  lines: [慢回弹记忆棉, 双高度两面睡, 可拆洗枕套, 到手 ¥159]
+  labels:
+    - {cat: DATA, where: caption, span: 89% 的用户说睡醒肩颈不僵了}
+- id: zv-06
+  product: {brand: 北岸, shape: beer, palette: orange}
+  caption: 北岸精酿，下班来一罐，压力全消，第二天精神满满。
+  lines: [北岸精酿 IPA, 酒精度 6.2%vol, 冰镇口感更好, 理性饮酒]
+  labels:
+    - {cat: ALCOHOL, where: caption, span: 下班来一罐，压力全消，第二天精神满满}
+- id: zv-07
+  product: {brand: 橙光, shape: box, palette: orange}
+  caption: 橙光 L2 学习台灯 #书桌好物
+  lines: [史上最护眼的台灯, 无频闪 显色 Ra97, 三档色温, ¥199 包邮]
+  labels:
+    - {cat: ABSOLUTE, where: screen, shot: 1, span: 史上最护眼的台灯}
+- id: zv-08
+  product: {brand: 栖木, shape: bedding, palette: beige}
+  caption: 栖木 M1 床垫，双十一预售
+  lines: [7 区独立弹簧, 透气乳胶层, 国内顶级的睡眠体验, 100 晚试睡]
+  labels:
+    - {cat: ABSOLUTE, where: screen, shot: 3, span: 国内顶级的睡眠体验}
+- id: zv-09
+  product: {brand: 云栖, shape: box, palette: purple}
+  caption: 云栖艾草足贴 #睡前仪式感
+  lines: [睡前贴一片, 贴了半个月，我的失眠好了, 天然艾草, 60 片装 ¥49]
+  labels:
+    - {cat: MEDICAL, where: screen, shot: 2, span: 贴了半个月，我的失眠好了}
+- id: zv-10
+  product: {brand: 澄心, shape: jar, palette: purple}
+  caption: 澄心蓝莓叶黄素软糖，酸甜好吃
+  lines: [写作业的好搭档, 每天两粒, 真实蓝莓果汁, 坚持吃，近视度数降下来]
+  labels:
+    - {cat: MEDICAL, where: screen, shot: 4, span: 坚持吃，近视度数降下来}
+- id: zv-11
+  product: {brand: 恒裕, shape: card, palette: navy}
+  caption: 恒裕稳盈计划，了解一下
+  lines: [稳健型产品, 随存随取, 年化 8% 保本保息, 详询客户经理]
+  labels:
+    - {cat: GUARANTEE, where: screen, shot: 3, span: 年化 8% 保本保息}
+- id: zv-12
+  product: {brand: 拾味, shape: box, palette: red}
+  caption: 拾味柳州螺蛳粉 #嗦粉
+  lines: [正宗柳州风味, 别家螺蛳粉全是科技与狠活, 我们只用鲜笋, 5 包 ¥39.9]
+  labels:
+    - {cat: DISPARAGE, where: screen, shot: 2, span: 别家螺蛳粉全是科技与狠活}
+- id: zv-13
+  product: {brand: 白鹭, shape: box, palette: blue}
+  caption: 白鹭 R5 净水器，厨下安装
+  lines: [除菌率 99.99%, 厨下式安装, 滤芯三年一换, 以旧换新 ¥1599]
+  labels:
+    - {cat: DATA, where: screen, shot: 1, span: 除菌率 99.99%}
+- id: zv-14
+  product: {brand: 醉里, shape: bottle, palette: gold}
+  caption: 醉里桂花米酒，秋天的味道
+  lines: [桂花米酒 8%vol, 冰镇更清爽, 喝一杯，一天的疲惫都没了, 理性饮酒]
+  labels:
+    - {cat: ALCOHOL, where: screen, shot: 3, span: 喝一杯，一天的疲惫都没了}
+- id: zv-15
+  product: {brand: 橙光, shape: blender, palette: orange}
+  caption: 橙光空气炸锅，懒人厨房
+  lines: [5L 大容量, 可视窗口, 8 种预设菜单, 到手 ¥299]
+  flash: 宇宙第一好用
+  labels:
+    - {cat: ABSOLUTE, where: flash, span: 宇宙第一好用}
+- id: zv-16
+  product: {brand: 云川, shape: jacket, palette: navy}
+  caption: 云川长款羽绒服，冬天出门不怕冷
+  lines: [90% 白鹅绒, 防泼水面料, 可拆卸毛领, 到手 ¥899]
+  flash: 最保暖的羽绒服就是它
+  labels:
+    - {cat: ABSOLUTE, where: flash, span: 最保暖的羽绒服就是它}
+- id: zv-17
+  product: {brand: 拾味, shape: tea, palette: green}
+  caption: 拾味苦荞茶，饭后来一杯
+  lines: [大凉山黑苦荞, 颗粒饱满, 热水冲泡即可, 500 克 ¥39]
+  flash: 降血糖 降血压
+  labels:
+    - {cat: MEDICAL, where: flash, span: 降血糖 降血压}
+- id: zv-18
+  product: {brand: 知行, shape: book, palette: teal}
+  caption: 知行英语四级冲刺营
+  lines: [词汇听力两手抓, 每周两次模考, 老师一对一答疑, 报名 ¥399]
+  flash: 包过！不过退费
+  labels:
+    - {cat: GUARANTEE, where: flash, span: 包过！不过退费}
+- id: zv-19
+  product: {brand: 恒裕, shape: tumbler, palette: pink}
+  caption: 恒裕茶饮招商，开一家自己的店
+  lines: [总部统一配送, 两周开业, 选址团队协助, 欢迎来电]
+  flash: 加盟稳赚 月入三万
+  labels:
+    - {cat: GUARANTEE, where: flash, span: 加盟稳赚 月入三万}
+- id: zv-20
+  product: {brand: 白鹭, shape: tube, palette: teal}
+  caption: 白鹭声波电动牙刷
+  lines: [每分钟 4 万次振动, 五种清洁模式, 续航 60 天, 到手 ¥199]
+  flash: 某某牌牙刷就是垃圾
+  labels:
+    - {cat: DISPARAGE, where: flash, span: 某某牌牙刷就是垃圾}
+- id: zv-21
+  product: {brand: 澄心, shape: jar, palette: blue}
+  caption: 澄心三合一洗衣凝珠
+  lines: [一颗洗一桶, 低泡易漂, 淡淡花香, 60 颗 ¥49]
+  flash: 去渍力提升 300%
+  labels:
+    - {cat: DATA, where: flash, span: 去渍力提升 300%}
+- id: zv-22
+  product: {brand: 北岸, shape: shoe, palette: green}
+  caption: 北岸 Pace 3 跑鞋 #跑步
+  lines: [超临界发泡中底, 碳板加持, 鞋面透气, ¥699]
+  flash: 98% 跑者推荐
+  labels:
+    - {cat: DATA, where: flash, span: 98% 跑者推荐}
+- id: zv-23
+  product: {brand: 醉山, shape: liquor, palette: red}
+  caption: 醉山光瓶酒，老友小聚
+  lines: [醉山 52%vol, 老友相聚, 好酒配好菜, 理性饮酒]
+  art: {2: drink_baijiu}
+  labels:
+    - {cat: ALCOHOL, where: visual, shot: 2, visual: 第二个镜头里有人举杯饮酒}
+- id: zv-24
+  product: {brand: 北岸, shape: beer, palette: gold}
+  caption: 北岸淡色拉格，周末看球
+  lines: [北岸淡色拉格, 酒精度 4.5%vol, 周末看球, 理性饮酒]
+  art: {3: drink_beer}
+  labels:
+    - {cat: ALCOHOL, where: visual, shot: 3, visual: 第三个镜头里有人喝啤酒}
+- id: zv-25
+  product: {brand: 云川, shape: wine, palette: pink}
+  caption: 云川干红，晚餐的仪式感
+  lines: [宁夏贺兰山东麓, 酒精度 13%vol, 搭配牛排, 理性饮酒]
+  art: {2: drink_wine}
+  labels:
+    - {cat: ALCOHOL, where: visual, shot: 2, visual: 第二个镜头里有人喝葡萄酒}
+- id: zv-26
+  product: {brand: 山屿, shape: jacket, palette: red}
+  caption: 山屿冲锋衣，出游必备
+  lines: [三层压胶面料, 防水 20000mm, 长假出游必备, ¥699]
+  art: {1: flag}
+  labels:
+    - {cat: FLAG, where: visual, shot: 1, visual: 封面镜头里有国旗}
+- id: zv-27
+  product: {brand: 拾味, shape: box, palette: gold}
+  caption: 拾味流心月饼礼盒
+  lines: [奶黄流心, 六种口味, 中秋送礼, 礼盒 ¥168]
+  art: {3: flag}
+  labels:
+    - {cat: FLAG, where: visual, shot: 3, visual: 第三个镜头里有国旗}
+- id: zv-28
+  product: {brand: 橙光, shape: tumbler, palette: blue}
+  caption: 橙光运动水杯，一杯装 1 升
+  lines: [Tritan 材质, 一键弹盖, 刻度提醒喝水, ¥59]
+  art: {2: flag}
+  labels:
+    - {cat: FLAG, where: visual, shot: 2, visual: 第二个镜头里有国旗}
+- id: zv-29
+  product: {brand: 醉山, shape: liquor, palette: beige}
+  caption: 醉山绍兴黄酒，冬酿上市
+  lines: [绍兴手工冬酿, 最正宗的黄酒, 温一壶, 理性饮酒]
+  art: {3: drink_baijiu}
+  labels:
+    - {cat: ABSOLUTE, where: screen, shot: 2, span: 最正宗的黄酒}
+    - {cat: ALCOHOL, where: visual, shot: 3, visual: 第三个镜头里有人举杯饮酒}
+- id: zv-30
+  product: {brand: 知行, shape: book, palette: purple}
+  caption: 知行考研集训营，保证上岸
+  lines: [封闭式集训, 全程班主任跟进, 历年真题精讲, 报名 ¥12800]
+  flash: 上岸率 95%
+  labels:
+    - {cat: GUARANTEE, where: caption, span: 保证上岸}
+    - {cat: DATA, where: flash, span: 上岸率 95%}
+- id: zv-31
+  product: {brand: 山屿, shape: bag, palette: green}
+  caption: 山屿户外帐篷，三秒速开
+  lines: [三秒速开, 防暴雨涂层, 全国最好的帐篷, ¥459]
+  art: {1: flag}
+  labels:
+    - {cat: FLAG, where: visual, shot: 1, visual: 封面镜头里有国旗}
+    - {cat: ABSOLUTE, where: screen, shot: 3, span: 全国最好的帐篷}
+- id: zv-32
+  product: {brand: 云栖, shape: bottle, palette: green}
+  caption: 别用某某洗发水了，越洗越秃。云栖草本洗发水了解一下
+  lines: [侧柏叶生姜配方, 无硅油, 温和清洁, 500ml ¥79]
+  flash: 治脱发 7 天见效
+  labels:
+    - {cat: DISPARAGE, where: caption, span: 别用某某洗发水了，越洗越秃}
+    - {cat: MEDICAL, where: flash, span: 治脱发 7 天见效}
+- id: zv-33
+  product: {brand: 栖木, shape: box, palette: beige}
+  caption: 换季收纳 #居家好物
+  lines: [可叠放收纳箱, 透明可视, 底部带滑轮, 三只装 ¥89]
+  labels: []
+  trap: 普通商品介绍，没有违规说法。
+- id: zv-34
+  product: {brand: 拾味, shape: box, palette: orange}
+  caption: 拾味挂耳咖啡，办公室续命
+  lines: [云南保山小粒, 中深烘焙, 独立挂耳包, 20 包 ¥59]
+  labels: []
+  trap: 普通商品介绍，没有违规说法。
+- id: zv-35
+  product: {brand: 白鹭, shape: earbuds, palette: gray}
+  caption: 白鹭 Air 2 蓝牙耳机
+  lines: [半入耳设计, 单次续航 6 小时, 通透模式, 到手 ¥229]
+  labels: []
+  trap: 普通商品介绍，没有违规说法。
+- id: zv-36
+  product: {brand: 橙光, shape: tumbler, palette: teal}
+  caption: 橙光保温饭盒，带饭党看过来
+  lines: [三层分格, 304 不锈钢内胆, 保温 6 小时, ¥119]
+  labels: []
+  trap: 普通商品介绍，没有违规说法。
+- id: zv-37
+  product: {brand: 云川, shape: bedding, palette: pink}
+  caption: 云川全棉四件套
+  lines: [60 支长绒棉, 亲肤不起球, 四种颜色, 1.8 米床 ¥329]
+  labels: []
+  trap: 普通商品介绍，没有违规说法。
+- id: zv-38
+  product: {brand: 拾味, shape: box, palette: beige}
+  caption: 拾味铸铁锅，一口锅搞定家常菜
+  lines: ["第一步：热锅凉油", "最佳火候：中火两分钟", 治愈系家常菜, 铸铁锅 ¥259]
+  labels: []
+  trap: “第一步”是步骤序号；“最佳火候”是烹饪提示，不是说商品最好；“治愈系”是风格用词，不涉及疾病。
+- id: zv-39
+  product: {brand: 白鹭, shape: vacuum, palette: blue}
+  caption: 白鹭家政日常保洁
+  lines: [日常保洁 4 小时, 顾客第一，服务至上, 工具自带, 首单 ¥168]
+  labels: []
+  trap: “顾客第一”是服务理念，不指向所推销商品（执法指南第五条）。
+- id: zv-40
+  product: {brand: 澄心, shape: bottle, palette: blue}
+  caption: 澄心洗衣液 3kg 家庭装
+  lines: [天猫 2026 年 10 月洗衣液类目销量第一, "数据来源：天猫生意参谋", 低泡易漂, 3kg ¥59]
+  labels: []
+  trap: “销量第一”限定了平台、类目和月份，并写明了数据来源（执法指南第六条、广告法第十一条）。
+- id: zv-41
+  product: {brand: 北岸, shape: shoe, palette: orange}
+  caption: 北岸 Pace 4 跑鞋新款
+  lines: [新一代发泡中底, "缓震比上一代提升 20%", "检测报告编号 BA-2026-031", ¥799]
+  labels: []
+  trap: 和自家上一代比，写明了检测报告编号。
+- id: zv-42
+  product: {brand: 恒裕, shape: card, palette: gray}
+  caption: 恒裕稳健理财，长期持有
+  lines: [历史年化 3.2%, 过往业绩不代表未来表现, 理财有风险，投资需谨慎, 详询客户经理]
+  labels: []
+  trap: 没有承诺收益，写明了风险。
+- id: zv-43
+  product: {brand: 云川, shape: shoe, palette: purple}
+  caption: 云川马拉松训练营
+  lines: [每周三次课, 专业教练带跑, 陪你跑完人生第一个全马, 报名 ¥599]
+  labels: []
+  trap: “第一个全马”说的是跑者自己的第一次，不是给商品排名。
+- id: zv-44
+  product: {brand: 拾味, shape: tea, palette: green}
+  caption: 拾味冷泡乌龙茶
+  lines: [冷水也能泡, 三分钟出味, 无糖, 20 包 ¥45]
+  art: {2: drink_tea}
+  labels: []
+  trap: 画面里喝的是茶，不是酒。
+- id: zv-45
+  product: {brand: 橙光, shape: tumbler, palette: blue}
+  caption: 橙光运动水杯，健身房必备
+  lines: [大容量 1.5 升, 防漏锁扣, 刻度提醒, ¥69]
+  art: {3: drink_water}
+  labels: []
+  trap: 画面里喝的是水，不是酒。
+- id: zv-46
+  product: {brand: 醉山, shape: liquor, palette: red}
+  caption: 醉山新年礼盒
+  lines: [醉山 42%vol, 新年礼盒, 送长辈的心意, 理性饮酒]
+  labels: []
+  trap: 只展示酒瓶，没有饮酒动作，也没有功效说法。
+- id: zv-47
+  product: {brand: 拾味, shape: box, palette: red}
+  caption: 拾味年货礼盒，过年回家带一份
+  lines: [坚果肉脯八件套, 红红火火过大年, 送礼有面子, 礼盒 ¥199]
+  art: {2: lanterns}
+  labels: []
+  trap: 画面里是灯笼，不是国旗。
+- id: zv-48
+  product: {brand: 澄心, shape: bottle, palette: orange}
+  caption: 澄心 NFC 鲜榨橙汁
+  lines: [不加一滴水, 冷链直送, 早餐来一杯, 1L ¥26]
+  art: {3: drink_juice}
+  labels: []
+  trap: 画面里喝的是橙汁，不是酒。

@@ -1,0 +1,36 @@
+{
+ "generated": 1728,
+ "label_differs_from_request": 484,
+ "request_unparsed": 5,
+ "drop_span_not_verbatim": 5,
+ "drop_close_to_test": 3,
+ "kept_train": 1529,
+ "kept_val": 191,
+ "train_by_label": {
+  "ABSOLUTE": 87,
+  "MEDICAL": 117,
+  "GUARANTEE": 104,
+  "DISPARAGE": 113,
+  "DATA": 51,
+  "NONE": 441,
+  "ALCOHOL": 129,
+  "FLAG": 36,
+  "ABSOLUTE+DATA": 6,
+  "ABSOLUTE+MEDICAL": 23,
+  "DATA+GUARANTEE": 15,
+  "ABSOLUTE+DISPARAGE": 24,
+  "ABSOLUTE+ALCOHOL": 30,
+  "ABSOLUTE+GUARANTEE": 2,
+  "TRAP": 214,
+  "WEIGHT": 60,
+  "BEFORE_AFTER": 48,
+  "GUARANTEE+WEIGHT": 16,
+  "BEFORE_AFTER+WEIGHT": 13
+ },
+ "train_by_lang": {
+  "zh": 766,
+  "en": 763
+ },
+ "train_sha256": "049525e580b39a1d",
+ "val_sha256": "8a5dc559bcd52101"
+}

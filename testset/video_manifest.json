@@ -1,0 +1,4828 @@
+{
+ "dv-01": {
+  "id": "dv-01",
+  "lang": "zh",
+  "file": "dv-01.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "高硼硅玻璃",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "防烫杯套",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "全网最耐摔的玻璃杯",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "¥39",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@青溪",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "b6e8cbd38ff059b5d70438bf56add80316d0c0e4af200ff556d987b913a37576"
+ },
+ "dv-02": {
+  "id": "dv-02",
+  "lang": "zh",
+  "file": "dv-02.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "青溪小麦啤酒",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "酒精度 5%vol",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "夏日限定",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "理性饮酒",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@青溪",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "007fbe9c754eea287a6f9b9ecd5d4407278b6486f169aa569f4d78a2dd374f46"
+ },
+ "dv-03": {
+  "id": "dv-03",
+  "lang": "en",
+  "file": "dv-03.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 72,
+  "timeline": [
+   {
+    "text": "Ceramides and peptides",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Fragrance free",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "50 ml",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$32",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Larkfield",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "Erases wrinkles for good",
+    "kind": "flash",
+    "start": 72,
+    "end": 78
+   }
+  ],
+  "sha256": "0fa2ad2245edffae1bc209e5aff9267180e94700cb4d69865ed06cdadd05c561"
+ },
+ "dv-04": {
+  "id": "dv-04",
+  "lang": "en",
+  "file": "dv-04.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Heavy cotton canvas",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Inner pocket",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Three colors",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$28",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Larkfield",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "552e2c74844a88785efe0234c00f25d83045a8cb792d799db099c08cddc53608"
+ },
+ "ev-01": {
+  "id": "ev-01",
+  "lang": "en",
+  "file": "ev-01.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Adjustable lumbar support",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Breathable mesh back",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Tool-free assembly",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$249, free shipping",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Norwyn",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "cf2b3b903528c7255c55d109b0e75cf2e3f5cd0654d71ff5a23ece565e5698e5"
+ },
+ "ev-02": {
+  "id": "ev-02",
+  "lang": "en",
+  "file": "ev-02.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Pure magnesium flakes",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Unscented",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Resealable pouch",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "1 kg for $24",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Calla Bay",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "bb14321f76f5b8be382d4867e8875efb5de77c761fd3ffac697a4259723e5903"
+ },
+ "ev-03": {
+  "id": "ev-03",
+  "lang": "en",
+  "file": "ev-03.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Copy expert portfolios",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Start with $50",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Withdraw anytime",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Download today",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Quillon",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "1bfa2e7c21c356af5098f1fad2e8e84b316768ed46a602443c67f6903105bcf6"
+ },
+ "ev-04": {
+  "id": "ev-04",
+  "lang": "en",
+  "file": "ev-04.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Tri-ply stainless steel",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Oven safe to 260°C",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Dishwasher safe",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "5-piece set $189",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Fernway",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "a90b0509d05234e20eaf68224e1371fdf22a13de45744dde9f04344cd32b0aed"
+ },
+ "ev-05": {
+  "id": "ev-05",
+  "lang": "en",
+  "file": "ev-05.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Green tea and ginger",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Caffeine-light blend",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "28 tea bags",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$19.99",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Sunfold",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "8b26cda65f69d76368e12c4206f7068618b5937bc4d47bf667de64dda603abb4"
+ },
+ "ev-06": {
+  "id": "ev-06",
+  "lang": "en",
+  "file": "ev-06.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Dry apple cider",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "5.0% ABV",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Best served cold",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Please drink responsibly",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Tidal Oak",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "4cacfa8aba55d2344024e68b03ae2b118dceaf2ddebfb26d675580d290c88043"
+ },
+ "ev-07": {
+  "id": "ev-07",
+  "lang": "en",
+  "file": "ev-07.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "The world's best headphones",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "40-hour battery",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Adaptive noise cancelling",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$179",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Velmora",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "79b859a3395d4a388efa8e7ac2b5900a56da559acf0d86ca87132ca96481fe9d"
+ },
+ "ev-08": {
+  "id": "ev-08",
+  "lang": "en",
+  "file": "ev-08.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Lavender and chamomile",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Cures insomnia in one night",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Spray on your pillow",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$16",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Brightleaf",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "18906dd79becedee53411dc4022166aeb9c4fc76dd41801ea91d949c8fb8c21c"
+ },
+ "ev-09": {
+  "id": "ev-09",
+  "lang": "en",
+  "file": "ev-09.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Raw wildflower honey",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Spoon into tea",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Glass jar, 500 g",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Kills cold and flu viruses",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Ashby & Reed",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "c4dae07d30f0897ca651783d2fb79fa8cda96958c948ccb66ca32ea59756efa5"
+ },
+ "ev-10": {
+  "id": "ev-10",
+  "lang": "en",
+  "file": "ev-10.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Live online classes",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Weekly practice tests",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Score 1500+ or your money back, guaranteed",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Enroll now",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Northpeak",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "a5685dbb27249395e5b7067346ed9941fd018355ed3dd8d30473abc7b075f3b0"
+ },
+ "ev-11": {
+  "id": "ev-11",
+  "lang": "en",
+  "file": "ev-11.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Learn dropshipping",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Make $10,000 a month, guaranteed",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Lifetime access",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$97",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Corvo",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "46aafa6c62960227508e6b6924b0b299ced95065ab3b57495c3072f5a3290b29"
+ },
+ "ev-12": {
+  "id": "ev-12",
+  "lang": "en",
+  "file": "ev-12.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Hybrid coil mattress",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "100-night trial",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Other mattress brands are cheap junk",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Queen $699",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Pinehollow",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "52cc336b2dc3eda0a64e5d859d47ca9b2ba1c03c49ab782cff5a0dfb75752dd3"
+ },
+ "ev-13": {
+  "id": "ev-13",
+  "lang": "en",
+  "file": "ev-13.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Latex waist trainer",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Wear it 8 hours, lose 4 inches",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Three sizes",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$34",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Velmora",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "74d11c13aa4505cf473e723c54ce9d8c35dd030227bee0077cca67965069319f"
+ },
+ "ev-14": {
+  "id": "ev-14",
+  "lang": "en",
+  "file": "ev-14.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Tidal Oak Vodka",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "40% ABV",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Triple distilled",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Drink it, and the shyness is gone",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Tidal Oak",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "987b1442b512f6b16a4f0ceb6e74834194790484fdab508b1a0efb28561a50db"
+ },
+ "ev-15": {
+  "id": "ev-15",
+  "lang": "en",
+  "file": "ev-15.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 75,
+  "timeline": [
+   {
+    "text": "Drop tested from 3 m",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Raised camera lip",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "MagSafe compatible",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$29",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Quillon",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "#1 strongest case on Earth",
+    "kind": "flash",
+    "start": 75,
+    "end": 81
+   }
+  ],
+  "sha256": "46f1f74f5ced7682d59f5b2ae55e2100833348b7561cb36f69507783e7285c3f"
+ },
+ "ev-16": {
+  "id": "ev-16",
+  "lang": "en",
+  "file": "ev-16.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 77,
+  "timeline": [
+   {
+    "text": "SPF 50 broad spectrum",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "No white cast",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Water resistant 40 min",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "50 ml $22",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Calla Bay",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "The best sunscreen, period.",
+    "kind": "flash",
+    "start": 77,
+    "end": 83
+   }
+  ],
+  "sha256": "6003d2f87072d776f1591e9211d06bc6f53e16336edfbe756f6d7f43132d6226"
+ },
+ "ev-17": {
+  "id": "ev-17",
+  "lang": "en",
+  "file": "ev-17.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 43,
+  "timeline": [
+   {
+    "text": "Elderberry and zinc",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Two gummies a day",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Vegan",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "60 count $18",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Sunfold",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "Treats asthma naturally",
+    "kind": "flash",
+    "start": 43,
+    "end": 49
+   }
+  ],
+  "sha256": "47579261130f53a2c2f0cf2fb5e61785fdde2cbbdf3e1da14475470fb1216c36"
+ },
+ "ev-18": {
+  "id": "ev-18",
+  "lang": "en",
+  "file": "ev-18.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 33,
+  "timeline": [
+   {
+    "text": "Daily market notes",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Private chat",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Cancel anytime",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$49 a month",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Corvo",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "Guaranteed 3x profit",
+    "kind": "flash",
+    "start": 33,
+    "end": 39
+   }
+  ],
+  "sha256": "90f8fa2e1c45443b6b1bdaac6254690cc1afe520dcb1f58a77cf659bc52dfa3b"
+ },
+ "ev-19": {
+  "id": "ev-19",
+  "lang": "en",
+  "file": "ev-19.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 63,
+  "timeline": [
+   {
+    "text": "1.7 L capacity",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Five temperature presets",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Keep-warm mode",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$59",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Fernway",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "BrandX kettles are a fire hazard",
+    "kind": "flash",
+    "start": 63,
+    "end": 69
+   }
+  ],
+  "sha256": "34e19d9b16a7f923bbe74779d7873dd3734464b57887cdb06b1445d6c21d674e"
+ },
+ "ev-20": {
+  "id": "ev-20",
+  "lang": "en",
+  "file": "ev-20.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 20,
+  "timeline": [
+   {
+    "text": "24 g protein",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Chocolate flavor",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Mixes in seconds",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "30 servings $39",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Norwyn",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "Lose 8 kg in 2 weeks",
+    "kind": "flash",
+    "start": 20,
+    "end": 26
+   }
+  ],
+  "sha256": "29fd65ee2879d5bb7df197c4f88bb88b4e4a489467c82ef0b999cccd2b6b8a4a"
+ },
+ "ev-21": {
+  "id": "ev-21",
+  "lang": "en",
+  "file": "ev-21.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 26,
+  "timeline": [
+   {
+    "text": "Raw apple cider vinegar",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Ginger and lemon",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "One shot a morning",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "12 shots $24",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Ashby & Reed",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "Melts belly fat overnight",
+    "kind": "flash",
+    "start": 26,
+    "end": 32
+   }
+  ],
+  "sha256": "9d10905d33dbdca3bfc578980a5ddac8c162070f62ff96a95b79fff16f2d4372"
+ },
+ "ev-22": {
+  "id": "ev-22",
+  "lang": "en",
+  "file": "ev-22.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 53,
+  "timeline": [
+   {
+    "text": "Aged six years",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "45% ABV",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Charred oak barrels",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Please drink responsibly",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Pinehollow",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "Drink more, worry less",
+    "kind": "flash",
+    "start": 53,
+    "end": 59
+   }
+  ],
+  "sha256": "3a611ceeee1bc0cf38bf7c62e4b8c51dac16b07f43b4b9696dfff8d609d1e6fe"
+ },
+ "ev-23": {
+  "id": "ev-23",
+  "lang": "en",
+  "file": "ev-23.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Brightleaf Pilsner",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "4.6% ABV",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Brewed in small batches",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Please drink responsibly",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Brightleaf",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "a0d06d4a0ac1466c9a7d5a72d021b27f40b3464fd04c62ad8f02c775b551923c"
+ },
+ "ev-24": {
+  "id": "ev-24",
+  "lang": "en",
+  "file": "ev-24.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Velmora Rosé 2025",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "12.5% ABV",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Dry and fruity",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Please drink responsibly",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Velmora",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "61836781f39dedb93ae1909ef9bc84269f83dc303ecaa7e36518916d638b1f2e"
+ },
+ "ev-25": {
+  "id": "ev-25",
+  "lang": "en",
+  "file": "ev-25.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Northpeak Dry Gin",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "41% ABV",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Juniper and citrus",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Please drink responsibly",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Northpeak",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "c9b43f6fae916b8829a0c7f9a77299844c5782c283bdc756743e158d780dcc54"
+ },
+ "ev-26": {
+  "id": "ev-26",
+  "lang": "en",
+  "file": "ev-26.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Niacinamide 10%",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Fragrance free",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Dermatologist tested",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "30 ml $28",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Calla Bay",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "16f8c45b24e8552a3cc4e3e4ac497b954f22a04a4bebfe2d74c0f602201b39f7"
+ },
+ "ev-27": {
+  "id": "ev-27",
+  "lang": "en",
+  "file": "ev-27.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Salicylic acid 2%",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Lightweight gel",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Use morning and night",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "50 ml $19",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Sunfold",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "7ed158f5f81d88ac40b4f09ad4b1dbef2c68540e1f2f4286ef8c62a6bd0b0424"
+ },
+ "ev-28": {
+  "id": "ev-28",
+  "lang": "en",
+  "file": "ev-28.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Enamel-safe formula",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "14 treatments",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "No sensitivity",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$39",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Quillon",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "6b5f70b41aec461edbd24ad9d03de8b1867b3251549ca0b553d7522307fa31d2"
+ },
+ "ev-29": {
+  "id": "ev-29",
+  "lang": "en",
+  "file": "ev-29.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Tidal Oak Spiced Rum",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "The smoothest rum in the world",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "38% ABV",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Please drink responsibly",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Tidal Oak",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "6e20e25869150f74e02808bd4b41261e9c193cf46bf73a35eff8164ab9258416"
+ },
+ "ev-30": {
+  "id": "ev-30",
+  "lang": "en",
+  "file": "ev-30.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 64,
+  "timeline": [
+   {
+    "text": "Home workouts",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Meal plans included",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Track your progress",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$15 a month",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Corvo",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "Lose 5 kg in a week",
+    "kind": "flash",
+    "start": 64,
+    "end": 70
+   }
+  ],
+  "sha256": "cfd2890ae4762e5bfb23e60e6c192aa7ea0afcc9be597d0c2e0a5b5674d2b920"
+ },
+ "ev-31": {
+  "id": "ev-31",
+  "lang": "en",
+  "file": "ev-31.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Oat and ceramides",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Clears eczema in days",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Fragrance free",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "100 ml $21",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Brightleaf",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "b52db0900b4036c1c5fd1dd10594ec2e2ec00ebca9e68005637a86a97e328cfc"
+ },
+ "ev-32": {
+  "id": "ev-32",
+  "lang": "en",
+  "file": "ev-32.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 16,
+  "timeline": [
+   {
+    "text": "1500 W motor",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Crushes ice in seconds",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Self-cleaning mode",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$129",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Fernway",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "BrandX blenders break in a month",
+    "kind": "flash",
+    "start": 16,
+    "end": 22
+   }
+  ],
+  "sha256": "2c65ac50c78cf58599512bbb9be3ac44745be86130085ce6e09667a33f5444c8"
+ },
+ "ev-33": {
+  "id": "ev-33",
+  "lang": "en",
+  "file": "ev-33.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Fits a 16-inch laptop",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Water-repellent fabric",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Hidden back pocket",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$89",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Norwyn",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "b87894efbcaf418937e9f64d73db0787e2ed5122e9af46a0689d963ec0c41deb"
+ },
+ "ev-34": {
+  "id": "ev-34",
+  "lang": "en",
+  "file": "ev-34.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Organic bamboo",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Juice groove",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Easy to clean",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Set of 3 $35",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Fernway",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "349271c31f2f258d7a96a64dbc574cce8d1f3b69063297e4cd4a8f322bc3d470"
+ },
+ "ev-35": {
+  "id": "ev-35",
+  "lang": "en",
+  "file": "ev-35.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Phone, watch and earbuds",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "15 W fast charging",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Foldable stand",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$45",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Quillon",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "591bc191227dfeabab07e1778aa4f7d2ff30fd237901c41f40d771e82f6d14e3"
+ },
+ "ev-36": {
+  "id": "ev-36",
+  "lang": "en",
+  "file": "ev-36.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "100% Turkish cotton",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Quick-dry weave",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Six colors",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Bath set $49",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Calla Bay",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "3ddd40eb9ecd5a43f92bde771cbd611b3fb114a001f0c51d6654fa09e9d7401a"
+ },
+ "ev-37": {
+  "id": "ev-37",
+  "lang": "en",
+  "file": "ev-37.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Hand-poured soy wax",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "45-hour burn time",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Cedar and fig",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$26",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Velmora",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "35a5f45dc8ff2ff7ec1fc1cac5a356c1daf1246f2ad77f4e44c5ecd98657f428"
+ },
+ "ev-38": {
+  "id": "ev-38",
+  "lang": "en",
+  "file": "ev-38.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "2 to 5 players",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "45-minute games",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Best enjoyed with friends",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$39",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Pinehollow",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "8c26b2b77ad003cc6f278bd1b26a8a31fb539873c91ae6b0c970616fff941365"
+ },
+ "ev-39": {
+  "id": "ev-39",
+  "lang": "en",
+  "file": "ev-39.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Our best-ever battery",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "30% longer than our previous model",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Internal lab test, 2026",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "From $599",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Quillon",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "e7efeeef082c3f67a3fe467bee987792fcf8a2e53c56611cc4d1c91d131119d3"
+ },
+ "ev-40": {
+  "id": "ev-40",
+  "lang": "en",
+  "file": "ev-40.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Order by Wednesday",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Delivery guaranteed by Friday",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Fresh produce",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Free over $50",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Northpeak",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "e48eb489f80e20f054625e9a743df42289581bba74a9da8a2cc11e1f0c9334ea"
+ },
+ "ev-41": {
+  "id": "ev-41",
+  "lang": "en",
+  "file": "ev-41.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Lose yourself in the music",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "360° sound",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "20-hour battery",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$79",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Velmora",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "848bfc2e8f216376f4330deed5ab9d6fdab96082b72007233c14b06a0c0e574a"
+ },
+ "ev-42": {
+  "id": "ev-42",
+  "lang": "en",
+  "file": "ev-42.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Number one rule of camping: pack light",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "1.2 kg total weight",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Sets up in 3 minutes",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$219",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Norwyn",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "c5771356ccac6fdc7d311c2ded23bd84a9a50e414bd2c1299a150a4616088c9b"
+ },
+ "ev-43": {
+  "id": "ev-43",
+  "lang": "en",
+  "file": "ev-43.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Whole grain oats",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "5 g fiber per serving",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Part of a balanced breakfast",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "1 kg $6",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Sunfold",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "89ee4be7d2b88b27018a860b03068260bae3706fd656f90c68abcafe786eb538"
+ },
+ "ev-44": {
+  "id": "ev-44",
+  "lang": "en",
+  "file": "ev-44.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Keeps cold 24 hours",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Leak-proof lid",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "1 L capacity",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$32",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Norwyn",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "b791d5ff6c48b0601f6df486e3e171b10f228cd45a8127be672c0453d1258dad"
+ },
+ "ev-45": {
+  "id": "ev-45",
+  "lang": "en",
+  "file": "ev-45.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Ceramic dripper",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Glass carafe",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "50 paper filters",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$42",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Fernway",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "d6bccfe5e7cc2b371bc738c282e077c65b768fab913688223628dfd7364b801d"
+ },
+ "ev-46": {
+  "id": "ev-46",
+  "lang": "en",
+  "file": "ev-46.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Ashby & Reed Merlot 2024",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "13.5% ABV",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Pairs with roast dinners",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "Please drink responsibly",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Ashby & Reed",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "5694deb48beaf771992d5234bd23c03af46d0e2f60f5275b6e24e3ebdbcca33d"
+ },
+ "ev-47": {
+  "id": "ev-47",
+  "lang": "en",
+  "file": "ev-47.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Choose Sand or Slate",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Recycled canvas",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Inner zip pocket",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$38",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Calla Bay",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "9fff77b47db58fafaf722d65df304be45486301110356320acfc509a1d4ae1cb"
+ },
+ "ev-48": {
+  "id": "ev-48",
+  "lang": "en",
+  "file": "ev-48.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Twelve loose-leaf teas",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "Recyclable tins",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "Brewing guide inside",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "$34",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@Brightleaf",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "70de3fdcd290c43c9da3203850de60ab58aafb8a7827f46d83e7011c310682d7"
+ },
+ "zv-01": {
+  "id": "zv-01",
+  "lang": "zh",
+  "file": "zv-01.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "进门随手一挂",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "北美白蜡木",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "免工具三分钟装好",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "到手价 ¥239",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@栖木",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "6c964b5ff18cfef506ed724ed17b24a1de08cee31f264405da651c096fc3f878"
+ },
+ "zv-02": {
+  "id": "zv-02",
+  "lang": "zh",
+  "file": "zv-02.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "九蒸九晒黑芝麻",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "不加蔗糖",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "独立小包装",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "一盒 30 颗 ¥69",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@拾味",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "6473205cd7bbc2efc7358359194e653feb0342294029ab3d0c46a977b483295d"
+ },
+ "zv-03": {
+  "id": "zv-03",
+  "lang": "zh",
+  "file": "zv-03.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "行测申论双科",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "每晚 8 点直播",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "随堂练习自动批改",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "早鸟价 ¥1980",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@知行",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "fcf51dea552c53429e07e27afb1f264943fa700dfb0027441dcf6d29a478f961"
+ },
+ "zv-04": {
+  "id": "zv-04",
+  "lang": "zh",
+  "file": "zv-04.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "白鹭 S3 扫拖一体",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "自动集尘 60 天",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "避开袜子和线团",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "首发 ¥2299",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@白鹭",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "a1bc3b20a4d954ed2f0c03544d01e1ddb9608c064041705ac67427544492be87"
+ },
+ "zv-05": {
+  "id": "zv-05",
+  "lang": "zh",
+  "file": "zv-05.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "慢回弹记忆棉",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "双高度两面睡",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "可拆洗枕套",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "到手 ¥159",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@云川",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "73e44b10ccf2d3f3d945264df2bc6664b02b32e70d730591e846705c53d7ede0"
+ },
+ "zv-06": {
+  "id": "zv-06",
+  "lang": "zh",
+  "file": "zv-06.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "北岸精酿 IPA",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "酒精度 6.2%vol",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "冰镇口感更好",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "理性饮酒",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@北岸",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "59839cd1fe936f3fea4a94adb8f47cafb1cc3b0a15ba082f087781f34fe18f4d"
+ },
+ "zv-07": {
+  "id": "zv-07",
+  "lang": "zh",
+  "file": "zv-07.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "史上最护眼的台灯",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "无频闪 显色 Ra97",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "三档色温",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "¥199 包邮",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@橙光",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "2c0897c6717e15119b9a38a74e56b2b36186dfdd65e7831d5013ba6b0bae93eb"
+ },
+ "zv-08": {
+  "id": "zv-08",
+  "lang": "zh",
+  "file": "zv-08.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "7 区独立弹簧",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "透气乳胶层",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "国内顶级的睡眠体验",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "100 晚试睡",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@栖木",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "8916544c9f3cd87a98bdfad8d755ff40e9a18e9c7ef3110027c381725629c4e0"
+ },
+ "zv-09": {
+  "id": "zv-09",
+  "lang": "zh",
+  "file": "zv-09.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "睡前贴一片",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "贴了半个月，我的失眠好了",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "天然艾草",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "60 片装 ¥49",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@云栖",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "b39749d8bd9b6e028b7914783fa6ccc70b3c5b9fbada4059b42b8813c91c9b21"
+ },
+ "zv-10": {
+  "id": "zv-10",
+  "lang": "zh",
+  "file": "zv-10.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "写作业的好搭档",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "每天两粒",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "真实蓝莓果汁",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "坚持吃，近视度数降下来",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@澄心",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "b993842212cd41d9c0963f6d1aedf6674ba269dda0cbd646f91b2912edf8ef1f"
+ },
+ "zv-11": {
+  "id": "zv-11",
+  "lang": "zh",
+  "file": "zv-11.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "稳健型产品",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "随存随取",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "年化 8% 保本保息",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "详询客户经理",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@恒裕",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "01ff65fab032f5ff0edfeefe339510b203273495fd11bbcf5237482417f66f23"
+ },
+ "zv-12": {
+  "id": "zv-12",
+  "lang": "zh",
+  "file": "zv-12.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "正宗柳州风味",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "别家螺蛳粉全是科技与狠活",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "我们只用鲜笋",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "5 包 ¥39.9",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@拾味",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "0222deaf00ad21c70c379968f422d3d9c5ae3c319b75322a7936df663e37e32b"
+ },
+ "zv-13": {
+  "id": "zv-13",
+  "lang": "zh",
+  "file": "zv-13.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "除菌率 99.99%",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "厨下式安装",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "滤芯三年一换",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "以旧换新 ¥1599",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@白鹭",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "5866f89b5d1211557b99c5bdeecb42d35571d760acf6f9dbbccf7c508ff521c3"
+ },
+ "zv-14": {
+  "id": "zv-14",
+  "lang": "zh",
+  "file": "zv-14.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "桂花米酒 8%vol",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "冰镇更清爽",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "喝一杯，一天的疲惫都没了",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "理性饮酒",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@醉里",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "ec6520bd0ac5e8d8118adc27b65a90443f78023a94b5af7b060947fd115510c6"
+ },
+ "zv-15": {
+  "id": "zv-15",
+  "lang": "zh",
+  "file": "zv-15.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 34,
+  "timeline": [
+   {
+    "text": "5L 大容量",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "可视窗口",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "8 种预设菜单",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "到手 ¥299",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@橙光",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "宇宙第一好用",
+    "kind": "flash",
+    "start": 34,
+    "end": 40
+   }
+  ],
+  "sha256": "bf197b24216cdf898a509b7a6402d94f9d9b1c7c4dd32e2bc1f4814927901d8d"
+ },
+ "zv-16": {
+  "id": "zv-16",
+  "lang": "zh",
+  "file": "zv-16.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 27,
+  "timeline": [
+   {
+    "text": "90% 白鹅绒",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "防泼水面料",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "可拆卸毛领",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "到手 ¥899",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@云川",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "最保暖的羽绒服就是它",
+    "kind": "flash",
+    "start": 27,
+    "end": 33
+   }
+  ],
+  "sha256": "9fa358e41ecf96989a32f7ee8d12ab03049a47bd744b5095182764889af032e6"
+ },
+ "zv-17": {
+  "id": "zv-17",
+  "lang": "zh",
+  "file": "zv-17.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 26,
+  "timeline": [
+   {
+    "text": "大凉山黑苦荞",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "颗粒饱满",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "热水冲泡即可",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "500 克 ¥39",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@拾味",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "降血糖 降血压",
+    "kind": "flash",
+    "start": 26,
+    "end": 32
+   }
+  ],
+  "sha256": "88f9876a0f3fc2fda57527b74c7449e7660f5915191d245c2bd2f52dff4be4ea"
+ },
+ "zv-18": {
+  "id": "zv-18",
+  "lang": "zh",
+  "file": "zv-18.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 19,
+  "timeline": [
+   {
+    "text": "词汇听力两手抓",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "每周两次模考",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "老师一对一答疑",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "报名 ¥399",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@知行",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "包过！不过退费",
+    "kind": "flash",
+    "start": 19,
+    "end": 25
+   }
+  ],
+  "sha256": "5356214ce15c3713cb506c91fe22976bb64f297c8b08f1babfad4220fc9ab3fd"
+ },
+ "zv-19": {
+  "id": "zv-19",
+  "lang": "zh",
+  "file": "zv-19.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 64,
+  "timeline": [
+   {
+    "text": "总部统一配送",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "两周开业",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "选址团队协助",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "欢迎来电",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@恒裕",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "加盟稳赚 月入三万",
+    "kind": "flash",
+    "start": 64,
+    "end": 70
+   }
+  ],
+  "sha256": "ae216a4355d4b8cf24cfe2600b73278302954b2708cdecaa7e1030fdd803c10c"
+ },
+ "zv-20": {
+  "id": "zv-20",
+  "lang": "zh",
+  "file": "zv-20.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 66,
+  "timeline": [
+   {
+    "text": "每分钟 4 万次振动",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "五种清洁模式",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "续航 60 天",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "到手 ¥199",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@白鹭",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "某某牌牙刷就是垃圾",
+    "kind": "flash",
+    "start": 66,
+    "end": 72
+   }
+  ],
+  "sha256": "3e10b4111aeca15b26e0e347df8e105ffbbebf48e44157c075cd3fc738f01516"
+ },
+ "zv-21": {
+  "id": "zv-21",
+  "lang": "zh",
+  "file": "zv-21.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 70,
+  "timeline": [
+   {
+    "text": "一颗洗一桶",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "低泡易漂",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "淡淡花香",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "60 颗 ¥49",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@澄心",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "去渍力提升 300%",
+    "kind": "flash",
+    "start": 70,
+    "end": 76
+   }
+  ],
+  "sha256": "bc5a800685734c2a8949852badf47cffb69f834a981a7923b1ad134b7358ec0c"
+ },
+ "zv-22": {
+  "id": "zv-22",
+  "lang": "zh",
+  "file": "zv-22.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 57,
+  "timeline": [
+   {
+    "text": "超临界发泡中底",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "碳板加持",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "鞋面透气",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "¥699",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@北岸",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "98% 跑者推荐",
+    "kind": "flash",
+    "start": 57,
+    "end": 63
+   }
+  ],
+  "sha256": "eab97fbafafbd26e6fa404c171fb7eda5dfb2e7a14df500aa890fcdb3533fbcc"
+ },
+ "zv-23": {
+  "id": "zv-23",
+  "lang": "zh",
+  "file": "zv-23.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "醉山 52%vol",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "老友相聚",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "好酒配好菜",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "理性饮酒",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@醉山",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "0cc434f5d4b76ed225104c82b3119df0acf0bde83635a1d076cd6b2d142db0e4"
+ },
+ "zv-24": {
+  "id": "zv-24",
+  "lang": "zh",
+  "file": "zv-24.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "北岸淡色拉格",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "酒精度 4.5%vol",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "周末看球",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "理性饮酒",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@北岸",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "d347d956a8714db56e7405a902ee5fc88ba0139983be55091b26ba15a928e7b0"
+ },
+ "zv-25": {
+  "id": "zv-25",
+  "lang": "zh",
+  "file": "zv-25.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "宁夏贺兰山东麓",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "酒精度 13%vol",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "搭配牛排",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "理性饮酒",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@云川",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "e112d2c92b9704ce82886742615ecc22be69843fdaea5dfbbb3318edfea6cde3"
+ },
+ "zv-26": {
+  "id": "zv-26",
+  "lang": "zh",
+  "file": "zv-26.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "三层压胶面料",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "防水 20000mm",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "长假出游必备",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "¥699",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@山屿",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "5b26d2a814d63fbcbd59f37b3ffd5ec61fc81bfffc02f3cf22ccaaf4c00e284d"
+ },
+ "zv-27": {
+  "id": "zv-27",
+  "lang": "zh",
+  "file": "zv-27.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "奶黄流心",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "六种口味",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "中秋送礼",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "礼盒 ¥168",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@拾味",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "d3e62c3a10a3ee039b798ae7271018672cee740fb6fb7daaaa8804d7ef55c5dd"
+ },
+ "zv-28": {
+  "id": "zv-28",
+  "lang": "zh",
+  "file": "zv-28.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "Tritan 材质",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "一键弹盖",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "刻度提醒喝水",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "¥59",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@橙光",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "990ff86388d78f2646660e87aadcec1544aeff14a4b560f15e8aec0d1a26a458"
+ },
+ "zv-29": {
+  "id": "zv-29",
+  "lang": "zh",
+  "file": "zv-29.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "绍兴手工冬酿",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "最正宗的黄酒",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "温一壶",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "理性饮酒",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@醉山",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "48436c4f7203505604ffcea62c0496826596eca38c366526211209a53a8815db"
+ },
+ "zv-30": {
+  "id": "zv-30",
+  "lang": "zh",
+  "file": "zv-30.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 35,
+  "timeline": [
+   {
+    "text": "封闭式集训",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "全程班主任跟进",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "历年真题精讲",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "报名 ¥12800",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@知行",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "上岸率 95%",
+    "kind": "flash",
+    "start": 35,
+    "end": 41
+   }
+  ],
+  "sha256": "afd089efe7d85918639e59c9724c4cace9b805b94b4832a3cef181f6ab751ea9"
+ },
+ "zv-31": {
+  "id": "zv-31",
+  "lang": "zh",
+  "file": "zv-31.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "三秒速开",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "防暴雨涂层",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "全国最好的帐篷",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "¥459",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@山屿",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "3d4fd704e765d0653288e1efb2206907dd6b93856059be21ef8f5cff332f7463"
+ },
+ "zv-32": {
+  "id": "zv-32",
+  "lang": "zh",
+  "file": "zv-32.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": 40,
+  "timeline": [
+   {
+    "text": "侧柏叶生姜配方",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "无硅油",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "温和清洁",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "500ml ¥79",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@云栖",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   },
+   {
+    "text": "治脱发 7 天见效",
+    "kind": "flash",
+    "start": 40,
+    "end": 46
+   }
+  ],
+  "sha256": "4cab18281e04b09d45a156b6ee5be5579b1ac0c0c4ee6a7a7c0005ae6a5cfa0b"
+ },
+ "zv-33": {
+  "id": "zv-33",
+  "lang": "zh",
+  "file": "zv-33.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "可叠放收纳箱",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "透明可视",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "底部带滑轮",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "三只装 ¥89",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@栖木",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "892d39f34d309f92cec5a33c9591466bebd7d7465f19ac88b88064b9b24c3a18"
+ },
+ "zv-34": {
+  "id": "zv-34",
+  "lang": "zh",
+  "file": "zv-34.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "云南保山小粒",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "中深烘焙",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "独立挂耳包",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "20 包 ¥59",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@拾味",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "6162d4ba7522c06a42de94d42c80840c680f546a7254d12233f953e2528df714"
+ },
+ "zv-35": {
+  "id": "zv-35",
+  "lang": "zh",
+  "file": "zv-35.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "半入耳设计",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "单次续航 6 小时",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "通透模式",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "到手 ¥229",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@白鹭",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "462590ca576317d9b39e9854b7c7f7a098d7a21605a10a8f6061242a6275ffc0"
+ },
+ "zv-36": {
+  "id": "zv-36",
+  "lang": "zh",
+  "file": "zv-36.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "三层分格",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "304 不锈钢内胆",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "保温 6 小时",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "¥119",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@橙光",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "6d842fc2b612d464c3784c3668c2ebe95d2656f4506cb0889dc5ab16e6b64f6d"
+ },
+ "zv-37": {
+  "id": "zv-37",
+  "lang": "zh",
+  "file": "zv-37.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "60 支长绒棉",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "亲肤不起球",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "四种颜色",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "1.8 米床 ¥329",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@云川",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "8875962c54af32504a3e1fb5adf0ad242740f1dba2d0a2dbb2a0ec6a6e1f8428"
+ },
+ "zv-38": {
+  "id": "zv-38",
+  "lang": "zh",
+  "file": "zv-38.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "第一步：热锅凉油",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "最佳火候：中火两分钟",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "治愈系家常菜",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "铸铁锅 ¥259",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@拾味",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "bdb3ba06986de8485d643fb3813ea15652f5e2475b53111bafe319f2dc3c61e8"
+ },
+ "zv-39": {
+  "id": "zv-39",
+  "lang": "zh",
+  "file": "zv-39.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "日常保洁 4 小时",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "顾客第一，服务至上",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "工具自带",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "首单 ¥168",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@白鹭",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "27282d6269b2bd0ac4bd17e4d56bd1a1aa743110fe81a3f4325f21a942cdb9f6"
+ },
+ "zv-40": {
+  "id": "zv-40",
+  "lang": "zh",
+  "file": "zv-40.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "天猫 2026 年 10 月洗衣液类目销量第一",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "数据来源：天猫生意参谋",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "低泡易漂",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "3kg ¥59",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@澄心",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "c1df925e5142130923ecca5d7e40fa9c847d21b9dd94ddbb9df5daad9580a6d2"
+ },
+ "zv-41": {
+  "id": "zv-41",
+  "lang": "zh",
+  "file": "zv-41.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "新一代发泡中底",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "缓震比上一代提升 20%",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "检测报告编号 BA-2026-031",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "¥799",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@北岸",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "ccb0e8bf357f960fb9832fe8445359eddec0090d71eaaf5c9dac1f064d0afeb6"
+ },
+ "zv-42": {
+  "id": "zv-42",
+  "lang": "zh",
+  "file": "zv-42.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "历史年化 3.2%",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "过往业绩不代表未来表现",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "理财有风险，投资需谨慎",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "详询客户经理",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@恒裕",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "44afa890d17b229c73e0b91fb52024d1b09b4f87aa0d02a301e96471ee6bb1de"
+ },
+ "zv-43": {
+  "id": "zv-43",
+  "lang": "zh",
+  "file": "zv-43.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "每周三次课",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "专业教练带跑",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "陪你跑完人生第一个全马",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "报名 ¥599",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@云川",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "882fda140e9b57046afae9d0d789c96ca57efe139d2bb73106731d78d23e2330"
+ },
+ "zv-44": {
+  "id": "zv-44",
+  "lang": "zh",
+  "file": "zv-44.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "冷水也能泡",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "三分钟出味",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "无糖",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "20 包 ¥45",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@拾味",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "d356100c4a426e45b79652c8c867c05e436abc4c7a340bca2d33c8efa39d2ce6"
+ },
+ "zv-45": {
+  "id": "zv-45",
+  "lang": "zh",
+  "file": "zv-45.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "大容量 1.5 升",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "防漏锁扣",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "刻度提醒",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "¥69",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@橙光",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "3c482ba23c767b59a05c58ec27a028a11ce678f5bf35cf7da800fcc6405ea9de"
+ },
+ "zv-46": {
+  "id": "zv-46",
+  "lang": "zh",
+  "file": "zv-46.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "醉山 42%vol",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "新年礼盒",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "送长辈的心意",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "理性饮酒",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@醉山",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "2ccad2b0f777b00e5ef021e2c75dabd22efd35203cbdbca5660a064bad45d51a"
+ },
+ "zv-47": {
+  "id": "zv-47",
+  "lang": "zh",
+  "file": "zv-47.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "坚果肉脯八件套",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "红红火火过大年",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "送礼有面子",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "礼盒 ¥199",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@拾味",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "778c6f3096becf9abf4d26c9aae060c12503b3ea41fb6497138c0225461c2024"
+ },
+ "zv-48": {
+  "id": "zv-48",
+  "lang": "zh",
+  "file": "zv-48.mp4",
+  "fps": 12,
+  "frames": 96,
+  "width": 480,
+  "height": 854,
+  "flash_start": null,
+  "timeline": [
+   {
+    "text": "不加一滴水",
+    "kind": "subtitle",
+    "shot": 1,
+    "start": 0,
+    "end": 24
+   },
+   {
+    "text": "冷链直送",
+    "kind": "subtitle",
+    "shot": 2,
+    "start": 24,
+    "end": 48
+   },
+   {
+    "text": "早餐来一杯",
+    "kind": "subtitle",
+    "shot": 3,
+    "start": 48,
+    "end": 72
+   },
+   {
+    "text": "1L ¥26",
+    "kind": "subtitle",
+    "shot": 4,
+    "start": 72,
+    "end": 96
+   },
+   {
+    "text": "@澄心",
+    "kind": "handle",
+    "start": 0,
+    "end": 96
+   }
+  ],
+  "sha256": "bbb7f2abb2358231c3746888a4b725f1c466ee56f2ea509f4d79f0159e3c28a5"
+ }
+}

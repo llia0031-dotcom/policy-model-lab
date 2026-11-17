@@ -1,0 +1,1382 @@
+{
+  "claims": [
+    {
+      "id": "s0-1",
+      "text": "视觉、多模态理解与内容安全识别：2025 年 11 月至 2026 年 11 月进展综述",
+      "evidence": [
+        {
+          "source": "arxiv-2511.16719.md",
+          "quote": "First version: 2025-11-20"
+        },
+        {
+          "source": "arxiv-2511.16719.md",
+          "quote": "Fetched: 2026-11-17 via export.arxiv.org API"
+        }
+      ]
+    },
+    {
+      "id": "s0-2",
+      "text": "范围：2025 年 11 月至 2026 年 11 月公开的计算机视觉、多模态理解和内容安全识别工作，以及它们对短视频与广告内容识别、自动化数据生产的意义。",
+      "evidence": [
+        {
+          "source": "arxiv-2511.16719.md",
+          "quote": "First version: 2025-11-20"
+        },
+        {
+          "source": "arxiv-2511.16719.md",
+          "quote": "Fetched: 2026-11-17 via export.arxiv.org API"
+        }
+      ]
+    },
+    {
+      "id": "s0-3",
+      "text": "SigLIP-HD 让中等分辨率的特征去模仿高分辨率的特征，推理预算不变，光学字符识别（OCR）类任务提升最明显；OneVision-Encoder 只处理信息量高的 3.1%–25% 区域；SAM 3 用名词短语或示例图做提示，就能在图像和视频里分割并跟踪所有匹配的目标。",
+      "evidence": [
+        {
+          "source": "arxiv-2602.08683.md",
+          "quote": "focus exclusively on the 3.1%-25% of regions rich in signal entropy"
+        },
+        {
+          "source": "arxiv-2511.16719.md",
+          "quote": "SAM 3 doubles the accuracy of existing systems in both image and video PCS"
+        }
+      ]
+    },
+    {
+      "id": "s0-4",
+      "text": "Qwen3-VL 有 2B 和 4B 稠密版本，Gemma 4 最小 2.3B，本文列出的 2B–4B 检查点大多采用 Apache-2.0、不用申请即可下载。",
+      "evidence": [
+        {
+          "source": "arxiv-2511.21631.md",
+          "quote": "The model family includes both dense (2B/4B/8B/32B) and mixture-of-experts (30B-A3B/235B-A22B) variants"
+        },
+        {
+          "source": "arxiv-2607.02770.md",
+          "quote": "We introduce Gemma 4, a new generation of open-weight, natively multimodal language models in the Gemma model family"
+        },
+        {
+          "source": "arxiv-2607.02770.md",
+          "quote": "ranging from 2.3B to 31B parameters"
+        },
+        {
+          "source": "web-HF.md",
+          "quote": "图文 / 视频模型（2B–4B 档）"
+        }
+      ]
+    },
+    {
+      "id": "s0-5",
+      "text": "SingGuard 在运行时读入自然语言规则并逐条核对，指出触发了哪一条；FlexGuard 输出连续风险分，让各平台按自己的严格程度设阈值；ResponseGuard 的 2B 单次前向守卫在回复有害性检测上胜过较新的 3B 推理守卫，耗时约低 150 倍。",
+      "evidence": [
+        {
+          "source": "arxiv-2607.21401.md",
+          "quote": "our 2B ResponseGuard outperforms a recent 3B reasoning-based vision-language guard on response harmfulness detection, without any reasoning and at about 150 times lower time cost"
+        }
+      ]
+    },
+    {
+      "id": "s0-6",
+      "text": "短视频广告审核已有专门方法，但截至 2026-11-17，还没有找到可公开下载、专门针对短视频广告政策的基准。",
+      "evidence": [
+        {
+          "source": "web-C20.md",
+          "quote": "2026-11-17 打开"
+        }
+      ]
+    },
+    {
+      "id": "s0-7",
+      "text": "在商品视频广告的评审实验中，看得到模型判官（judge）提示的评审在 60 条广告上把 58% 的镜头标为商品有误，隐藏提示后看同样广告的两位评审只标出 26%；在 278K 条 TikTok 评论上，大模型标注训练出的分类器以约十分之一的成本胜过人工标注监督的分类器，评估仍要靠人。",
+      "evidence": [
+        {
+          "source": "arxiv-2611.13178.md",
+          "quote": "On 60 of these ads, they marked the product wrong on 58% of scenes, far more than the 26% marked by two reviewers who later saw the ads with the judges hidden"
+        },
+        {
+          "source": "arxiv-2604.13899.md",
+          "quote": "training supervised hate speech classifiers on a new dataset of 278K German political TikTok comments, comparing human and LLM annotation under matched conditions"
+        },
+        {
+          "source": "arxiv-2604.13899.md",
+          "quote": "LLM annotation at scale outperforms human-supervised classifiers at roughly one-tenth the cost, for both a closed-source (GPT-5.2) and an open-weight (Qwen3.5-122B-A10B) LLM, and the advantage is robust under soft-label evaluation"
+        }
+      ]
+    },
+    {
+      "id": "s0-8",
+      "text": "只改训练数据、不改架构和算力，视觉语言模型（vision-language model，VLM）在 20 个公开基准上平均提高 11.7 个百分点。",
+      "evidence": [
+        {
+          "source": "arxiv-2605.11405.md",
+          "quote": "lifts performance by +11.7pp on average across 20 public VLM benchmarks (spanning grounding, VQA, OCR/documents, captioning, spatial/3D, counting, charts, math, brand-ID, and multi-image reasoning)"
+        }
+      ]
+    },
+    {
+      "id": "s0-9",
+      "text": "Google 称超过 99% 的违规广告在投放前被拦下，错误的广告主封禁减少 80%；TikTok 称自动化系统（automated systems）在无人工复核的情况下处理了 94.1% 的违规内容；Meta 称大模型执法平均比人少犯 13% 的错误。",
+      "evidence": [
+        {
+          "source": "web-E3.md",
+          "quote": "Our systems caught over 99% of policy-violating ads before they ever served"
+        },
+        {
+          "source": "web-E3.md",
+          "quote": "helped us reduce incorrect advertiser suspensions by 80% last year"
+        },
+        {
+          "source": "web-E4.md",
+          "quote": "automated systems actioned 94.1% of violating content without human review."
+        },
+        {
+          "source": "web-E2.md",
+          "quote": "on average LLMs make 13% fewer mistakes than humans when enforcing against violating content"
+        }
+      ]
+    },
+    {
+      "id": "s1-1",
+      "text": "所有 arXiv 论文的编号、首版日期和摘要都在 2026-11-17 通过 arXiv 官方接口（export.arxiv.org API）取回，正文只写摘要里有的内容。",
+      "evidence": [
+        {
+          "source": "arxiv-2511.16719.md",
+          "quote": "Fetched: 2026-11-17 via export.arxiv.org API"
+        }
+      ]
+    },
+    {
+      "id": "s2-1",
+      "text": "2025 年 2 月发布的 SigLIP 2 是常用的参照：它在 SigLIP 的图文对比目标上加入基于描述生成的预训练、自监督损失和在线数据筛选，定位和稠密预测明显变好，并发布 ViT-B（86M）、L（303M）、So400m（400M）和 g（1B）四档视觉编码器（vision encoder）。",
+      "evidence": [
+        {
+          "source": "arxiv-2502.14786.md",
+          "quote": "First version: 2025-02-20"
+        },
+        {
+          "source": "arxiv-2502.14786.md",
+          "quote": "we release model checkpoints at four sizes: ViT-B (86M), L (303M), So400m (400M), and g (1B)"
+        }
+      ]
+    },
+    {
+      "id": "s2-2",
+      "text": "OneVision-Encoder 借用视频编解码器（codec）的思路，只处理信息熵高的 3.1%–25% 区域；接入大模型后，它用更少的视觉 token（模型处理的最小单位）和预训练数据，在 16 个图像、视频和文档基准上胜过 Qwen3-ViT 和 SigLIP2，视频任务平均比 Qwen3-ViT 高 4.1%。",
+      "evidence": [
+        {
+          "source": "arxiv-2602.08683.md",
+          "quote": "focus exclusively on the 3.1%-25% of regions rich in signal entropy"
+        },
+        {
+          "source": "arxiv-2602.08683.md",
+          "quote": "it consistently outperforms strong vision backbones such as Qwen3-ViT and SigLIP2 across 16 image, video, and document understanding benchmarks, despite using substantially fewer visual tokens and pretraining data"
+        },
+        {
+          "source": "arxiv-2602.08683.md",
+          "quote": "on video understanding tasks, OV-Encoder achieves an average improvement of 4.1% over Qwen3-ViT"
+        }
+      ]
+    },
+    {
+      "id": "s2-3",
+      "text": "它的数据引擎产出了 4M 个独特概念标签，其中包括困难负例（hard negative，看着像但不是的样本），在图像和视频的概念分割上把现有系统的准确率翻倍。",
+      "evidence": [
+        {
+          "source": "arxiv-2511.16719.md",
+          "quote": "we build a scalable data engine that produces a high-quality dataset with 4M unique concept labels, including hard negatives, across images and videos"
+        },
+        {
+          "source": "arxiv-2511.16719.md",
+          "quote": "SAM 3 doubles the accuracy of existing systems in both image and video PCS"
+        }
+      ]
+    },
+    {
+      "id": "s2-4",
+      "text": "代码仓库写明模型有 848M 参数，在包含 270K 个独特概念的 SA-Co 基准上达到人类水平的 75%–80%；2026 年 3 月 27 日又发布了 SAM 3.1 Object Multiplex。",
+      "evidence": [
+        {
+          "source": "web-A3.md",
+          "quote": "SAM 3 consists of a detector and a tracker that share a vision encoder. It has 848M parameters."
+        },
+        {
+          "source": "web-A3.md",
+          "quote": "It achieves 75-80% of human performance on our new SA-CO benchmark which contains 270K unique concepts, over 50 times more than existing benchmarks."
+        },
+        {
+          "source": "web-A3.md",
+          "quote": "03/27/2026 -- SAM 3.1 Object Multiplex is released."
+        }
+      ]
+    },
+    {
+      "id": "s2-5",
+      "text": "以 Swin-T 为视觉编码器时，Qwen2-0.5B 加 LED 让 GroundingDINO 在 OmniLabel 上提高 3.82%，额外计算量（以 GFLOPs 计）只多 8.7%，换更大的视觉主干后提高到 6.22%。",
+      "evidence": [
+        {
+          "source": "arxiv-2503.13794.md",
+          "quote": "With Swin-T as the vision encoder, Qwen2-0.5B + LED lifts GroundingDINO by 3.82 % on OmniLabel at just 8.7 % extra GFLOPs, and a larger vision backbone pushes the improvement to 6.22 %"
+        }
+      ]
+    },
+    {
+      "id": "s3-1",
+      "text": "Qwen3-VL | 稠密 2B/4B/8B/32B，混合专家（MoE）30B-A3B/235B-A22B | 原生支持最长 256K token 的图文视频交错上下文；视频改用文字时间戳对齐，时间定位更准",
+      "evidence": [
+        {
+          "source": "arxiv-2511.21631.md",
+          "quote": "It natively supports interleaved contexts of up to 256K tokens"
+        },
+        {
+          "source": "arxiv-2511.21631.md",
+          "quote": "The model family includes both dense (2B/4B/8B/32B) and mixture-of-experts (30B-A3B/235B-A22B) variants"
+        }
+      ]
+    },
+    {
+      "id": "s3-2",
+      "text": "Qwen3.5 | 首个开放权重模型 Qwen3.5-397B-A17B，总参数 3970 亿，每次前向激活 170 亿；小尺寸见下文的表 | 语言和方言支持从 119 种扩到 201 种",
+      "evidence": [
+        {
+          "source": "web-B3.md",
+          "quote": "introducing the open-weight of the first model in the Qwen3.5 series, namely Qwen3.5-397B-A17B."
+        },
+        {
+          "source": "web-B3.md",
+          "quote": "although it comprises 397 billion total parameters, just 17 billion are activated per forward pass"
+        },
+        {
+          "source": "web-B3.md",
+          "quote": "We have also expanded our language and dialect support from 119 to 201"
+        }
+      ]
+    },
+    {
+      "id": "s3-3",
+      "text": "GLM-4.1V-Thinking / GLM-4.5V / GLM-4.6V | 开源 GLM-4.1V-9B-Thinking 和 GLM-4.5V，另有 GLM-4.6V 系列 | 课程采样强化学习（Reinforcement Learning with Curriculum Sampling，RLCS）；GLM-4.5V 在 42 个公开基准上评测；GLM-4.6V 原生调用工具，上下文 128K",
+      "evidence": [
+        {
+          "source": "arxiv-2507.01006.md",
+          "quote": "We present GLM-4.1V-Thinking, GLM-4.5V, and GLM-4.6V"
+        },
+        {
+          "source": "arxiv-2507.01006.md",
+          "quote": "In a comprehensive evaluation across 42 public benchmarks, GLM-4.5V achieves state-of-the-art performance on nearly all tasks among open-source models of similar size"
+        },
+        {
+          "source": "arxiv-2507.01006.md",
+          "quote": "We open-source both GLM-4.1V-9B-Thinking and GLM-4.5V"
+        },
+        {
+          "source": "arxiv-2507.01006.md",
+          "quote": "We further introduce the GLM-4.6V series, open-source multimodal models with native tool use and a 128K context window"
+        }
+      ]
+    },
+    {
+      "id": "s3-4",
+      "text": "Gemma 4 | 2.3B 到 31B，有稠密和 MoE | 所有尺寸都改进了视觉和音频编码器；12B 是不带编码器、直接读原始音频和图像块的统一架构；有思考模式",
+      "evidence": [
+        {
+          "source": "arxiv-2607.02770.md",
+          "quote": "We introduce Gemma 4, a new generation of open-weight, natively multimodal language models in the Gemma model family"
+        },
+        {
+          "source": "arxiv-2607.02770.md",
+          "quote": "ranging from 2.3B to 31B parameters"
+        },
+        {
+          "source": "arxiv-2607.02770.md",
+          "quote": "we propose a unified, encoder-free architecture for our 12B model, which ingests raw audio and image patches"
+        }
+      ]
+    },
+    {
+      "id": "s3-5",
+      "text": "Qwen3-Omni | Qwen3-Omni-30B-A3B 系列，Apache 2.0 | 文本、图像、音频、视频统一在单个模型里；在 36 个音频和音视频基准中，32 个达到开源最佳；冷启动时端到端首包延迟理论值 234 ms",
+      "evidence": [
+        {
+          "source": "arxiv-2509.17765.md",
+          "quote": "Across 36 audio and audio-visual benchmarks, Qwen3-Omni achieves open-source SOTA on 32 benchmarks and overall SOTA on 22"
+        },
+        {
+          "source": "arxiv-2509.17765.md",
+          "quote": "In cold-start settings, Qwen3-Omni achieves a theoretical end-to-end first-packet latency of 234 ms"
+        },
+        {
+          "source": "arxiv-2509.17765.md",
+          "quote": "Qwen3-Omni-30B-A3B, Qwen3-Omni-30B-A3B-Thinking, and Qwen3-Omni-30B-A3B-Captioner are publicly released under the Apache 2.0 license"
+        }
+      ]
+    },
+    {
+      "id": "s3-6",
+      "text": "InternVL3.5 | 最大 InternVL3.5-241B-A28B | 级联强化学习；按需调整视觉分辨率的路由器（ViR）；推理速度比 InternVL3 快 4.05 倍",
+      "evidence": [
+        {
+          "source": "arxiv-2508.18265.md",
+          "quote": "Notably, our largest model, i.e., InternVL3.5-241B-A28B, attains state-of-the-art results among open-source MLLMs"
+        },
+        {
+          "source": "arxiv-2508.18265.md",
+          "quote": "a 4.05$\\times$ inference speedup compared to its predecessor, i.e., InternVL3"
+        }
+      ]
+    },
+    {
+      "id": "s3-7",
+      "text": "数据由 12 名标注员和 50 名独立审核者完成，投入 3,300 人时、最多 5 轮质检。",
+      "evidence": [
+        {
+          "source": "arxiv-2604.05015.md",
+          "quote": "involving 12 annotators and 50 independent reviewers. Backed by \\textbf{3,300 human-hours} and up to \\textbf{5 rounds} of quality assurance"
+        }
+      ]
+    },
+    {
+      "id": "s3-8",
+      "text": "更小的 GLM-4.1V-9B-Thinking 在 29 个基准上超过大得多的 Qwen2.5-VL-72B。",
+      "evidence": [
+        {
+          "source": "arxiv-2507.01006.md",
+          "quote": "the smaller GLM-4.1V-9B-Thinking remains highly competitive-achieving superior results to the much larger Qwen2.5-VL-72B on 29 benchmarks"
+        }
+      ]
+    },
+    {
+      "id": "s3-9",
+      "text": "8 GB 显存笔记本可跑的 2B–4B 开放检查点",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "对照 8 GB 显存的笔记本显卡"
+        },
+        {
+          "source": "web-HF.md",
+          "quote": "图文 / 视频模型（2B–4B 档）"
+        }
+      ]
+    },
+    {
+      "id": "s3-10",
+      "text": "许可证和门控于 2026-11-17 在 Hugging Face 上核对；显存一栏是按权重加 16 帧输入的估算，bf16 指不量化、直接用半精度权重运行。",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "2026-11-17 用 https://huggingface.co/api/models/<id>"
+        },
+        {
+          "source": "web-HF.md",
+          "quote": "显存一栏是估算，不是模型卡数字：权重大小加 16 帧 448px 输入约 1.5 GB"
+        }
+      ]
+    },
+    {
+      "id": "s3-11",
+      "text": "检查点 | 许可证 | 门控 | 原生视频输入 | 8 GB 显存（估算）",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "对照 8 GB 显存的笔记本显卡"
+        }
+      ]
+    },
+    {
+      "id": "s3-12",
+      "text": "Qwen/Qwen3-VL-2B-Instruct | Apache-2.0 | 否 | 是 | bf16 可直接跑",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "| Qwen/Qwen3-VL-2B-Instruct | apache-2.0 | False | 2025-10-19 | 是 | bf16 可以 |"
+        }
+      ]
+    },
+    {
+      "id": "s3-13",
+      "text": "Qwen/Qwen3-VL-4B-Instruct | Apache-2.0 | 否 | 是 | 要 4-bit 量化",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "| Qwen/Qwen3-VL-4B-Instruct | apache-2.0 | False | 2025-10-11 | 是 | 要 4-bit 量化 |"
+        }
+      ]
+    },
+    {
+      "id": "s3-14",
+      "text": "Qwen/Qwen3.5-2B | Apache-2.0 | 否 | 是 | bf16 可直接跑",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "| Qwen/Qwen3.5-2B | apache-2.0 | False | 2026-02-28 | 是 | bf16 可以 |"
+        }
+      ]
+    },
+    {
+      "id": "s3-15",
+      "text": "Qwen/Qwen3.5-4B | Apache-2.0 | 否 | 是 | 要 4-bit 量化",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "| Qwen/Qwen3.5-4B | apache-2.0 | False | 2026-02-27 | 是 | 要 4-bit 量化 |"
+        }
+      ]
+    },
+    {
+      "id": "s3-16",
+      "text": "OpenGVLab/InternVL3_5-2B-HF | Apache-2.0 | 否 | 是 | bf16 可直接跑",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "| OpenGVLab/InternVL3_5-2B-HF | apache-2.0 | False | 2025-08-29 | 是 | bf16 可以 |"
+        }
+      ]
+    },
+    {
+      "id": "s3-17",
+      "text": "OpenGVLab/InternVL3_5-4B-HF | Apache-2.0 | 否 | 是 | 要 4-bit 量化",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "| OpenGVLab/InternVL3_5-4B-HF | apache-2.0 | False | 2025-08-29 | 是 | 要 4-bit 量化 |"
+        }
+      ]
+    },
+    {
+      "id": "s3-18",
+      "text": "HuggingFaceTB/SmolVLM2-2.2B-Instruct | Apache-2.0 | 否 | 是 | bf16 可直接跑",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "| HuggingFaceTB/SmolVLM2-2.2B-Instruct | apache-2.0 | False | 2025-02-08 | 是 | bf16 可以 |"
+        }
+      ]
+    },
+    {
+      "id": "s3-19",
+      "text": "google/gemma-4-E2B-it（有效 2.3B，含嵌入 5.1B） | Apache-2.0 | 否 | 按帧处理，最长 60 秒，每秒 1 帧 | 要 4-bit 量化",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "| google/gemma-4-E2B-it | apache-2.0 | False | 2026-03-02 | 是，按帧处理 | 要 4-bit 量化 |"
+        },
+        {
+          "source": "web-HF.md",
+          "quote": "2.3B effective <br> (5.1B with embeddings)"
+        },
+        {
+          "source": "web-HF.md",
+          "quote": "Video supports a maximum of 60 seconds assuming the images are processed at one frame per second."
+        }
+      ]
+    },
+    {
+      "id": "s3-20",
+      "text": "allenai/Molmo2-4B | Apache-2.0 | 否 | 是 | 要 4-bit 量化",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "| allenai/Molmo2-4B | apache-2.0 | False | 2025-12-14 | 是 | 要 4-bit 量化 |"
+        }
+      ]
+    },
+    {
+      "id": "s3-21",
+      "text": "Qwen/Qwen2.5-VL-3B-Instruct | qwen-research | 否 | 是 | —",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "| Qwen/Qwen2.5-VL-3B-Instruct | other（license_name: qwen-research） | False | 2025-01-26 | 是 | |"
+        }
+      ]
+    },
+    {
+      "id": "s3-22",
+      "text": "google/gemma-3-4b-it | Gemma | 是，人工审批 | 只收帧 | —",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "| google/gemma-3-4b-it | gemma | manual | 2025-02-20 | 只收帧 | |"
+        }
+      ]
+    },
+    {
+      "id": "s4-1",
+      "text": "ShieldGemma 2 是基于 Gemma 3 的 4B 图像审核模型，覆盖色情、暴力血腥和危险内容等关键类别；LlavaGuard 已经允许自定义安全分类，模型从 0.5B 到 7B，训练数据由专家给每张图标注安全等级、类别和理由；GuardReasoner-VL 用在线强化学习让守卫先推理再判断，训练语料有 123K 个样本和 631K 个推理步，平均 F1（兼顾查准和查全的分数）比次优方法高 19.27%。",
+      "evidence": [
+        {
+          "source": "arxiv-2504.01081.md",
+          "quote": "We introduce ShieldGemma 2, a 4B parameter image content moderation model built on Gemma 3."
+        },
+        {
+          "source": "arxiv-2406.05113.md",
+          "quote": "The resulting LlavaGuard models, ranging from 0.5B to 7B, serve as a versatile tool for evaluating the safety compliance of visual content against flexible policies."
+        },
+        {
+          "source": "arxiv-2505.11049.md",
+          "quote": "we construct GuardReasoner-VLTrain, a reasoning corpus with 123K samples and 631K reasoning steps, spanning text, image, and text-image inputs"
+        },
+        {
+          "source": "arxiv-2505.11049.md",
+          "quote": "it surpasses the runner-up by 19.27% F1 score on average"
+        }
+      ]
+    },
+    {
+      "id": "s4-2",
+      "text": "gpt-oss-safeguard 按使用者自己写的安全政策给文字内容分类，推理强度可以按低、中、高调节；gpt-oss-safeguard-20b 总参数 21B、激活 3.6B，可放进 16GB 显存的 GPU，采用 Apache 2.0 许可证。",
+      "evidence": [
+        {
+          "source": "web-C1b.md",
+          "quote": "With these models, you can classify text content based on safety policies that you provide and perform a suite of foundational safety tasks."
+        },
+        {
+          "source": "web-C1b.md",
+          "quote": "This model `gpt-oss-safeguard-20b` (21B parameters with 3.6B active parameters) fits into GPUs with 16GB of VRAM."
+        },
+        {
+          "source": "web-C1b.md",
+          "quote": "Permissive Apache 2.0 license: Build freely without copyleft restrictions or patent risk"
+        }
+      ]
+    },
+    {
+      "id": "s4-3",
+      "text": "GuardReasoner-Omni 覆盖文本、图像、视频和音频四种模态，训练语料有 181k 个样本；先用监督微调（supervised fine-tuning，SFT）教会它先推理再判断，再用只奖励“简洁且正确”的强化学习压掉冗余生成，发布 3B 和 7B 版本。",
+      "evidence": [
+        {
+          "source": "arxiv-2602.03328.md",
+          "quote": "we construct a comprehensive training corpus comprising 181k samples spanning these four modalities"
+        },
+        {
+          "source": "arxiv-2602.03328.md",
+          "quote": "We release a suite of models scaled at 3B and 7B parameters"
+        }
+      ]
+    },
+    {
+      "id": "s4-4",
+      "text": "配套的 SingGuard-Bench 有 80 多种细分风险，包括“每种模态单看无害、合起来才有害”的跨模态组合风险；SingGuard 在 6 个基准家族（35 个数据集）上的平均 F1 都是最好，规则在运行时变化后，政策遵循准确率从 0.6465 提到 0.7415。",
+      "evidence": [
+        {
+          "source": "arxiv-2606.22873.md",
+          "quote": "examples spanning 80+ fine-grained risk types across multimodal QA, adversarial attack, and dynamic-rule evaluation settings"
+        },
+        {
+          "source": "arxiv-2606.22873.md",
+          "quote": "Across six benchmark families (35 datasets), SingGuard achieves state-of-the-art average F1 in every family"
+        },
+        {
+          "source": "arxiv-2606.22873.md",
+          "quote": "Dynamic-rule evaluation further shows improved policy-following accuracy from 0.6465 to 0.7415 under runtime policy shifts"
+        }
+      ]
+    },
+    {
+      "id": "s4-5",
+      "text": "ResponseGuard 从请求、回复和图像的一个池化表示里一次前向读出判断。",
+      "evidence": [
+        {
+          "source": "arxiv-2607.21401.md",
+          "quote": "ResponseGuard reads a harmful verdict from a single pooled representation of the request, the response, and the image in one forward pass"
+        }
+      ]
+    },
+    {
+      "id": "s4-6",
+      "text": "在常用的多模态守卫基准上，2B 的 ResponseGuard 在回复有害性检测上胜过较新的 3B 推理守卫，而且不做推理、耗时约低 150 倍；在请求有害性上推理守卫仍整体领先，两条赛道剩下的差距都集中在只有图像的单元格。",
+      "evidence": [
+        {
+          "source": "arxiv-2607.21401.md",
+          "quote": "our 2B ResponseGuard outperforms a recent 3B reasoning-based vision-language guard on response harmfulness detection, without any reasoning and at about 150 times lower time cost"
+        },
+        {
+          "source": "arxiv-2607.21401.md",
+          "quote": "On request harmfulness the reasoning guard retains an overall lead, and the remaining gap on both tracks sits on the image-only cells"
+        }
+      ]
+    },
+    {
+      "id": "s4-7",
+      "text": "开放权重方面，GuardReasoner-VL-3B 采用 Apache-2.0、不用申请，ShieldGemma 2 需要人工审批，GuardReasoner-Omni-3B 的模型页没有许可证标签，它的底座 Qwen2.5-Omni-3B 是 qwen-research 许可。",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "| yueliu1999/GuardReasoner-VL-3B | apache-2.0 | False | |"
+        },
+        {
+          "source": "web-HF.md",
+          "quote": "| google/shieldgemma-2-4b-it | gemma | manual | |"
+        },
+        {
+          "source": "web-HF.md",
+          "quote": "| zhu-thu-22/GuardReasoner-Omni-3B | 没有 license 标签 | False | base_model: Qwen/Qwen2.5-Omni-3B（license_name: qwen-research） |"
+        },
+        {
+          "source": "arxiv-2504.01081.md",
+          "quote": "We introduce ShieldGemma 2, a 4B parameter image content moderation model built on Gemma 3."
+        }
+      ]
+    },
+    {
+      "id": "s4-8",
+      "text": "它专门针对短视频广告的合规审核，共 3,480 条短视频广告，其中 2,280 条用于数据漂移场景（内容分布快速变化），另外 1,200 条用于标签漂移场景（审核标准随时间细化，类别边界随之移动）。",
+      "evidence": [
+        {
+          "source": "web-C20.md",
+          "quote": "The ADB dataset consists of 3,480 short video ads, including 2,280 examples labeled under data drift scenarios, designed to evaluate the generalization capabilities of VLMs under rapidly shifting content distributions."
+        },
+        {
+          "source": "web-C20.md",
+          "quote": "An additional 1,200 examples represent label drift scenarios, aimed at assessing VLMs' abilities in instruction following and fine-grained semantic understanding under varying auditing standards."
+        }
+      ]
+    },
+    {
+      "id": "s4-9",
+      "text": "在 16 个开源 VLM 上的实验显示，模型在细粒度语义和适应变化的指令上表现一般；论文写明数据集将会公开。",
+      "evidence": [
+        {
+          "source": "web-C20.md",
+          "quote": "Through extensive experiments on 16 open-source VLMs, we find that current models perform moderately in short video advertising contexts, particularly in handling fine-grained semantics and adapting to shifting instructions."
+        },
+        {
+          "source": "web-C20.md",
+          "quote": "Our dataset will be made publicly available."
+        }
+      ]
+    },
+    {
+      "id": "s4-10",
+      "text": "在误导性广告检测上，SJR 的非误导类（即合规广告）F1 比零样本思维链基线相对提高 23.6%；完全没有真实违规样本、正例全部合成的变体，违规类 F1 与全量数据模型的相对差距在 0.2% 以内。",
+      "evidence": [
+        {
+          "source": "arxiv-2609.22094.md",
+          "quote": "On misleading advertisement detection, SJR achieves +23.6\\% relative non-misleading F1 over a zero-shot chain-of-thought baseline"
+        },
+        {
+          "source": "arxiv-2609.22094.md",
+          "quote": "a variant trained on zero real violating examples---with all positive-class data synthetically generated---matches the full-data model within 0.2\\% relative on violating F1"
+        }
+      ]
+    },
+    {
+      "id": "s4-11",
+      "text": "作者据此认为“new policies can launch without any real violation data”。",
+      "evidence": [
+        {
+          "source": "arxiv-2609.22094.md",
+          "quote": "demonstrating that new policies can launch without any real violation data"
+        }
+      ]
+    },
+    {
+      "id": "s4-12",
+      "text": "面向业界规模视频和直播审核的诊断研究指出，平台要适配自己的数据分布、政策目标和产品安全约束，通用公开模型和外部 API（接口服务）难以直接满足；它把模型失败归入可观察的失败特征，每类对应一组改进手段，并在支持 100 多个地区的音视频语言模型（AVLM）上落地。",
+      "evidence": [
+        {
+          "source": "arxiv-2606.30059.md",
+          "quote": "The resulting system supports over 100 regions and is designed for noisy, ambiguous, and highly diverse content drawn from global platform traffic."
+        }
+      ]
+    },
+    {
+      "id": "s4-13",
+      "text": "HarmVideoBench 有 1,379 个视频和 4,137 道选择题，分可观察证据、片段内含义和片段外推理三层，评测了 19 个模型；作者提出的 BCR 方法只在需要时检索上下文，把宏平均从 61.7% 提到 84.4%。",
+      "evidence": [
+        {
+          "source": "arxiv-2606.27187.md",
+          "quote": "a multi-layered diagnostic benchmark comprising 1,379 videos paired with 4,137 multiple-choice questions"
+        },
+        {
+          "source": "arxiv-2606.27187.md",
+          "quote": "HarmVideoBench benchmarks three hierarchical dimensions"
+        },
+        {
+          "source": "arxiv-2606.27187.md",
+          "quote": "We evaluate 19 leading models on HarmVideoBench"
+        },
+        {
+          "source": "arxiv-2606.27187.md",
+          "quote": "raising the macro average from 61.7 percent to a state-of-the-art 84.4 percent"
+        }
+      ]
+    },
+    {
+      "id": "s4-14",
+      "text": "DeepHarm-7K 关注通过叙事、情绪渲染或跨模态线索传递误导性价值观的短视频，有 7,110 个按细粒度分类标注的样本；配套的 DeepHarm-VL 用两轮推理，先找表层证据，再推断潜在含义。",
+      "evidence": [
+        {
+          "source": "arxiv-2611.15306.md",
+          "quote": "comprising 7,110 samples annotated according to a fine-grained harmful-content taxonomy"
+        },
+        {
+          "source": "arxiv-2611.15306.md",
+          "quote": "The framework employs a two-round reasoning strategy to progressively identify surface-level evidence and infer latent harmful implications."
+        }
+      ]
+    },
+    {
+      "id": "s4-15",
+      "text": "DUAL-Bench 在 12 个危害类别、语义不变的视觉扰动下评测了 18 个 VLM，表现最好的 GPT-5-Nano 安全完成率为 12.9%，GPT-5 和 Qwen 系列平均为 7.9% 和 3.9%。",
+      "evidence": [
+        {
+          "source": "arxiv-2510.10846.md",
+          "quote": "We evaluated 18 VLMs across 12 hazard categories under semantics-preserving visual perturbations"
+        },
+        {
+          "source": "arxiv-2510.10846.md",
+          "quote": "Consequently, even the best-performing model GPT-5-Nano, at just 12.9% safe completion, with GPT-5 and Qwen families averaging 7.9% and 3.9%"
+        }
+      ]
+    },
+    {
+      "id": "s4-16",
+      "text": "XPlainVerse 有百万张真实和被篡改的图像，真实图来自五个来源，伪造图由十二个现成的编辑和生成模型产生；多阶段过滤流程 Edit-Check 确认每次编辑确实达到预期。",
+      "evidence": [
+        {
+          "source": "arxiv-2607.03562.md",
+          "quote": "XPlainVerse comprises one million real and manipulated images, pairing authentic images from five established sources with forgeries generated by twelve off-the-shelf image editing and synthesis models"
+        }
+      ]
+    },
+    {
+      "id": "s4-17",
+      "text": "新指标 EntityScore 和 EvidenceScore 检查解释是否指出了被篡改的对象和视觉证据，2,000 对解释的人工标注验证了数据质量。",
+      "evidence": [
+        {
+          "source": "arxiv-2607.03562.md",
+          "quote": "Human annotations on 2,000 explanation pairs validate our dataset quality against human judgment"
+        }
+      ]
+    },
+    {
+      "id": "s4-18",
+      "text": "Policy-as-Prompt 一文归纳了四个层面的五个挑战：政策怎样翻译成提示词，结果对提示词结构和格式敏感，政策制定被技术牵着走的风险，政策团队和机器学习团队角色的变化，以及模型治理与问责。",
+      "evidence": [
+        {
+          "source": "arxiv-2502.18695.md",
+          "quote": "identify five key challenges across four domains"
+        }
+      ]
+    },
+    {
+      "id": "s4-19",
+      "text": "后续工作进一步论证，只把规则交给大模型并不够，提示词本身需要治理，结论是“writing prompts alone is not appropriate for ensuring meaningful community governance”。",
+      "evidence": [
+        {
+          "source": "arxiv-2607.12149.md",
+          "quote": "ultimately find that writing prompts alone is not appropriate for ensuring meaningful community governance"
+        }
+      ]
+    },
+    {
+      "id": "s4-20",
+      "text": "访问方式和许可证于 2026-11-17 核对。",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "2026-11-17 用 https://huggingface.co/api/models/<id>"
+        }
+      ]
+    },
+    {
+      "id": "s4-21",
+      "text": "KuaiMod | 快手短视频，封面加最多 8 帧，附标题、OCR 和语音识别（ASR）文字 | 不用登录 | Hugging Face 标 CC BY-NC 4.0，GitHub 仓库标 CC-BY-SA-4.0，彼此不一致",
+      "evidence": [
+        {
+          "source": "web-HF.md",
+          "quote": "`images`: A list of image filenames, representing the cover and up to 8 frames extracted from the video."
+        },
+        {
+          "source": "web-HF.md",
+          "quote": "| KuaiMod/KuaiMod | cc-by-nc-4.0 | False | GitHub 仓库 KuaiMod/KuaiMod.github.io 的 license 是 CC-BY-SA-4.0（gh api，2026-11-17） |"
+        },
+        {
+          "source": "arxiv-2504.14904.md",
+          "quote": "on several Kuaishou scenarios"
+        }
+      ]
+    },
+    {
+      "id": "s4-22",
+      "text": "SafeWatch-Bench | 超过 2M 个视频，六个安全类别 | 人工审批 | Hugging Face 标 Apache-2.0",
+      "evidence": [
+        {
+          "source": "arxiv-2412.06878.md",
+          "quote": "a large-scale video guardrail benchmark comprising over 2M videos spanning six safety categories"
+        },
+        {
+          "source": "web-HF.md",
+          "quote": "| Virtue-AI-HUB/SafeWatch-Bench | apache-2.0 | manual | |"
+        }
+      ]
+    },
+    {
+      "id": "s4-23",
+      "text": "HarmVideoBench | 1,379 个视频、4,137 道选择题 | 摘要没有给数据链接 | —",
+      "evidence": [
+        {
+          "source": "arxiv-2606.27187.md",
+          "quote": "a multi-layered diagnostic benchmark comprising 1,379 videos paired with 4,137 multiple-choice questions"
+        }
+      ]
+    },
+    {
+      "id": "s4-24",
+      "text": "DeepHarm-7K | 7,110 个短视频样本，侧重隐性有害 | 摘要没有给数据链接 | —",
+      "evidence": [
+        {
+          "source": "arxiv-2611.15306.md",
+          "quote": "comprising 7,110 samples annotated according to a fine-grained harmful-content taxonomy"
+        }
+      ]
+    },
+    {
+      "id": "s4-25",
+      "text": "AdDriftBench | 3,480 条短视频广告，分数据漂移和标签漂移 | 论文写明将会公开 | —",
+      "evidence": [
+        {
+          "source": "web-C20.md",
+          "quote": "The ADB dataset consists of 3,480 short video ads, including 2,280 examples labeled under data drift scenarios, designed to evaluate the generalization capabilities of VLMs under rapidly shifting content distributions."
+        },
+        {
+          "source": "web-C20.md",
+          "quote": "Our dataset will be made publicly available."
+        }
+      ]
+    },
+    {
+      "id": "s4-26",
+      "text": "BLM-Guard 数据 | 真实短视频广告 | 摘要没有提数据发布 | —",
+      "evidence": [
+        {
+          "source": "arxiv-2602.18193.md",
+          "quote": "Experiments on real short-video ads show BLM-Guard surpasses strong baselines in accuracy, consistency and generalization."
+        }
+      ]
+    },
+    {
+      "id": "s4-27",
+      "text": "截至 2026-11-17，没有找到可公开下载、又专门覆盖短视频广告政策的基准：专门做短视频广告的 AdDriftBench 和 BLM-Guard 还没有可下载的数据，可下载的 KuaiMod 覆盖的是短视频平台的一般审核。",
+      "evidence": [
+        {
+          "source": "web-C20.md",
+          "quote": "2026-11-17 打开"
+        }
+      ]
+    },
+    {
+      "id": "s5-1",
+      "text": "有工作针对由生成流水线制作的商品视频广告，把评审拆成每个镜头六个问题：商品、画面质量、发音、脚本、声音和字幕；由视觉语言、语音和语言模型组成的判官把每条发现归到对应问题下，评审逐条接受或驳回，并补上判官漏掉的。",
+      "evidence": [
+        {
+          "source": "arxiv-2611.13178.md",
+          "quote": "Generative pipelines can now turn every product page of an e-commerce catalog into a short video ad"
+        },
+        {
+          "source": "arxiv-2611.13178.md",
+          "quote": "reviewers go through each ad scene by scene and answer six questions, on the product, scene quality, pronunciation, script, sound and captions"
+        }
+      ]
+    },
+    {
+      "id": "s5-2",
+      "text": "在 120 条广告上，带判官提示的评审把 60% 的镜头标为商品有误。",
+      "evidence": [
+        {
+          "source": "arxiv-2611.13178.md",
+          "quote": "Across 120 ads from our pipeline, reviewed with judge findings on screen, reviewers marked the product wrong on 60% of scenes"
+        }
+      ]
+    },
+    {
+      "id": "s5-3",
+      "text": "在其中 60 条广告上，评审标出 58% 的镜头商品有误，远多于后来在隐藏判官提示的情况下看同样广告的两位评审标出的 26%；一位评审在有提示和无提示时都看过，分别标出 57% 和 19%。",
+      "evidence": [
+        {
+          "source": "arxiv-2611.13178.md",
+          "quote": "On 60 of these ads, they marked the product wrong on 58% of scenes, far more than the 26% marked by two reviewers who later saw the ads with the judges hidden"
+        },
+        {
+          "source": "arxiv-2611.13178.md",
+          "quote": "one reviewer who saw the ads both ways marked 57% with judge findings and 19% without"
+        }
+      ]
+    },
+    {
+      "id": "s5-4",
+      "text": "在 120 个盲标镜头上，结合商品目录照片看片段的商品判官 AUC（区分有问题和没问题镜头的能力）达到 0.84，而视频质量分和照片相似度分接近随机。",
+      "evidence": [
+        {
+          "source": "arxiv-2611.13178.md",
+          "quote": "On 120 blind-labeled scenes, a product judge that watches the clip with the catalog photos reached AUC 0.84, while video-quality and photo-similarity scores were close to chance"
+        }
+      ]
+    },
+    {
+      "id": "s5-5",
+      "text": "判官按召回率调：几乎抓到所有缺陷，也会把很多干净镜头标出来，所以由评审决定；没有判官提示时，一位评审的标注在一次评审过程中逐渐变少。",
+      "evidence": [
+        {
+          "source": "arxiv-2611.13178.md",
+          "quote": "We tune the judges for recall: the product judge catches nearly all defects but also flags many clean scenes, so reviewers decide"
+        },
+        {
+          "source": "arxiv-2611.13178.md",
+          "quote": "Without judge findings, one reviewer's marking faded over a session"
+        }
+      ]
+    },
+    {
+      "id": "s5-6",
+      "text": "作者把这种分工概括为“the judges widen what reviewers mark and reviewers add what the judges miss”。",
+      "evidence": [
+        {
+          "source": "arxiv-2611.13178.md",
+          "quote": "together, the judges widen what reviewers mark and reviewers add what the judges miss"
+        }
+      ]
+    },
+    {
+      "id": "s5-7",
+      "text": "有研究在 278K 条德语政治类 TikTok 评论上训练仇恨言论分类器，在相同条件下比较人工和大模型标注。",
+      "evidence": [
+        {
+          "source": "arxiv-2604.13899.md",
+          "quote": "training supervised hate speech classifiers on a new dataset of 278K German political TikTok comments, comparing human and LLM annotation under matched conditions"
+        }
+      ]
+    },
+    {
+      "id": "s5-8",
+      "text": "大规模的大模型标注以约十分之一的成本胜过人工标注监督的分类器，闭源的 GPT-5.2 和开放权重的 Qwen3.5-122B-A10B 都是如此，换成软标签评估结论不变。",
+      "evidence": [
+        {
+          "source": "arxiv-2604.13899.md",
+          "quote": "LLM annotation at scale outperforms human-supervised classifiers at roughly one-tenth the cost, for both a closed-source (GPT-5.2) and an open-weight (Qwen3.5-122B-A10B) LLM, and the advantage is robust under soft-label evaluation"
+        }
+      ]
+    },
+    {
+      "id": "s5-9",
+      "text": "前提是标注界面：只有模仿人工标注任务的两问拆解才行。",
+      "evidence": [
+        {
+          "source": "arxiv-2604.13899.md",
+          "quote": "It hinges on the annotation interface: only a two-question decomposition mirroring the human annotation task unlocks it"
+        }
+      ]
+    },
+    {
+      "id": "s5-10",
+      "text": "作者的结论是“Humans remain essential as evaluators”，训练标签的问题则变成选哪个模型、用什么界面、样本池长什么样。",
+      "evidence": [
+        {
+          "source": "arxiv-2604.13899.md",
+          "quote": "Humans remain essential as evaluators; for training labels, the question shifts to which LLM, which interface, and what shape of pool"
+        }
+      ]
+    },
+    {
+      "id": "s5-11",
+      "text": "用合成数据训练的小模型可以超过生成数据的大模型：在 11 种语言、4 个分类任务上，少量合成数据就让小模型胜过生成它的大模型，低资源语言上尤其明显。",
+      "evidence": [
+        {
+          "source": "arxiv-2601.16278.md",
+          "quote": "we use a state-of-the-art multilingual LLM to generate synthetic datasets covering 11 languages and 4 classification tasks"
+        },
+        {
+          "source": "arxiv-2601.16278.md",
+          "quote": "Our experiments show that even small amounts of synthetic data enable smaller models to outperform the large generator itself, particularly in low-resource languages"
+        }
+      ]
+    },
+    {
+      "id": "s5-12",
+      "text": "前面提到的 SJR 零真实违规样本版本和 BLM-Guard 的规则驱动合成，都是用合成数据给审核模型起步。",
+      "evidence": [
+        {
+          "source": "arxiv-2609.22094.md",
+          "quote": "a variant trained on zero real violating examples"
+        },
+        {
+          "source": "arxiv-2602.18193.md",
+          "quote": "A rule-driven ICoT data-synthesis pipeline jump-starts training"
+        }
+      ]
+    },
+    {
+      "id": "s5-13",
+      "text": "在 350M 和 1.4B 参数模型上的对照实验显示，合成数据的多样性与预训练和监督微调效果正相关，而且预训练阶段的多样性对后续微调的影响比对预训练本身更大。",
+      "evidence": [
+        {
+          "source": "arxiv-2410.15226.md",
+          "quote": "Through a series of controlled experiments with models of 350M and 1.4B parameters, we demonstrate that the proposed cluster-based LLM scoring of diversity correlates positively with both pre-training and supervised fine-tuning performance"
+        },
+        {
+          "source": "arxiv-2410.15226.md",
+          "quote": "synthetic data diversity in pre-training affects supervised fine-tuning more significantly than pre-training itself"
+        }
+      ]
+    },
+    {
+      "id": "s5-14",
+      "text": "GSM1k 按 GSM8k 的风格和难度重新出题，部分模型在新题上准确率最多下降 8%；模型生成 GSM8k 样本的概率与它在两套题上的成绩差正相关（Spearman r^2 = 0.36），但许多前沿模型几乎没有过拟合迹象。",
+      "evidence": [
+        {
+          "source": "arxiv-2405.00332.md",
+          "quote": "we observe accuracy drops of up to 8%"
+        },
+        {
+          "source": "arxiv-2405.00332.md",
+          "quote": "(Spearman's r^2 = 0.36)"
+        },
+        {
+          "source": "arxiv-2405.00332.md",
+          "quote": "Nevertheless, many models, especially those on the frontier, show minimal signs of overfitting"
+        }
+      ]
+    },
+    {
+      "id": "s5-15",
+      "text": "带标签的多模态数据难收集，作者用半合成方法：拿现成的原始图像，生成四个质量等级的配文，得到“样本、分数”对。",
+      "evidence": [
+        {
+          "source": "arxiv-2510.15162.md",
+          "quote": "we introduce a semi-synthetic approach that leverages readily available raw images and generates corresponding text across four quality levels"
+        }
+      ]
+    },
+    {
+      "id": "s5-16",
+      "text": "用它从 DataComp 和 OBELICS 里筛出的数据预训练，模型的零样本推理和上下文学习能力更强，筛出的 OBELICS-HQ 也已公开。",
+      "evidence": [
+        {
+          "source": "arxiv-2510.15162.md",
+          "quote": "achieving stronger zero-shot reasoning and in-context learning capabilities"
+        }
+      ]
+    },
+    {
+      "id": "s5-17",
+      "text": "20/20 Vision Language Models 固定架构、训练配方和算力，只改训练数据：筛选流水线让 VLM 在 20 个公开基准上平均提高 11.7 个百分点，这些基准覆盖定位、问答、OCR 与文档、计数、图表、品牌识别等能力。",
+      "evidence": [
+        {
+          "source": "arxiv-2605.11405.md",
+          "quote": "lifts performance by +11.7pp on average across 20 public VLM benchmarks (spanning grounding, VQA, OCR/documents, captioning, spatial/3D, counting, charts, math, brand-ID, and multi-image reasoning)"
+        }
+      ]
+    },
+    {
+      "id": "s5-18",
+      "text": "在 2B 规模，筛选后的模型超过 InternVL3.5-2B 9.9 个百分点，训练算力少约 17 倍；与 Qwen3-VL-2B 的差距缩小到 1.8 个百分点以内，训练算力少约 87 倍。",
+      "evidence": [
+        {
+          "source": "arxiv-2605.11405.md",
+          "quote": "At 2B, our curated model surpasses InternVL3.5-2B by 9.9pp at ~17x less training compute and closes the gap to Qwen3-VL-2B to within 1.8pp at ~87x less compute"
+        }
+      ]
+    },
+    {
+      "id": "s5-19",
+      "text": "不同训练种子之间的单项能力标准差下降约 67%；在 4B 规模，筛选后的模型达到接近前沿的准确率，回答时的浮点运算量（FLOPs）比 Qwen3-VL-4B 低 3.3 倍。",
+      "evidence": [
+        {
+          "source": "arxiv-2605.11405.md",
+          "quote": "per-capability std across training seeds drops by ~67%"
+        },
+        {
+          "source": "arxiv-2605.11405.md",
+          "quote": "the curated 4B matches near-frontier accuracy at 3.3x lower response FLOPs than Qwen3-VL-4B"
+        }
+      ]
+    },
+    {
+      "id": "s5-20",
+      "text": "微调后的小模型（BERT 类）在文本分类上持续、显著地优于零样本提示的大模型，对比对象包括 ChatGPT（GPT-3.5/GPT-4）和 Claude Opus，任务覆盖情感、赞成与反对、情绪和政党立场。",
+      "evidence": [
+        {
+          "source": "arxiv-2406.08660.md",
+          "quote": "smaller, fine-tuned LLMs (still) consistently and significantly outperform larger, zero-shot prompted models in text classification"
+        },
+        {
+          "source": "arxiv-2406.08660.md",
+          "quote": "We compare three major generative AI models (ChatGPT with GPT-3.5/GPT-4 and Claude Opus)"
+        }
+      ]
+    },
+    {
+      "id": "s5-21",
+      "text": "SLM-Mod 用 15 个热门 Reddit 社区的 150K 条评论微调 15B 以下的小模型，平均准确率比零样本大模型高 11.5%、召回率高 25.7%；少样本的上下文学习只给大模型带来很小的提升。",
+      "evidence": [
+        {
+          "source": "arxiv-2410.13155.md",
+          "quote": "We fine-tune and evaluate SLMs (less than 15B parameters)"
+        },
+        {
+          "source": "arxiv-2410.13155.md",
+          "quote": "Using 150K comments from 15 popular Reddit communities, we find that SLMs outperform zero-shot LLMs at content moderation -- 11.5% higher accuracy and 25.7% higher recall on average across all communities"
+        },
+        {
+          "source": "arxiv-2410.13155.md",
+          "quote": "few-shot in-context learning leads to only a marginal increase in the performance of LLMs"
+        }
+      ]
+    },
+    {
+      "id": "s5-22",
+      "text": "关于微调方式，LoRA Without Regret 发现，在中小规模的指令微调和推理数据集上，低秩适配（LoRA）的效果与全量微调相同；LoRA 的最佳学习率稳定在全量微调的 10 倍；某些情况下 LoRA 对大批量更不耐受。",
+      "evidence": [
+        {
+          "source": "web-D5.md",
+          "quote": "For supervised fine-tuning on small-to-medium-sized instruction-tuning and reasoning datasets, LoRA performs the same as full fine-tuning."
+        },
+        {
+          "source": "web-D5.md",
+          "quote": "Our experiments showed that the optimal LR for LoRA is consistently 10x the one used for FullFT in the same application"
+        },
+        {
+          "source": "web-D5.md",
+          "quote": "In some scenarios, LoRA is less tolerant of large batch sizes than full fine-tuning"
+        }
+      ]
+    },
+    {
+      "id": "s6-1",
+      "text": "Meta | 更先进的 AI 执法系统覆盖的语言 | 覆盖全球 98% 网民使用的语言 | 2026-03 | ",
+      "evidence": [
+        {
+          "source": "web-E1.md",
+          "quote": "页面日期：UPDATED MAR 19, 2026"
+        },
+        {
+          "source": "web-E1.md",
+          "quote": "These more advanced AI systems cover languages spoken by 98% of people online"
+        }
+      ]
+    },
+    {
+      "id": "s6-2",
+      "text": "Meta | 检测违规的成人性诱导内容 | AI 抓到的违规内容是人工的两倍多，错误率降低超过 60% | 2026-03 | ",
+      "evidence": [
+        {
+          "source": "web-E1.md",
+          "quote": "页面日期：UPDATED MAR 19, 2026"
+        },
+        {
+          "source": "web-E1.md",
+          "quote": "AI systems built to detect violating adult sexual solicitation caught over two times more violating content than people did"
+        },
+        {
+          "source": "web-E1.md",
+          "quote": "while also decreasing the rate of mistakes over 60%"
+        }
+      ]
+    },
+    {
+      "id": "s6-3",
+      "text": "Meta | 冒充知名人物 | 相关用户举报减少 80% | 2026-03 | ",
+      "evidence": [
+        {
+          "source": "web-E1.md",
+          "quote": "页面日期：UPDATED MAR 19, 2026"
+        },
+        {
+          "source": "web-E1.md",
+          "quote": "AI reduced user reports of high-profile impersonation by 80%."
+        }
+      ]
+    },
+    {
+      "id": "s6-4",
+      "text": "Meta | 大模型与人工执法对比 | 平均少犯 13% 的错误，多发现 10% 的真实违规 | 2026-10 | ",
+      "evidence": [
+        {
+          "source": "web-E2.md",
+          "quote": "页面日期：UPDATED OCT 16, 2026"
+        },
+        {
+          "source": "web-E2.md",
+          "quote": "on average LLMs make 13% fewer mistakes than humans when enforcing against violating content"
+        },
+        {
+          "source": "web-E2.md",
+          "quote": "while finding 10% more actual violations"
+        }
+      ]
+    },
+    {
+      "id": "s6-5",
+      "text": "Meta | 成人裸露和性活动内容的违规率 | 从 2025 年第四季度的 0.10%–0.11% 降到 2026 年第二季度的 0.07%–0.08% | 2026-10 | ",
+      "evidence": [
+        {
+          "source": "web-E2.md",
+          "quote": "页面日期：UPDATED OCT 16, 2026"
+        },
+        {
+          "source": "web-E2.md",
+          "quote": "prevalence for adult nudity and sexual activity decreased"
+        },
+        {
+          "source": "web-E2.md",
+          "quote": "0.10 - 0.11% in Q4 2025 to 0.07 - 0.08% in Q2 2026"
+        }
+      ]
+    },
+    {
+      "id": "s6-6",
+      "text": "Meta | 诈骗广告 | 在 Facebook 和 Instagram 上移除 6,500 万条，其中 94% 在有人举报前移除 | 2026-10 | ",
+      "evidence": [
+        {
+          "source": "web-E2.md",
+          "quote": "页面日期：UPDATED OCT 16, 2026"
+        },
+        {
+          "source": "web-E2.md",
+          "quote": "we've removed 65 million scam ads from Facebook and Instagram, with 94% of those ads removed before anyone reported them to us"
+        }
+      ]
+    },
+    {
+      "id": "s6-7",
+      "text": "Google | 违规广告的投放前拦截 | 超过 99% 在投放前被拦下 | 2026-04 | ",
+      "evidence": [
+        {
+          "source": "web-E3.md",
+          "quote": "页面日期：Apr 16, 2026"
+        },
+        {
+          "source": "web-E3.md",
+          "quote": "Our systems caught over 99% of policy-violating ads before they ever served"
+        }
+      ]
+    },
+    {
+      "id": "s6-8",
+      "text": "Google | 全年执法量 | 拦截或移除超过 83 亿条广告，封禁 2,490 万个账户 | 2026-04 | ",
+      "evidence": [
+        {
+          "source": "web-E3.md",
+          "quote": "页面日期：Apr 16, 2026"
+        },
+        {
+          "source": "web-E3.md",
+          "quote": "we blocked or removed over 8.3 billion ads and suspended 24.9 million accounts"
+        }
+      ]
+    },
+    {
+      "id": "s6-9",
+      "text": "Google | 误判 | 错误的广告主封禁减少 80% | 2026-04 | ",
+      "evidence": [
+        {
+          "source": "web-E3.md",
+          "quote": "页面日期：Apr 16, 2026"
+        },
+        {
+          "source": "web-E3.md",
+          "quote": "helped us reduce incorrect advertiser suspensions by 80% last year"
+        }
+      ]
+    },
+    {
+      "id": "s6-10",
+      "text": "TikTok | 欧盟《数字服务法》（DSA）透明度报告 | 自动化系统在无人工复核的情况下处理了 94.1% 的违规内容；移除约 1.04 亿条违规内容 | 2026-08 | ",
+      "evidence": [
+        {
+          "source": "web-E4.md",
+          "quote": "页面日期：August 31, 2026"
+        },
+        {
+          "source": "web-E4.md",
+          "quote": "automated systems actioned 94.1% of violating content without human review."
+        },
+        {
+          "source": "web-E4.md",
+          "quote": "we have removed around 104 million pieces of content that violated our Policies"
+        }
+      ]
+    },
+    {
+      "id": "s6-11",
+      "text": "Pinterest | 审核决策质量评估框架 | 方法论文，没有汇总数字 | 2026-02 | ",
+      "evidence": [
+        {
+          "source": "arxiv-2602.15809.md",
+          "quote": "First version: 2026-02-17"
+        },
+        {
+          "source": "arxiv-2602.15809.md",
+          "quote": "we present a comprehensive Decision Quality Evaluation Framework developed and deployed at Pinterest"
+        }
+      ]
+    },
+    {
+      "id": "s6-12",
+      "text": "Pinterest | 违规率测量系统 | 方法论文，没有汇总数字 | 2026-02 | ",
+      "evidence": [
+        {
+          "source": "arxiv-2602.18518.md",
+          "quote": "First version: 2026-02-19"
+        },
+        {
+          "source": "arxiv-2602.18518.md",
+          "quote": "We present a design-based measurement system"
+        }
+      ]
+    },
+    {
+      "id": "s6-13",
+      "text": "快手 | KuaiMod 上线（大规模线上 A/B 测试） | 用户举报率下降 20% | 2025-04 | ",
+      "evidence": [
+        {
+          "source": "arxiv-2504.14904.md",
+          "quote": "First version: 2025-04-21"
+        },
+        {
+          "source": "arxiv-2504.14904.md",
+          "quote": "Offline experiments and large-scale online A/B test demonstrates the superiority of KuaiMod"
+        },
+        {
+          "source": "arxiv-2504.14904.md",
+          "quote": "The deployment of KuaiMod reduces the user reporting rate by 20%"
+        }
+      ]
+    },
+    {
+      "id": "s6-14",
+      "text": "Meta 写明，只有当新技术“consistently performed better than our existing systems in all of our tests”，才会转向 AI 优先的执法；它在 2026 年 10 月的报告里把成人裸露类内容违规率的下降归因于用大模型补上执法缺口。",
+      "evidence": [
+        {
+          "source": "web-E1.md",
+          "quote": "Only when the technology has consistently performed better than our existing systems in all of our tests will we transition to AI-first enforcement."
+        },
+        {
+          "source": "web-E2.md",
+          "quote": "页面日期：UPDATED OCT 16, 2026"
+        },
+        {
+          "source": "web-E2.md",
+          "quote": "by deploying LLMs to close enforcement gaps"
+        }
+      ]
+    },
+    {
+      "id": "s7-1",
+      "text": "零真实违规样本的模型几乎追平全量数据模型，大模型标签训练出的分类器胜过人工监督的分类器；但任务越主观，合成数据越不管用，这些结论也还没有在公开的短视频广告数据上检验过。",
+      "evidence": [
+        {
+          "source": "arxiv-2609.22094.md",
+          "quote": "a variant trained on zero real violating examples---with all positive-class data synthetically generated---matches the full-data model within 0.2\\% relative on violating F1"
+        },
+        {
+          "source": "arxiv-2604.13899.md",
+          "quote": "LLM annotation at scale outperforms human-supervised classifiers"
+        },
+        {
+          "source": "arxiv-2310.07849.md",
+          "quote": "subjectivity, at both the task level and instance level, is negatively associated with the performance of the model trained on synthetic data"
+        }
+      ]
+    }
+  ]
+}

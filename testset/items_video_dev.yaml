@@ -1,0 +1,32 @@
+# Development videos (split: dev). Used only to check that the pipeline runs and answers parse; never scored
+# in the reports. Written 2026-11-17 together with the test items. Brands are fictional.
+- id: dv-01
+  lang: zh
+  product: {brand: 青溪, shape: tumbler, palette: green}
+  caption: 青溪玻璃水杯，办公室好物
+  lines: [高硼硅玻璃, 防烫杯套, 全网最耐摔的玻璃杯, ¥39]
+  labels:
+    - {cat: ABSOLUTE, where: screen, shot: 3, span: 全网最耐摔的玻璃杯}
+- id: dv-02
+  lang: zh
+  product: {brand: 青溪, shape: beer, palette: gold}
+  caption: 青溪小麦啤酒，夏日限定
+  lines: [青溪小麦啤酒, 酒精度 5%vol, 夏日限定, 理性饮酒]
+  art: {2: drink_beer}
+  labels:
+    - {cat: ALCOHOL, where: visual, shot: 2, visual: 第二个镜头里有人喝啤酒}
+- id: dv-03
+  lang: en
+  product: {brand: Larkfield, shape: jar, palette: teal}
+  caption: Larkfield night cream
+  lines: [Ceramides and peptides, Fragrance free, 50 ml, $32]
+  flash: Erases wrinkles for good
+  labels:
+    - {cat: GUARANTEE, where: flash, span: Erases wrinkles for good}
+- id: dv-04
+  lang: en
+  product: {brand: Larkfield, shape: bag, palette: beige}
+  caption: Larkfield canvas tote
+  lines: [Heavy cotton canvas, Inner pocket, Three colors, $28]
+  labels: []
+  trap: Plain product description; no claim in scope.

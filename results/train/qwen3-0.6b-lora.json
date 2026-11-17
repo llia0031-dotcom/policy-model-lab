@@ -1,0 +1,30 @@
+{
+ "base": "Qwen/Qwen3-0.6B",
+ "train_examples": 1529,
+ "val_examples": 191,
+ "trainable_params": 10092544,
+ "total_params": 606142464,
+ "optimizer_steps": 288,
+ "epochs": [
+  {
+   "epoch": 1,
+   "train_loss": 0.1201,
+   "val_loss": 0.0819,
+   "minutes": 3.5
+  },
+  {
+   "epoch": 2,
+   "train_loss": 0.0328,
+   "val_loss": 0.0736,
+   "minutes": 12.4
+  },
+  {
+   "epoch": 3,
+   "train_loss": 0.0141,
+   "val_loss": 0.0658,
+   "minutes": 22.2
+  }
+ ],
+ "peak_gb": 5.55,
+ "minutes": 22.2
+}

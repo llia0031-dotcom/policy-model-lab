@@ -1,0 +1,319 @@
+# English short-video ads (split: video). Written 2026-11-17, before any model saw them. Brands are fictional.
+# Same format as items_video_zh.yaml. Policy basis: TikTok's public advertising policies (global parts),
+# same categories and clauses as grounded-review.
+# art per shot: product (default) | drink_beer | drink_wine | drink_cheers | drink_water | drink_coffee
+#               | skin_before | skin_after | split_skin | split_teeth | split_colors | box_closed | box_open
+- id: ev-01
+  product: {brand: Norwyn, shape: box, palette: gray}
+  caption: "Norwyn Ergo 2: the most comfortable chair ever made. #wfh"
+  lines: [Adjustable lumbar support, Breathable mesh back, Tool-free assembly, "$249, free shipping"]
+  labels:
+    - {cat: ABSOLUTE, where: caption, span: the most comfortable chair ever made}
+- id: ev-02
+  product: {brand: Calla Bay, shape: jar, palette: teal}
+  caption: Calla Bay bath flakes. Soak for 20 minutes and say goodbye to arthritis pain for good.
+  lines: [Pure magnesium flakes, Unscented, Resealable pouch, 1 kg for $24]
+  labels:
+    - {cat: MEDICAL, where: caption, span: say goodbye to arthritis pain for good}
+- id: ev-03
+  product: {brand: Quillon, shape: phone, palette: navy}
+  caption: "Quillon AutoTrade: guaranteed 15% monthly returns, zero risk."
+  lines: [Copy expert portfolios, Start with $50, Withdraw anytime, Download today]
+  labels:
+    - {cat: GUARANTEE, where: caption, span: "guaranteed 15% monthly returns, zero risk"}
+- id: ev-04
+  product: {brand: Fernway, shape: box, palette: gray}
+  caption: Still cooking with BrandX pans? Enjoy the toxic flakes in your food.
+  lines: [Tri-ply stainless steel, Oven safe to 260°C, Dishwasher safe, 5-piece set $189]
+  labels:
+    - {cat: DISPARAGE, where: caption, span: "Still cooking with BrandX pans? Enjoy the toxic flakes in your food."}
+- id: ev-05
+  product: {brand: Sunfold, shape: tea, palette: green}
+  caption: Sunfold Slim Tea. Drop two dress sizes in 10 days, no diet needed.
+  lines: [Green tea and ginger, Caffeine-light blend, 28 tea bags, $19.99]
+  labels:
+    - {cat: WEIGHT, where: caption, span: "Drop two dress sizes in 10 days, no diet needed"}
+- id: ev-06
+  product: {brand: Tidal Oak, shape: bottle, palette: gold}
+  caption: Rough day? Three Tidal Oaks and you'll forget it ever happened.
+  lines: [Dry apple cider, 5.0% ABV, Best served cold, Please drink responsibly]
+  labels:
+    - {cat: ALCOHOL, where: caption, span: Three Tidal Oaks and you'll forget it ever happened}
+- id: ev-07
+  product: {brand: Velmora, shape: earbuds, palette: navy}
+  caption: Velmora Studio headphones
+  lines: [The world's best headphones, 40-hour battery, Adaptive noise cancelling, $179]
+  labels:
+    - {cat: ABSOLUTE, where: screen, shot: 1, span: The world's best headphones}
+- id: ev-08
+  product: {brand: Brightleaf, shape: bottle, palette: purple}
+  caption: Brightleaf pillow spray for calmer nights
+  lines: [Lavender and chamomile, Cures insomnia in one night, Spray on your pillow, $16]
+  labels:
+    - {cat: MEDICAL, where: screen, shot: 2, span: Cures insomnia in one night}
+- id: ev-09
+  product: {brand: Ashby & Reed, shape: jar, palette: gold}
+  caption: Ashby & Reed raw honey
+  lines: [Raw wildflower honey, Spoon into tea, "Glass jar, 500 g", Kills cold and flu viruses]
+  labels:
+    - {cat: MEDICAL, where: screen, shot: 4, span: Kills cold and flu viruses}
+- id: ev-10
+  product: {brand: Northpeak, shape: book, palette: blue}
+  caption: Northpeak SAT prep, fall cohort
+  lines: [Live online classes, Weekly practice tests, "Score 1500+ or your money back, guaranteed", Enroll now]
+  labels:
+    - {cat: GUARANTEE, where: screen, shot: 3, span: "Score 1500+ or your money back, guaranteed"}
+- id: ev-11
+  product: {brand: Corvo, shape: laptop, palette: gray}
+  caption: Corvo Academy online store course
+  lines: [Learn dropshipping, "Make $10,000 a month, guaranteed", Lifetime access, $97]
+  labels:
+    - {cat: GUARANTEE, where: screen, shot: 2, span: "Make $10,000 a month, guaranteed"}
+- id: ev-12
+  product: {brand: Pinehollow, shape: bedding, palette: beige}
+  caption: Pinehollow hybrid mattress
+  lines: [Hybrid coil mattress, 100-night trial, Other mattress brands are cheap junk, Queen $699]
+  labels:
+    - {cat: DISPARAGE, where: screen, shot: 3, span: Other mattress brands are cheap junk}
+- id: ev-13
+  product: {brand: Velmora, shape: tape, palette: pink}
+  caption: Velmora waist trainer
+  lines: [Latex waist trainer, "Wear it 8 hours, lose 4 inches", Three sizes, $34]
+  labels:
+    - {cat: WEIGHT, where: screen, shot: 2, span: "Wear it 8 hours, lose 4 inches"}
+- id: ev-14
+  product: {brand: Tidal Oak, shape: liquor, palette: navy}
+  caption: Tidal Oak Vodka
+  lines: [Tidal Oak Vodka, 40% ABV, Triple distilled, "Drink it, and the shyness is gone"]
+  labels:
+    - {cat: ALCOHOL, where: screen, shot: 4, span: "Drink it, and the shyness is gone"}
+- id: ev-15
+  product: {brand: Quillon, shape: phone, palette: orange}
+  caption: Quillon Armor phone case
+  lines: [Drop tested from 3 m, Raised camera lip, MagSafe compatible, $29]
+  flash: "#1 strongest case on Earth"
+  labels:
+    - {cat: ABSOLUTE, where: flash, span: "#1 strongest case on Earth"}
+- id: ev-16
+  product: {brand: Calla Bay, shape: tube, palette: gold}
+  caption: Calla Bay daily sunscreen SPF 50
+  lines: [SPF 50 broad spectrum, No white cast, Water resistant 40 min, 50 ml $22]
+  flash: The best sunscreen, period.
+  labels:
+    - {cat: ABSOLUTE, where: flash, span: "The best sunscreen, period."}
+- id: ev-17
+  product: {brand: Sunfold, shape: jar, palette: purple}
+  caption: Sunfold elderberry gummies
+  lines: [Elderberry and zinc, Two gummies a day, Vegan, 60 count $18]
+  flash: Treats asthma naturally
+  labels:
+    - {cat: MEDICAL, where: flash, span: Treats asthma naturally}
+- id: ev-18
+  product: {brand: Corvo, shape: phone, palette: navy}
+  caption: Corvo Signals members group
+  lines: [Daily market notes, Private chat, Cancel anytime, $49 a month]
+  flash: Guaranteed 3x profit
+  labels:
+    - {cat: GUARANTEE, where: flash, span: Guaranteed 3x profit}
+- id: ev-19
+  product: {brand: Fernway, shape: tumbler, palette: teal}
+  caption: Fernway electric kettle
+  lines: [1.7 L capacity, Five temperature presets, Keep-warm mode, $59]
+  flash: BrandX kettles are a fire hazard
+  labels:
+    - {cat: DISPARAGE, where: flash, span: BrandX kettles are a fire hazard}
+- id: ev-20
+  product: {brand: Norwyn, shape: tumbler, palette: blue}
+  caption: Norwyn whey protein shake
+  lines: [24 g protein, Chocolate flavor, Mixes in seconds, 30 servings $39]
+  flash: Lose 8 kg in 2 weeks
+  labels:
+    - {cat: WEIGHT, where: flash, span: Lose 8 kg in 2 weeks}
+- id: ev-21
+  product: {brand: Ashby & Reed, shape: bottle, palette: orange}
+  caption: Ashby & Reed apple cider vinegar shots
+  lines: [Raw apple cider vinegar, Ginger and lemon, One shot a morning, 12 shots $24]
+  flash: Melts belly fat overnight
+  labels:
+    - {cat: WEIGHT, where: flash, span: Melts belly fat overnight}
+- id: ev-22
+  product: {brand: Pinehollow, shape: liquor, palette: gold}
+  caption: Pinehollow small-batch bourbon
+  lines: [Aged six years, 45% ABV, Charred oak barrels, Please drink responsibly]
+  flash: Drink more, worry less
+  labels:
+    - {cat: ALCOHOL, where: flash, span: "Drink more, worry less"}
+- id: ev-23
+  product: {brand: Brightleaf, shape: beer, palette: gold}
+  caption: Brightleaf Pilsner
+  lines: [Brightleaf Pilsner, 4.6% ABV, Brewed in small batches, Please drink responsibly]
+  art: {2: drink_beer}
+  labels:
+    - {cat: ALCOHOL, where: visual, shot: 2, visual: a person drinks beer in shot 2}
+- id: ev-24
+  product: {brand: Velmora, shape: wine, palette: pink}
+  caption: Velmora rosé, new vintage
+  lines: [Velmora Rosé 2025, 12.5% ABV, Dry and fruity, Please drink responsibly]
+  art: {3: drink_wine}
+  labels:
+    - {cat: ALCOHOL, where: visual, shot: 3, visual: a person drinks wine in shot 3}
+- id: ev-25
+  product: {brand: Northpeak, shape: liquor, palette: teal}
+  caption: Northpeak dry gin
+  lines: [Northpeak Dry Gin, 41% ABV, Juniper and citrus, Please drink responsibly]
+  art: {2: drink_cheers}
+  labels:
+    - {cat: ALCOHOL, where: visual, shot: 2, visual: people raise and drink glasses in shot 2}
+- id: ev-26
+  product: {brand: Calla Bay, shape: bottle, palette: pink}
+  caption: Calla Bay niacinamide serum
+  lines: [Niacinamide 10%, Fragrance free, Dermatologist tested, 30 ml $28]
+  art: {2: split_skin}
+  labels:
+    - {cat: BEFORE_AFTER, where: visual, shot: 2, visual: before-and-after skin panels in shot 2}
+- id: ev-27
+  product: {brand: Sunfold, shape: tube, palette: green}
+  caption: Sunfold clarifying gel
+  lines: [Salicylic acid 2%, Lightweight gel, Use morning and night, 50 ml $19]
+  art: {2: skin_before, 3: skin_after}
+  labels:
+    - {cat: BEFORE_AFTER, where: visual, shot: 3, visual: blemished skin in shot 2 then clear skin in shot 3}
+- id: ev-28
+  product: {brand: Quillon, shape: tube, palette: blue}
+  caption: Quillon whitening strips
+  lines: [Enamel-safe formula, 14 treatments, No sensitivity, $39]
+  art: {3: split_teeth}
+  labels:
+    - {cat: BEFORE_AFTER, where: visual, shot: 3, visual: before-and-after teeth panels in shot 3}
+- id: ev-29
+  product: {brand: Tidal Oak, shape: liquor, palette: orange}
+  caption: Tidal Oak spiced rum
+  lines: [Tidal Oak Spiced Rum, The smoothest rum in the world, 38% ABV, Please drink responsibly]
+  art: {3: drink_cheers}
+  labels:
+    - {cat: ABSOLUTE, where: screen, shot: 2, span: The smoothest rum in the world}
+    - {cat: ALCOHOL, where: visual, shot: 3, visual: people raise and drink glasses in shot 3}
+- id: ev-30
+  product: {brand: Corvo, shape: phone, palette: green}
+  caption: "Corvo Fit 30-day plan: guaranteed results or your money back."
+  lines: [Home workouts, Meal plans included, Track your progress, $15 a month]
+  flash: Lose 5 kg in a week
+  labels:
+    - {cat: GUARANTEE, where: caption, span: guaranteed results or your money back}
+    - {cat: WEIGHT, where: flash, span: Lose 5 kg in a week}
+- id: ev-31
+  product: {brand: Brightleaf, shape: tube, palette: teal}
+  caption: Brightleaf calming cream
+  lines: [Oat and ceramides, Clears eczema in days, Fragrance free, 100 ml $21]
+  art: {3: skin_before, 4: skin_after}
+  labels:
+    - {cat: MEDICAL, where: screen, shot: 2, span: Clears eczema in days}
+    - {cat: BEFORE_AFTER, where: visual, shot: 4, visual: blemished skin in shot 3 then clear skin in shot 4}
+- id: ev-32
+  product: {brand: Fernway, shape: blender, palette: orange}
+  caption: Fernway Pro blender, the best blender on the market.
+  lines: [1500 W motor, Crushes ice in seconds, Self-cleaning mode, $129]
+  flash: BrandX blenders break in a month
+  labels:
+    - {cat: ABSOLUTE, where: caption, span: the best blender on the market}
+    - {cat: DISPARAGE, where: flash, span: BrandX blenders break in a month}
+- id: ev-33
+  product: {brand: Norwyn, shape: bag, palette: navy}
+  caption: Norwyn commuter backpack
+  lines: [Fits a 16-inch laptop, Water-repellent fabric, Hidden back pocket, $89]
+  labels: []
+  trap: Plain product description; no claim in scope.
+- id: ev-34
+  product: {brand: Fernway, shape: box, palette: beige}
+  caption: Fernway bamboo cutting board
+  lines: [Organic bamboo, Juice groove, Easy to clean, Set of 3 $35]
+  labels: []
+  trap: Plain product description; no claim in scope.
+- id: ev-35
+  product: {brand: Quillon, shape: powerbank, palette: gray}
+  caption: Quillon 3-in-1 wireless charger
+  lines: ["Phone, watch and earbuds", 15 W fast charging, Foldable stand, $45]
+  labels: []
+  trap: Plain product description; no claim in scope.
+- id: ev-36
+  product: {brand: Calla Bay, shape: bedding, palette: teal}
+  caption: Calla Bay cotton towels
+  lines: [100% Turkish cotton, Quick-dry weave, Six colors, Bath set $49]
+  labels: []
+  trap: Plain product description; no claim in scope.
+- id: ev-37
+  product: {brand: Velmora, shape: candle, palette: purple}
+  caption: Velmora soy candle
+  lines: [Hand-poured soy wax, 45-hour burn time, Cedar and fig, $26]
+  labels: []
+  trap: Plain product description; no claim in scope.
+- id: ev-38
+  product: {brand: Pinehollow, shape: box, palette: green}
+  caption: Pinehollow strategy board game
+  lines: [2 to 5 players, 45-minute games, Best enjoyed with friends, $39]
+  labels: []
+  trap: "\"Best enjoyed with friends\" is playing advice, not a superiority claim."
+- id: ev-39
+  product: {brand: Quillon, shape: phone, palette: blue}
+  caption: Quillon Q8 phone
+  lines: [Our best-ever battery, 30% longer than our previous model, "Internal lab test, 2026", From $599]
+  labels: []
+  trap: Compares with the brand's own earlier model and names the test.
+- id: ev-40
+  product: {brand: Northpeak, shape: box, palette: orange}
+  caption: Northpeak grocery delivery
+  lines: [Order by Wednesday, Delivery guaranteed by Friday, Fresh produce, Free over $50]
+  labels: []
+  trap: A delivery-time guarantee is a service term, not a promised product effect or return.
+- id: ev-41
+  product: {brand: Velmora, shape: earbuds, palette: pink}
+  caption: Velmora Boom portable speaker
+  lines: [Lose yourself in the music, 360° sound, 20-hour battery, $79]
+  labels: []
+  trap: "\"Lose yourself\" is figurative; no weight-loss claim."
+- id: ev-42
+  product: {brand: Norwyn, shape: bag, palette: green}
+  caption: Norwyn ultralight tent
+  lines: ["Number one rule of camping: pack light", 1.2 kg total weight, Sets up in 3 minutes, $219]
+  labels: []
+  trap: "\"Number one rule\" introduces a tip; it ranks no product."
+- id: ev-43
+  product: {brand: Sunfold, shape: box, palette: gold}
+  caption: Sunfold rolled oats
+  lines: [Whole grain oats, 5 g fiber per serving, Part of a balanced breakfast, 1 kg $6]
+  labels: []
+  trap: Nutrition fact and balanced-diet framing; no weight or health-cure claim.
+- id: ev-44
+  product: {brand: Norwyn, shape: tumbler, palette: blue}
+  caption: Norwyn insulated sports bottle
+  lines: [Keeps cold 24 hours, Leak-proof lid, 1 L capacity, $32]
+  art: {3: drink_water}
+  labels: []
+  trap: The person drinks water, not alcohol.
+- id: ev-45
+  product: {brand: Fernway, shape: tumbler, palette: beige}
+  caption: Fernway pour-over coffee kit
+  lines: [Ceramic dripper, Glass carafe, 50 paper filters, $42]
+  art: {2: drink_coffee}
+  labels: []
+  trap: The person drinks coffee, not alcohol.
+- id: ev-46
+  product: {brand: Ashby & Reed, shape: wine, palette: red}
+  caption: Ashby & Reed Merlot
+  lines: [Ashby & Reed Merlot 2024, 13.5% ABV, Pairs with roast dinners, Please drink responsibly]
+  labels: []
+  trap: Bottle only, alcohol strength stated and a responsible drinking line; nobody drinks.
+- id: ev-47
+  product: {brand: Calla Bay, shape: bag, palette: beige}
+  caption: "Calla Bay tote, two colors"
+  lines: [Choose Sand or Slate, Recycled canvas, Inner zip pocket, $38]
+  art: {2: split_colors}
+  labels: []
+  trap: Two color options side by side; not a before-and-after of results.
+- id: ev-48
+  product: {brand: Brightleaf, shape: box, palette: green}
+  caption: Brightleaf tea sampler, unboxing
+  lines: [Twelve loose-leaf teas, Recyclable tins, Brewing guide inside, $34]
+  art: {2: box_closed, 3: box_open}
+  labels: []
+  trap: An unboxing sequence; nothing is shown as a result of using the product.

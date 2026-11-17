@@ -1,0 +1,654 @@
+{
+ "claims": [
+  {
+   "id": "v-text",
+   "text": "Caption only: haiku caught 25 of 64 violating ads, qwen35-4b 16 of 64 and qwen3vl-2b 17 of 64.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| haiku | text | 53/96 (55%) [45–65] | 25/64 (39%) | 4/32 (12%) | 2/22 (9%) | 25/72 (35%) | 44/96 (46%) | 16/22 (73%) | 24 | None | – |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | text | 47/96 (49%) [39–59] | 16/64 (25%) | 1/32 (3%) | 1/22 (5%) | 15/72 (21%) | 42/96 (44%) | 11/15 (73%) | 0 | 0.97 | 3.45 |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen3vl-2b | text | 49/96 (51%) [41–61] | 17/64 (27%) | 0/32 (0%) | 0/22 (0%) | 12/72 (17%) | 41/96 (43%) | 9/11 (82%) | 0 | 0.27 | 4.05 |"
+    }
+   ]
+  },
+  {
+   "id": "v-text-caption",
+   "text": "Caption only, caption labels found: haiku 16 of 16, qwen35-4b 14 of 16, qwen3vl-2b 9 of 16.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| haiku | text | 16/16 (100%) | 0/3 (0%) | 4/17 (24%) | 2/20 (10%) | 3/16 (19%) |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | text | 14/16 (88%) | 0/3 (0%) | 0/17 (0%) | 1/20 (5%) | 0/16 (0%) |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen3vl-2b | text | 9/16 (56%) | 0/3 (0%) | 1/17 (6%) | 1/20 (5%) | 1/16 (6%) |"
+    }
+   ]
+  },
+  {
+   "id": "v-text-unparsed",
+   "text": "Caption only, haiku left 24 of 96 answers without a category list.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| haiku | text | 53/96 (55%) [45–65] | 25/64 (39%) | 4/32 (12%) | 2/22 (9%) | 25/72 (35%) | 44/96 (46%) | 16/22 (73%) | 24 | None | – |"
+    }
+   ]
+  },
+  {
+   "id": "v-haiku-frames",
+   "text": "haiku with 16 frames was right on 86 of 96 videos (90%) and caught 64 of 64 violating ads; with 8 frames it was right on 78 of 96 (81%).",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| haiku | frames16 | 86/96 (90%) [82–94] | 64/64 (100%) | 10/32 (31%) | 9/22 (41%) | 71/72 (99%) | 75/96 (78%) | 55/55 (100%) | 0 | None | – |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| haiku | frames8 | 78/96 (81%) [72–88] | 59/64 (92%) | 13/32 (41%) | 12/22 (55%) | 64/72 (89%) | 65/96 (68%) | 48/49 (98%) | 0 | None | – |"
+    }
+   ]
+  },
+  {
+   "id": "v-sticker-haiku",
+   "text": "Sticker labels found by haiku: 13 of 20 with 8 frames, 19 of 20 with 16 frames.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| haiku | frames8 | 16/16 (100%) | 3/3 (100%) | 17/17 (100%) | 13/20 (65%) | 15/16 (94%) |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| haiku | frames16 | 16/16 (100%) | 3/3 (100%) | 17/17 (100%) | 19/20 (95%) | 16/16 (100%) |"
+    }
+   ]
+  },
+  {
+   "id": "v-4b-frames-video",
+   "text": "qwen35-4b was right on 69 of 96 (72%) with 8 frames and 80 of 96 (83%) with the video; it wrongly rejected 23 of 32 and 13 of 32 compliant ads; median 9.15 and 19.2 seconds.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | frames8 | 69/96 (72%) [62–80] | 60/64 (94%) | 23/32 (72%) | 17/22 (77%) | 56/72 (78%) | 57/96 (59%) | 37/44 (84%) | 0 | 9.15 | 5.77 |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | video | 80/96 (83%) [75–89] | 61/64 (95%) | 13/32 (41%) | 13/22 (59%) | 58/72 (81%) | 69/96 (72%) | 36/46 (78%) | 0 | 19.22 | 5.8 |"
+    }
+   ]
+  },
+  {
+   "id": "v-sticker-4b",
+   "text": "Sticker labels found by qwen35-4b: 14 of 20 with 8 frames, 15 of 20 with the video.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | frames8 | 13/16 (81%) | 3/3 (100%) | 14/17 (82%) | 14/20 (70%) | 12/16 (75%) |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | video | 14/16 (88%) | 3/3 (100%) | 14/17 (82%) | 15/20 (75%) | 12/16 (75%) |"
+    }
+   ]
+  },
+  {
+   "id": "v-4b-ocr16",
+   "text": "qwen35-4b with the OCR of 16 frames was right on 80 of 96 (83%) and caught 57 of 64, at a median 2.4 seconds and 3.5 GB; with the video it took 19.2 seconds and 5.8 GB.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | ocr16 | 80/96 (83%) [75–89] | 57/64 (89%) | 9/32 (28%) | 9/22 (41%) | 56/72 (78%) | 70/96 (73%) | 48/51 (94%) | 0 | 2.39 | 3.46 |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | video | 80/96 (83%) [75–89] | 61/64 (95%) | 13/32 (41%) | 13/22 (59%) | 58/72 (81%) | 69/96 (72%) | 36/46 (78%) | 0 | 19.22 | 5.8 |"
+    }
+   ]
+  },
+  {
+   "id": "v-4b-ocr16-loc",
+   "text": "qwen35-4b with the OCR of 16 frames found 14 of 16 caption, 3 of 3 cover-shot subtitle, 17 of 17 later subtitle and 17 of 20 sticker labels; with the video 14, 3, 14 and 15.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | ocr16 | 14/16 (88%) | 3/3 (100%) | 17/17 (100%) | 17/20 (85%) | 5/16 (31%) |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | video | 14/16 (88%) | 3/3 (100%) | 14/17 (82%) | 15/20 (75%) | 12/16 (75%) |"
+    }
+   ]
+  },
+  {
+   "id": "v-haiku-ocr8",
+   "text": "haiku with the OCR of 8 frames was right on 78 of 96 (81%), as with the 8 frames themselves (78 of 96, 81%).",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| haiku | ocr8 | 78/96 (81%) [72–88] | 54/64 (84%) | 8/32 (25%) | 8/22 (36%) | 57/72 (79%) | 66/96 (69%) | 48/50 (96%) | 0 | None | – |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| haiku | frames8 | 78/96 (81%) [72–88] | 59/64 (92%) | 13/32 (41%) | 12/22 (55%) | 64/72 (89%) | 65/96 (68%) | 48/49 (98%) | 0 | None | – |"
+    }
+   ]
+  },
+  {
+   "id": "v-lora-ocr16",
+   "text": "qwen3-1.7b-lora on the caption plus OCR of 16 frames was right on 77 of 96 (80%) at a median 0.10 seconds per ad; haiku on the same text 77 of 96 (80%), haiku-400 82 of 96 (85%).",
+   "evidence": [
+    {
+     "source": "text_summary.md",
+     "quote": "| video-ocr | qwen3-1.7b-lora | 77/96 (80%) [71–87] | 50/64 (78%) | 5/32 (16%) | – | 52/72 (72%) | 70/96 (73%) | 0.714 | 0 | 0.1016 |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| video-ocr | haiku | 77/96 (80%) [71–87] | 54/64 (84%) | 9/32 (28%) | – | 56/72 (78%) | 59/96 (61%) | 0.65 | 8 | None |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| video-ocr | haiku-400 | 82/96 (85%) [77–91] | 57/64 (89%) | 7/32 (22%) | – | 61/72 (85%) | 69/96 (72%) | 0.751 | 0 | None |"
+    }
+   ]
+  },
+  {
+   "id": "v-ocr-footage",
+   "text": "Footage-only labels found from OCR text: haiku ocr8 7, qwen35-4b ocr8 7, qwen35-4b ocr16 5, qwen3vl-2b ocr8 5 and qwen3vl-2b ocr16 8, each of 16.",
+   "evidence": [
+    {
+     "source": "visual_evidence.md",
+     "quote": "| haiku | ocr8 | no | 7/16 | – | 7 | 2 | – |"
+    },
+    {
+     "source": "visual_evidence.md",
+     "quote": "| qwen35-4b | ocr8 | no | 7/16 | – | 7 | 2 | – |"
+    },
+    {
+     "source": "visual_evidence.md",
+     "quote": "| qwen35-4b | ocr16 | no | 5/16 | – | 5 | 2 | – |"
+    },
+    {
+     "source": "visual_evidence.md",
+     "quote": "| qwen3vl-2b | ocr8 | no | 5/16 | – | 5 | 2 | – |"
+    },
+    {
+     "source": "visual_evidence.md",
+     "quote": "| qwen3vl-2b | ocr16 | no | 8/16 | – | 8 | 3 | – |"
+    }
+   ]
+  },
+  {
+   "id": "v-cover-guess",
+   "text": "With the cover, haiku and qwen35-4b each caught 9 of 16 footage-only labels, 2 with evidence from the footage and 7 naming only the category; qwen3vl-2b caught 12, 3 with evidence from the footage.",
+   "evidence": [
+    {
+     "source": "visual_evidence.md",
+     "quote": "| haiku | cover | yes | 9/16 | 2 | 7 | 2 | 0 |"
+    },
+    {
+     "source": "visual_evidence.md",
+     "quote": "| qwen35-4b | cover | yes | 9/16 | 2 | 7 | 1 | 0 |"
+    },
+    {
+     "source": "visual_evidence.md",
+     "quote": "| qwen3vl-2b | cover | yes | 12/16 | 3 | 9 | 2 | 0 |"
+    }
+   ]
+  },
+  {
+   "id": "v-frames-reason",
+   "text": "With frames, every footage-only label caught by haiku (15 with 8 frames, 16 with 16) and qwen35-4b (12 with 8 frames, 12 with the video) came with evidence from the footage.",
+   "evidence": [
+    {
+     "source": "visual_evidence.md",
+     "quote": "| haiku | frames8 | yes | 15/16 | 15 | 0 | 3 | 1 |"
+    },
+    {
+     "source": "visual_evidence.md",
+     "quote": "| haiku | frames16 | yes | 16/16 | 16 | 0 | 2 | 0 |"
+    },
+    {
+     "source": "visual_evidence.md",
+     "quote": "| qwen35-4b | frames8 | yes | 12/16 | 12 | 0 | 4 | 2 |"
+    },
+    {
+     "source": "visual_evidence.md",
+     "quote": "| qwen35-4b | video | yes | 12/16 | 12 | 0 | 3 | 1 |"
+    }
+   ]
+  },
+  {
+   "id": "v-2b-checklist",
+   "text": "qwen3vl-2b with 8 frames was right on 65 of 96 and wrongly rejected 28 of 32 compliant ads; it listed 270 categories, 2.8 per ad and 3.2 per compliant ad, 103 with no evidence.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen3vl-2b | frames8 | 65/96 (68%) [58–76] | 61/64 (95%) | 28/32 (88%) | 21/22 (95%) | 64/72 (89%) | 29/96 (30%) | 26/49 (53%) | 0 | 58.15 | 6.6 |"
+    },
+    {
+     "source": "visual_evidence.md",
+     "quote": "| qwen3vl-2b | frames8 | 270 | 2.81 | 3.22 | 103 |"
+    }
+   ]
+  },
+  {
+   "id": "v-2b-lookalikes",
+   "text": "qwen3vl-2b with 8 frames caught 15 of 16 footage-only labels, 6 with evidence from the footage, and flagged 6 of 7 alcohol look-alikes.",
+   "evidence": [
+    {
+     "source": "visual_evidence.md",
+     "quote": "| qwen3vl-2b | frames8 | yes | 15/16 | 6 | 9 | 6 | 1 |"
+    },
+    {
+     "source": "visual_evidence.md",
+     "quote": "| model | input | sees the footage | footage-only labels caught | evidence says the footage shows it | category only | alcohol look-alikes wrongly flagged (of 7) | of those, evidence says drinking is shown |"
+    }
+   ]
+  },
+  {
+   "id": "v-2b-video",
+   "text": "qwen3vl-2b with the video was right on 54 of 96 (56%) and caught 40 of 64, listing 145 categories, 1.51 per ad; qwen35-4b with the video was right on 80 of 96 (83%).",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen3vl-2b | video | 54/96 (56%) [46–66] | 40/64 (62%) | 18/32 (56%) | 13/22 (59%) | 42/72 (58%) | 37/96 (39%) | 24/31 (77%) | 0 | 71.56 | 6.63 |"
+    },
+    {
+     "source": "visual_evidence.md",
+     "quote": "| qwen3vl-2b | video | 145 | 1.51 | 2.16 | 56 |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | video | 80/96 (83%) [75–89] | 61/64 (95%) | 13/32 (41%) | 13/22 (59%) | 58/72 (81%) | 69/96 (72%) | 36/46 (78%) | 0 | 19.22 | 5.8 |"
+    }
+   ]
+  },
+  {
+   "id": "v-2b-wrong",
+   "text": "Compliant ads wrongly rejected: qwen3vl-2b 28 of 32 with 8 frames and 18 of 32 with the video; qwen35-4b 23 and 13.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen3vl-2b | frames8 | 65/96 (68%) [58–76] | 61/64 (95%) | 28/32 (88%) | 21/22 (95%) | 64/72 (89%) | 29/96 (30%) | 26/49 (53%) | 0 | 58.15 | 6.6 |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen3vl-2b | video | 54/96 (56%) [46–66] | 40/64 (62%) | 18/32 (56%) | 13/22 (59%) | 42/72 (58%) | 37/96 (39%) | 24/31 (77%) | 0 | 71.56 | 6.63 |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | frames8 | 69/96 (72%) [62–80] | 60/64 (94%) | 23/32 (72%) | 17/22 (77%) | 56/72 (78%) | 57/96 (59%) | 37/44 (84%) | 0 | 9.15 | 5.77 |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | video | 80/96 (83%) [75–89] | 61/64 (95%) | 13/32 (41%) | 13/22 (59%) | 58/72 (81%) | 69/96 (72%) | 36/46 (78%) | 0 | 19.22 | 5.8 |"
+    }
+   ]
+  },
+  {
+   "id": "v-2b-time",
+   "text": "qwen3vl-2b median seconds: 0.27 with text only, 71.6 with the video; peak 6.6 GB with 8 frames.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen3vl-2b | text | 49/96 (51%) [41–61] | 17/64 (27%) | 0/32 (0%) | 0/22 (0%) | 12/72 (17%) | 41/96 (43%) | 9/11 (82%) | 0 | 0.27 | 4.05 |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen3vl-2b | video | 54/96 (56%) [46–66] | 40/64 (62%) | 18/32 (56%) | 13/22 (59%) | 42/72 (58%) | 37/96 (39%) | 24/31 (77%) | 0 | 71.56 | 6.63 |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen3vl-2b | frames8 | 65/96 (68%) [58–76] | 61/64 (95%) | 28/32 (88%) | 21/22 (95%) | 64/72 (89%) | 29/96 (30%) | 26/49 (53%) | 0 | 58.15 | 6.6 |"
+    }
+   ]
+  },
+  {
+   "id": "v-4b-time",
+   "text": "qwen35-4b median seconds: 0.97 with text only, 19.2 with the video.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | text | 47/96 (49%) [39–59] | 16/64 (25%) | 1/32 (3%) | 1/22 (5%) | 15/72 (21%) | 42/96 (44%) | 11/15 (73%) | 0 | 0.97 | 3.45 |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | video | 80/96 (83%) [75–89] | 61/64 (95%) | 13/32 (41%) | 13/22 (59%) | 58/72 (81%) | 69/96 (72%) | 36/46 (78%) | 0 | 19.22 | 5.8 |"
+    }
+   ]
+  },
+  {
+   "id": "v-siglip",
+   "text": "siglip2 was right on 58 of 96 (60%) with 8 frames and 62 of 96 (65%) with 16; with 8 frames it found 10 of 17 later subtitles and 7 of 16 footage-only labels.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| siglip2 | siglip-frames8 | 58/96 (60%) [50–70] | 34/64 (53%) | 8/32 (25%) | 8/22 (36%) | 27/72 (38%) | 38/96 (40%) | 0/20 (0%) | 0 | 0.31 | – |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| siglip2 | siglip-frames16 | 62/96 (65%) [55–73] | 37/64 (58%) | 7/32 (22%) | 7/22 (32%) | 30/72 (42%) | 39/96 (41%) | 0/23 (0%) | 0 | 0.62 | – |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| siglip2 | siglip-frames8 | 1/16 (6%) | 2/3 (67%) | 10/17 (59%) | 7/20 (35%) | 7/16 (44%) |"
+    }
+   ]
+  },
+  {
+   "id": "v-lookalikes",
+   "text": "Look-alikes wrongly rejected: haiku with 16 frames 9 of 22, qwen35-4b with 8 frames 17 of 22.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| haiku | frames16 | 86/96 (90%) [82–94] | 64/64 (100%) | 10/32 (31%) | 9/22 (41%) | 71/72 (99%) | 75/96 (78%) | 55/55 (100%) | 0 | None | – |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | frames8 | 69/96 (72%) [62–80] | 60/64 (94%) | 23/32 (72%) | 17/22 (77%) | 56/72 (78%) | 57/96 (59%) | 37/44 (84%) | 0 | 9.15 | 5.77 |"
+    }
+   ]
+  },
+  {
+   "id": "v-labels-4b",
+   "text": "Labels found with text only: qwen35-4b 15 of 72 (21%), qwen3vl-2b 12 of 72 (17%).",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | text | 47/96 (49%) [39–59] | 16/64 (25%) | 1/32 (3%) | 1/22 (5%) | 15/72 (21%) | 42/96 (44%) | 11/15 (73%) | 0 | 0.97 | 3.45 |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen3vl-2b | text | 49/96 (51%) [41–61] | 17/64 (27%) | 0/32 (0%) | 0/22 (0%) | 12/72 (17%) | 41/96 (43%) | 9/11 (82%) | 0 | 0.27 | 4.05 |"
+    }
+   ]
+  },
+  {
+   "id": "t-gr",
+   "text": "On Grounded Review's 168 items: qwen3-1.7b-lora 133 (79%), qwen3-1.7b-zs 114 (68%), haiku 138 (82%), mmbert 132 (79%), qwen3-0.6b-lora 130 (77%).",
+   "evidence": [
+    {
+     "source": "text_summary.md",
+     "quote": "| grounded-review | qwen3-1.7b-lora | 133/168 (79%) [72–85] | 84/93 (90%) | 26/75 (35%) | 19/56 (34%) | 83/99 (84%) | 123/168 (73%) | 0.774 | 0 | 0.0966 |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| grounded-review | qwen3-1.7b-zs | 114/168 (68%) [60–74] | 52/93 (56%) | 13/75 (17%) | 10/56 (18%) | 47/99 (47%) | 92/168 (55%) | 0.431 | 0 | 0.0721 |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| grounded-review | haiku | 138/168 (82%) [76–87] | 92/93 (99%) | 29/75 (39%) | 20/56 (36%) | 96/99 (97%) | 122/168 (73%) | 0.832 | 3 | None |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| grounded-review | mmbert | 132/168 (79%) [72–84] | 73/93 (78%) | 16/75 (21%) | 10/56 (18%) | 73/99 (74%) | 128/168 (76%) | 0.775 | 0 | 0.0075 |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| grounded-review | qwen3-0.6b-lora | 130/168 (77%) [70–83] | 79/93 (85%) | 24/75 (32%) | 21/56 (38%) | 76/99 (77%) | 117/168 (70%) | 0.733 | 0 | 0.0777 |"
+    }
+   ]
+  },
+  {
+   "id": "t-real",
+   "text": "On the 46 real cases: qwen3-1.7b-lora 38 (83%), haiku 33 (72%), haiku-400 35 (76%), mmbert 25 (54%), qwen3-0.6b-lora 36 (78%).",
+   "evidence": [
+    {
+     "source": "text_summary.md",
+     "quote": "| real | qwen3-1.7b-lora | 38/46 (83%) [69–91] | 33/35 (94%) | 6/11 (55%) | 6/11 (55%) | 30/40 (75%) | 26/46 (57%) | 0.591 | 0 | 0.2276 |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| real | haiku | 33/46 (72%) [57–83] | 31/35 (89%) | 9/11 (82%) | 9/11 (82%) | 27/40 (68%) | 13/46 (28%) | 0.459 | 15 | None |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| real | haiku-400 | 35/46 (76%) [62–86] | 31/35 (89%) | 7/11 (64%) | 7/11 (64%) | 33/40 (82%) | 18/46 (39%) | 0.545 | 3 | None |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| real | mmbert | 25/46 (54%) [40–68] | 15/35 (43%) | 1/11 (9%) | 1/11 (9%) | 14/40 (35%) | 20/46 (43%) | 0.265 | 0 | 0.0352 |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| real | qwen3-0.6b-lora | 36/46 (78%) [64–88] | 33/35 (94%) | 8/11 (73%) | 8/11 (73%) | 29/40 (72%) | 24/46 (52%) | 0.598 | 0 | 0.1607 |"
+    }
+   ]
+  },
+  {
+   "id": "t-real-caught",
+   "text": "On the real cases mmbert caught 15 of 35 violations and qwen3-1.7b-lora 33 of 35; haiku left 15 of 46 unparsed.",
+   "evidence": [
+    {
+     "source": "text_summary.md",
+     "quote": "| real | mmbert | 25/46 (54%) [40–68] | 15/35 (43%) | 1/11 (9%) | 1/11 (9%) | 14/40 (35%) | 20/46 (43%) | 0.265 | 0 | 0.0352 |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| real | qwen3-1.7b-lora | 38/46 (83%) [69–91] | 33/35 (94%) | 6/11 (55%) | 6/11 (55%) | 30/40 (75%) | 26/46 (57%) | 0.591 | 0 | 0.2276 |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| real | haiku | 33/46 (72%) [57–83] | 31/35 (89%) | 9/11 (82%) | 9/11 (82%) | 27/40 (68%) | 13/46 (28%) | 0.459 | 15 | None |"
+    }
+   ]
+  },
+  {
+   "id": "t-caught",
+   "text": "On Grounded Review qwen3-1.7b-lora caught 84 of 93 violating ads and qwen3-1.7b-zs 52 of 93; they wrongly rejected 26 of 75 and 13 of 75 compliant ads, haiku 29 of 75.",
+   "evidence": [
+    {
+     "source": "text_summary.md",
+     "quote": "| grounded-review | qwen3-1.7b-lora | 133/168 (79%) [72–85] | 84/93 (90%) | 26/75 (35%) | 19/56 (34%) | 83/99 (84%) | 123/168 (73%) | 0.774 | 0 | 0.0966 |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| grounded-review | qwen3-1.7b-zs | 114/168 (68%) [60–74] | 52/93 (56%) | 13/75 (17%) | 10/56 (18%) | 47/99 (47%) | 92/168 (55%) | 0.431 | 0 | 0.0721 |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| grounded-review | haiku | 138/168 (82%) [76–87] | 92/93 (99%) | 29/75 (39%) | 20/56 (36%) | 96/99 (97%) | 122/168 (73%) | 0.832 | 3 | None |"
+    }
+   ]
+  },
+  {
+   "id": "t-synth",
+   "text": "Synthetic validation: qwen3-1.7b-lora 174 of 191 (91%), qwen3-0.6b-lora 170 of 191 (89%), mmbert 173 of 191 (91%).",
+   "evidence": [
+    {
+     "source": "text_summary.md",
+     "quote": "| synth-val | qwen3-1.7b-lora | 174/191 (91%) [86–94] | 78/89 (88%) | 6/102 (6%) | 5/71 (7%) | 79/98 (81%) | 165/191 (86%) | 0.851 | 0 | 0.0872 |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| synth-val | qwen3-0.6b-lora | 170/191 (89%) [84–93] | 78/89 (88%) | 10/102 (10%) | 6/71 (8%) | 80/98 (82%) | 162/191 (85%) | 0.831 | 0 | 0.0872 |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| synth-val | mmbert | 173/191 (91%) [86–94] | 77/89 (87%) | 6/102 (6%) | 5/71 (7%) | 79/98 (81%) | 164/191 (86%) | 0.867 | 0 | 0.007 |"
+    }
+   ]
+  },
+  {
+   "id": "t-paired",
+   "text": "Paired differences: Grounded Review qwen3-1.7b-lora minus qwen3-1.7b-zs +11.3 (+3.6 to +19.0), minus haiku -3.0 (-9.5 to +3.6); real cases minus qwen3-1.7b-zs +37.0 (+19.6 to +54.3), minus haiku-400 +6.5 (-4.3 to +17.4).",
+   "evidence": [
+    {
+     "source": "text_paired.md",
+     "quote": "| grounded-review | qwen3-1.7b-lora | qwen3-1.7b-zs | 168 | +11.3 | +3.6 to +19.0 |"
+    },
+    {
+     "source": "text_paired.md",
+     "quote": "| grounded-review | qwen3-1.7b-lora | haiku | 168 | -3.0 | -9.5 to +3.6 |"
+    },
+    {
+     "source": "text_paired.md",
+     "quote": "| real | qwen3-1.7b-lora | qwen3-1.7b-zs | 46 | +37.0 | +19.6 to +54.3 |"
+    },
+    {
+     "source": "text_paired.md",
+     "quote": "| real | qwen3-1.7b-lora | haiku-400 | 46 | +6.5 | -4.3 to +17.4 |"
+    }
+   ]
+  },
+  {
+   "id": "t-speed",
+   "text": "Median seconds per ad on Grounded Review: qwen3-1.7b-lora 0.097, mmbert 0.0075.",
+   "evidence": [
+    {
+     "source": "text_summary.md",
+     "quote": "| grounded-review | qwen3-1.7b-lora | 133/168 (79%) [72–85] | 84/93 (90%) | 26/75 (35%) | 19/56 (34%) | 83/99 (84%) | 123/168 (73%) | 0.774 | 0 | 0.0966 |"
+    },
+    {
+     "source": "text_summary.md",
+     "quote": "| grounded-review | mmbert | 132/168 (79%) [72–84] | 73/93 (78%) | 16/75 (21%) | 10/56 (18%) | 73/99 (74%) | 128/168 (76%) | 0.775 | 0 | 0.0075 |"
+    }
+   ]
+  },
+  {
+   "id": "t-train",
+   "text": "qwen3-1.7b-lora was trained on 1529 examples with 17.4 million trainable parameters in 46.2 minutes, peak 7.8 GB.",
+   "evidence": [
+    {
+     "source": "train/qwen3-1.7b-lora.json",
+     "quote": "\"train_examples\": 1529"
+    },
+    {
+     "source": "train/qwen3-1.7b-lora.json",
+     "quote": "\"trainable_params\": 17432576"
+    },
+    {
+     "source": "train/qwen3-1.7b-lora.json",
+     "quote": "\"peak_gb\": 7.76"
+    },
+    {
+     "source": "train/qwen3-1.7b-lora.json",
+     "quote": "\"minutes\": 46.2"
+    }
+   ]
+  },
+  {
+   "id": "k-haiku",
+   "text": "KuaiMod, haiku: right on 184 of 300 (61%) with text, 207 (69%) with frames, 214 (71%) with frames+text; caught 73, 104 and 111 of 127; fine videos flagged 62, 70 and 70 of 173 (36%, 40%, 40%); commerce caught 17, 17 and 19 of 20.",
+   "evidence": [
+    {
+     "source": "kuaimod_summary.md",
+     "quote": "| haiku | text | 184/300 (61%) [56–67] | 73/127 (57%) | 62/173 (36%) | 17/20 | 0.557 | 2 |"
+    },
+    {
+     "source": "kuaimod_summary.md",
+     "quote": "| haiku | frames | 207/300 (69%) [64–74] | 104/127 (82%) | 70/173 (40%) | 17/20 | 0.691 | 2 |"
+    },
+    {
+     "source": "kuaimod_summary.md",
+     "quote": "| haiku | frames+text | 214/300 (71%) [66–76] | 111/127 (87%) | 70/173 (40%) | 19/20 | 0.721 | 2 |"
+    }
+   ]
+  },
+  {
+   "id": "k-4b",
+   "text": "KuaiMod, qwen35-4b: right on 214 of 300 (71%) with text and 225 of 300 (75%) with frames+text; caught 58 and 97 of 127; fine videos flagged 17 and 45 of 173 (10%, 26%); commerce caught 15 and 18 of 20; F1 0.574 and 0.721.",
+   "evidence": [
+    {
+     "source": "kuaimod_summary.md",
+     "quote": "| qwen35-4b | text | 214/300 (71%) [66–76] | 58/127 (46%) | 17/173 (10%) | 15/20 | 0.574 | 0 |"
+    },
+    {
+     "source": "kuaimod_summary.md",
+     "quote": "| qwen35-4b | frames+text | 225/300 (75%) [70–80] | 97/127 (76%) | 45/173 (26%) | 18/20 | 0.721 | 0 |"
+    }
+   ]
+  },
+  {
+   "id": "k-intervals",
+   "text": "KuaiMod intervals: qwen35-4b frames+text 75% [70–80], haiku frames+text 71% [66–76]; haiku left 2 answers unparsed in each run.",
+   "evidence": [
+    {
+     "source": "kuaimod_summary.md",
+     "quote": "| qwen35-4b | frames+text | 225/300 (75%) [70–80] | 97/127 (76%) | 45/173 (26%) | 18/20 | 0.721 | 0 |"
+    },
+    {
+     "source": "kuaimod_summary.md",
+     "quote": "| haiku | frames+text | 214/300 (71%) [66–76] | 111/127 (87%) | 70/173 (40%) | 19/20 | 0.721 | 2 |"
+    },
+    {
+     "source": "kuaimod_summary.md",
+     "quote": "| haiku | text | 184/300 (61%) [56–67] | 73/127 (57%) | 62/173 (36%) | 17/20 | 0.557 | 2 |"
+    },
+    {
+     "source": "kuaimod_summary.md",
+     "quote": "| haiku | frames | 207/300 (69%) [64–74] | 104/127 (82%) | 70/173 (40%) | 17/20 | 0.691 | 2 |"
+    }
+   ]
+  },
+  {
+   "id": "v-best",
+   "text": "The best video run was haiku with 16 frames at 86 of 96 (90%); the next were qwen35-4b with the video and with the OCR of 16 frames, 80 of 96 (83%) each.",
+   "evidence": [
+    {
+     "source": "video_summary.md",
+     "quote": "| haiku | frames16 | 86/96 (90%) [82–94] | 64/64 (100%) | 10/32 (31%) | 9/22 (41%) | 71/72 (99%) | 75/96 (78%) | 55/55 (100%) | 0 | None | – |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | video | 80/96 (83%) [75–89] | 61/64 (95%) | 13/32 (41%) | 13/22 (59%) | 58/72 (81%) | 69/96 (72%) | 36/46 (78%) | 0 | 19.22 | 5.8 |"
+    },
+    {
+     "source": "video_summary.md",
+     "quote": "| qwen35-4b | ocr16 | 80/96 (83%) [75–89] | 57/64 (89%) | 9/32 (28%) | 9/22 (41%) | 56/72 (78%) | 70/96 (73%) | 48/51 (94%) | 0 | 2.39 | 3.46 |"
+    }
+   ]
+  },
+  {
+   "id": "c-total",
+   "text": "Claude API cost for the whole project: USD 0.70.",
+   "evidence": [
+    {
+     "source": "claude_costs.json",
+     "quote": "\"total_usd\": 0.6971"
+    }
+   ]
+  },
+  {
+   "id": "c-parts",
+   "text": "Claude API cost by batch: synthetic training ads 0.0557, video answers 0.0837 and 0.0042, text 0.0175, text with a 400-token limit 0.0194.",
+   "evidence": [
+    {
+     "source": "claude_costs.json",
+     "quote": "\"usd\": 0.0557"
+    },
+    {
+     "source": "claude_costs.json",
+     "quote": "\"usd\": 0.0837"
+    },
+    {
+     "source": "claude_costs.json",
+     "quote": "\"usd\": 0.0042"
+    },
+    {
+     "source": "claude_costs.json",
+     "quote": "\"usd\": 0.0175"
+    },
+    {
+     "source": "claude_costs.json",
+     "quote": "\"usd\": 0.0194"
+    },
+    {
+     "source": "claude_costs.json",
+     "quote": "\"tag\": \"text-haiku-400\""
+    }
+   ]
+  }
+ ]
+}

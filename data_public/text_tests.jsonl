@@ -1,0 +1,264 @@
+{"id": "zh-d01", "split": "gr-dev", "lang": "zh", "text": "知更护眼台灯，护眼效果全国第一，孩子写作业不再眼累。", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "zh-d02", "split": "gr-dev", "lang": "zh", "text": "云栖安神花草茶，每晚一杯喝出好睡眠，根治失眠多梦。", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zh-d03", "split": "gr-dev", "lang": "zh", "text": "澄心少儿编程，学完保证考进重点中学，名额有限。", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zh-d04", "split": "gr-dev", "lang": "zh", "text": "青禾鲜牛奶，开封后请冷藏，最好在 3 天内饮用完。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-d05", "split": "gr-dev", "lang": "zh", "text": "云栖睡眠调研：62% 的受访者每周至少一晚睡不好（数据来源：云栖研究院 2025 年 3 月问卷调查，样本 1200 人）。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-d06", "split": "gr-dev", "lang": "zh", "text": "山屿财富：月收益 2%，本金保障，躺着就能赚钱。", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zh-d07", "split": "gr-dev", "lang": "zh", "text": "青禾高速吹风机，新品上市。\n最强风力 3 分钟速干\n青禾高速吹风机\n新品价 ¥399", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "zh-d08", "split": "gr-dev", "lang": "zh", "text": "木朴手机壳，防摔又轻薄。\n某宝便宜货一摔就碎\n木朴军工级防摔手机壳\n¥49 两件 ¥89\n木朴", "gold": ["DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "zh-d09", "split": "gr-dev", "lang": "zh", "text": "山屿高山绿茶，春茶上新。\n山屿高山绿茶\n春茶上新 礼盒装\n¥268\n山屿", "gold": [], "removed_visual": ["FLAG"], "trap": false}
+{"id": "zh-d10", "split": "gr-dev", "lang": "zh", "text": "醉山河白酒，朋友相聚就喝它。\n喝了这杯 烦恼全无\n醉山河 浓香型白酒\n52%vol 500ml\n醉山河", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "zh-d11", "split": "gr-dev", "lang": "zh", "text": "云栖羽绒服，冬季新款。\n2025 年双 11 天猫羽绒服类目销量第一\n数据来源：天猫，统计期 2025.11.1–11.11\n云栖轻暖羽绒服 ¥699\n云栖", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-d12", "split": "gr-dev", "lang": "zh", "text": "云栖棉拖，冬天在家穿。\n云栖加厚棉拖\n冬季保暖 防滑底\n¥39 包邮", "gold": [], "removed_visual": [], "trap": false}
+{"id": "en-d01", "split": "gr-dev", "lang": "en", "text": "Brightfold Cloud mattress: the world's best mattress, period. Free delivery.", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "en-d02", "split": "gr-dev", "lang": "en", "text": "Kestrel CBD gummies cure anxiety and depression. Feel like yourself again.", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "en-d03", "split": "gr-dev", "lang": "en", "text": "Burn fat without exercise: just two Slimora capsules a day.", "gold": ["WEIGHT"], "removed_visual": [], "trap": false}
+{"id": "en-d04", "split": "gr-dev", "lang": "en", "text": "Lumeo Sunscreen SPF 50. Reapply every 2 hours for best results.", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-d05", "split": "gr-dev", "lang": "en", "text": "Get cash in 10 seconds with QuickLoan. No credit checks.", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "en-d06", "split": "gr-dev", "lang": "en", "text": "Happy hour at Verdi Bar: buy 3 cocktails, get 3 free. The more you drink, the more you save!", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "en-d07", "split": "gr-dev", "lang": "en", "text": "Lumeo Clear Serum. Visible results.\nBEFORE\nAFTER\nLumeo Clear Serum", "gold": [], "removed_visual": ["BEFORE_AFTER"], "trap": false}
+{"id": "en-d08", "split": "gr-dev", "lang": "en", "text": "Oakline robot vacuum. Quiet and smart.\nStill using NovaClean?\nEnjoy your dirty floors.\nOakline S2 $299", "gold": ["DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "en-d09", "split": "gr-dev", "lang": "en", "text": "Verdi Rosé, new vintage.\nVerdi Rosé 2025\n12.5% ABV\nPlease drink responsibly.\nVerdi", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-d10", "split": "gr-dev", "lang": "en", "text": "Nuvola Blend Pro. Smoothies in seconds.\nUnbeatable.\nThe fastest blender on Earth\nNuvola Blend Pro $129\nNuvola", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "en-d11", "split": "gr-dev", "lang": "en", "text": "Verdi autumn collection is here.\nCollection 01\nVerdi Autumn Wool Coat\n$189\nVerdi", "gold": [], "removed_visual": [], "trap": false}
+{"id": "en-d12", "split": "gr-dev", "lang": "en", "text": "Brightfold Driving School. Book your lessons.\n100% pass rate\nGuaranteed driving test pass\nBrightfold Driving School", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zh-t01", "split": "gr-test", "lang": "zh", "text": "「云栖」乳胶枕：全网最舒服的枕头，睡过就回不去。限时 ¥199。", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "zh-t02", "split": "gr-test", "lang": "zh", "text": "木朴艾草足浴包，每晚泡脚 20 分钟，改善风湿关节痛。", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zh-t03", "split": "gr-test", "lang": "zh", "text": "知更考研集训营：签约保过，不过全额退费！名师 1 对 1 带教。", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zh-t04", "split": "gr-test", "lang": "zh", "text": "澄心农场加盟：投资 5 万，年回报 30%，稳赚不赔！", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zh-t05", "split": "gr-test", "lang": "zh", "text": "还在用易净扫地机？又吵又笨，买它等于交智商税。青禾扫地机，安静又聪明。", "gold": ["DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "zh-t06", "split": "gr-test", "lang": "zh", "text": "青禾美白牙膏，98% 的用户使用一周后牙齿明显变白。", "gold": ["DATA"], "removed_visual": [], "trap": false}
+{"id": "zh-t07", "split": "gr-test", "lang": "zh", "text": "山屿登山鞋，国内销量第一，89% 的驴友首选。", "gold": ["ABSOLUTE", "DATA"], "removed_visual": [], "trap": false}
+{"id": "zh-t08", "split": "gr-test", "lang": "zh", "text": "澄心深海鱼油软胶囊（保健食品），降血脂、预防心脑血管疾病，中老年人每天必备。", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zh-t09", "split": "gr-test", "lang": "zh", "text": "醉山河白酒，一杯下肚，压力全消，干活更有劲！", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "zh-t10", "split": "gr-test", "lang": "zh", "text": "云栖冷萃咖啡，最佳饮用温度 4–8℃，冷藏后风味更好。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t11", "split": "gr-test", "lang": "zh", "text": "知更书店：顾客第一，用心服务每一位读者。本周新书 8 折。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t12", "split": "gr-test", "lang": "zh", "text": "青禾牙膏，使用 4 周牙渍减少 32%（数据来源：青禾实验室 2025 年 6 月测试，样本 60 人，效果因人而异）。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t13", "split": "gr-test", "lang": "zh", "text": "知更英语：外教小班课，课程覆盖四六级全部题型，试听不满意 7 天无理由退款。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t14", "split": "gr-test", "lang": "zh", "text": "山屿保温杯，2025 年 9 月京东平台保温杯品类销量第一（数据来源：京东商智，统计期 2025 年 9 月 1–30 日）。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t15", "split": "gr-test", "lang": "zh", "text": "澄心手工皂，橄榄油冷制，温和清洁，留香淡雅。三块装 ¥59。", "gold": [], "removed_visual": [], "trap": false}
+{"id": "zh-t16", "split": "gr-test", "lang": "zh", "text": "木朴颈枕：别再被那些几十块的网红枕头骗了，全是劣质海绵。", "gold": ["DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "zh-t17", "split": "gr-test", "lang": "zh", "text": "山屿保温杯，冬天出门必备。\n史上最强保温\n24 小时不凉 山屿保温杯\n¥129 包邮\n山屿", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "zh-t18", "split": "gr-test", "lang": "zh", "text": "青禾防晒霜，夏天出门涂一涂。\n顶级防晒 全网第一\n青禾清透防晒霜 SPF50+\n¥89\n青禾", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "zh-t19", "split": "gr-test", "lang": "zh", "text": "青禾 Pods 3 真无线耳机，新品首发。\n青禾 Pods 3\n本品牌史上最轻的一代 单耳 3.9g\n首发价 ¥299", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t20", "split": "gr-test", "lang": "zh", "text": "澄心橄榄油，厨房必备。\n特级初榨橄榄油\n符合 GB/T 23347 特级标准\n澄心 750ml ¥118\n澄心", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t21", "split": "gr-test", "lang": "zh", "text": "木朴青瓷茶具，手工烧制。\n龙泉青瓷烧制技艺\n国家级非物质文化遗产代表性项目\n木朴手作茶具 ¥580\n木朴", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t22", "split": "gr-test", "lang": "zh", "text": "云栖草本足贴，睡前贴一贴。\n一贴改善失眠 降血压\n云栖草本足贴\n30 贴 ¥69\n云栖", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zh-t23", "split": "gr-test", "lang": "zh", "text": "青禾护手霜，冬天手干就用它。\n治疗湿疹 三天见效\n青禾修护护手霜\n50g ¥45\n青禾", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zh-t24", "split": "gr-test", "lang": "zh", "text": "山屿灵芝孢子粉（保健食品），送长辈的好礼。\n增强免疫力 抗癌防癌\n山屿灵芝孢子粉\n保健食品 60 粒\n山屿", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zh-t25", "split": "gr-test", "lang": "zh", "text": "澄心洁面乳，早晚洗脸用。\n温和氨基酸配方\n敏感肌可用 澄心洁面乳\n120g ¥59\n澄心", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t26", "split": "gr-test", "lang": "zh", "text": "知更留学雅思冲刺班，报名中。\n雅思 7 分保过 不过退款\n知更雅思冲刺班 8 周\n咨询 400-000-0000\n知更", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zh-t27", "split": "gr-test", "lang": "zh", "text": "山屿财富稳盈计划，现在开放申购。\n年化 12% 保本保息 无风险\n山屿财富稳盈计划\n起投 1 万元\n山屿", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zh-t28", "split": "gr-test", "lang": "zh", "text": "山屿财富稳健理财，长期陪伴。\n稳健理财 长期陪伴\n山屿财富\n理财非存款 产品有风险 投资须谨慎\n山屿", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t29", "split": "gr-test", "lang": "zh", "text": "青禾浓缩洗衣液，一瓶顶三瓶。\n别家洗衣液都是兑水的\n青禾浓缩度是它们的 3 倍\n2kg ¥39.9\n青禾", "gold": ["DATA", "DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "zh-t30", "split": "gr-test", "lang": "zh", "text": "青禾充电宝 2 代，续航升级。\n续航比上一代提升 20%\n数据来源：青禾实验室 2025 年 5 月测试\n青禾充电宝 2 代 ¥159\n青禾", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t31", "split": "gr-test", "lang": "zh", "text": "云栖抗皱面霜，熬夜党必备。\n97% 的用户说皱纹变少了\n云栖紧致面霜\n50ml ¥239\n云栖", "gold": ["DATA"], "removed_visual": [], "trap": false}
+{"id": "zh-t32", "split": "gr-test", "lang": "zh", "text": "木朴竞速跑鞋，轻快回弹。\n中底回弹率 72%\n国家体育用品质量检验检测中心 2025 年检测报告\n木朴竞速跑鞋 ¥599", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t33", "split": "gr-test", "lang": "zh", "text": "醉山河酱香白酒，好友相聚。\n醉山河 酱香型白酒\n53%vol 500ml", "gold": [], "removed_visual": ["ALCOHOL"], "trap": false}
+{"id": "zh-t34", "split": "gr-test", "lang": "zh", "text": "麦岭精酿啤酒，夏日新品。\n麦岭精酿啤酒\n500ml 4.8%vol", "gold": [], "removed_visual": ["ALCOHOL"], "trap": false}
+{"id": "zh-t35", "split": "gr-test", "lang": "zh", "text": "麦岭精酿酒馆，周末夜场。\n今晚不醉不归\n第二瓶半价 麦岭精酿酒馆\n周五周六 20:00 后\n麦岭", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "zh-t36", "split": "gr-test", "lang": "zh", "text": "醉山河酱香白酒，礼盒装。\n醉山河 酱香型白酒\n53%vol 500ml 礼盒装\n理性饮酒 禁止酒驾\n醉山河", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t37", "split": "gr-test", "lang": "zh", "text": "青禾手机 X5，新品发布。\n国货新旗舰 青禾 X5\n6000mAh 大电池\n¥2999 起\n青禾", "gold": [], "removed_visual": ["FLAG"], "trap": false}
+{"id": "zh-t38", "split": "gr-test", "lang": "zh", "text": "木朴家居国庆大促。\n国庆大促 全场 5 折\n木朴家居\n10 月 1 日—7 日\n木朴", "gold": [], "removed_visual": ["FLAG"], "trap": false}
+{"id": "zh-t39", "split": "gr-test", "lang": "zh", "text": "云栖家纺国庆大促。\n国庆大促 全场 5 折\n云栖家纺\n10 月 1 日—7 日\n云栖", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t40", "split": "gr-test", "lang": "zh", "text": "木朴帆布包，通勤上课都能装。\n木朴帆布托特包\n容量 20L 可放 14 寸电脑\n¥89\n木朴", "gold": [], "removed_visual": [], "trap": false}
+{"id": "zh-t41", "split": "gr-test", "lang": "zh", "text": "青禾声波电动牙刷，换新季。\n全网销量 N0.1\n青禾声波电动牙刷\n¥199\n青禾", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "zh-t42", "split": "gr-test", "lang": "zh", "text": "王阿姨喝了三个月澄心苦瓜茶，复查时医生说血糖指标正常了。一盒 ¥88。", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zh-t43", "split": "gr-test", "lang": "zh", "text": "知更公考：往届学员 100% 上岸，今年轮到你！", "gold": ["DATA", "GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zh-t44", "split": "gr-test", "lang": "zh", "text": "云栖草本代茶饮，春季焕新。\n春季焕新\n云栖草本代茶饮\n20 袋 ¥59\n本品可替代降压药，长期饮用效果更佳\n云栖", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zh-t45", "split": "gr-test", "lang": "zh", "text": "山屿财富安盈系列，年化收益——\n8% 起\n到期本息全额兑付\n山屿财富安盈系列\n山屿", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zh-t46", "split": "gr-test", "lang": "zh", "text": "木朴床垫：我们不说“最好”，只说更适合你的腰。试睡 100 晚，不满意可退。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t47", "split": "gr-test", "lang": "zh", "text": "知更治愈系插画手账本，新年款。\n治愈系插画手账本\n知更 2026 新年款\n¥36\n知更", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-t48", "split": "gr-test", "lang": "zh", "text": "山屿运动水壶，户外新品。\n山屿运动水壶\n750ml 单手开盖\n¥79\n山屿", "gold": [], "removed_visual": ["FLAG"], "trap": false}
+{"id": "en-t01", "split": "gr-test", "lang": "en", "text": "Lumeo Glow Serum: the No. 1 serum in the world. Shop now for $34.", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "en-t02", "split": "gr-test", "lang": "en", "text": "Nuvola Herbal Tea naturally cures type 2 diabetes. No more insulin!", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "en-t03", "split": "gr-test", "lang": "en", "text": "Kestrel Invest: guaranteed 20% monthly returns. Zero risk, withdraw anytime.", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "en-t04", "split": "gr-test", "lang": "en", "text": "Turn $100 into $10,000 in one week with the Kestrel trading bot.", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "en-t05", "split": "gr-test", "lang": "en", "text": "Lose 10 kg in 7 days with Slimora drops. No diet, no gym.", "gold": ["WEIGHT"], "removed_visual": [], "trap": false}
+{"id": "en-t06", "split": "gr-test", "lang": "en", "text": "Tired of being the fat friend? Oakline Shake gets you beach-body ready.", "gold": ["WEIGHT"], "removed_visual": [], "trap": false}
+{"id": "en-t07", "split": "gr-test", "lang": "en", "text": "GlowMax cream is overpriced junk. Switch to Lumeo and see real results.", "gold": ["DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "en-t08", "split": "gr-test", "lang": "en", "text": "Bottomless shots all night at Verdi Bar. Drink till you drop!", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "en-t09", "split": "gr-test", "lang": "en", "text": "Comment below for a chance to win a free case of Harbor Lager!", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "en-t10", "split": "gr-test", "lang": "en", "text": "Brightfold Prep: score 7.5+ on IELTS, guaranteed, or your money back.", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "en-t11", "split": "gr-test", "lang": "en", "text": "Kestrel Cold Brew: best served over ice.", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-t12", "split": "gr-test", "lang": "en", "text": "Nuvola noise-cancelling headphones: the cure for boring commutes.", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-t13", "split": "gr-test", "lang": "en", "text": "Guaranteed delivery by Friday on all Verdi orders over $30.", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-t14", "split": "gr-test", "lang": "en", "text": "Oakline Protein: fuel your workouts as part of a balanced diet and regular exercise.", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-t15", "split": "gr-test", "lang": "en", "text": "Kestrel Invest stocks and shares ISA. Capital at risk. Past performance is not a guide to future returns.", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-t16", "split": "gr-test", "lang": "en", "text": "Verdi linen shirts: breathable and easy to iron. New colours this week.", "gold": [], "removed_visual": [], "trap": false}
+{"id": "en-t17", "split": "gr-test", "lang": "en", "text": "Oakline Armor case. Drop-tested.\nThe strongest phone case ever made\nOakline Armor\n$29\nOakline", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "en-t18", "split": "gr-test", "lang": "en", "text": "Brightfold Stride running shoes.\n#1 running shoe in America\nBrightfold Stride\n$119", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "en-t19", "split": "gr-test", "lang": "en", "text": "Lumeo three-step routine.\nStep 1: Cleanse\nStep 2: Tone  Step 3: Glow\nLumeo Daily Set $42\nLumeo", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-t20", "split": "gr-test", "lang": "en", "text": "Verdi weekend sale.\nKiller deals this weekend\n30% off all bags\nVerdi\nVerdi", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-t21", "split": "gr-test", "lang": "en", "text": "Nuvola Skin Balm.\nClears psoriasis for good\nNuvola Skin Balm\n$24\nNuvola", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "en-t22", "split": "gr-test", "lang": "en", "text": "Kestrel Joint Support capsules.\nReverses arthritis in 30 days\nKestrel Joint Support\n60 capsules\nKestrel", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "en-t23", "split": "gr-test", "lang": "en", "text": "Lumeo Calm Moisturiser.\nDermatologist-tested\nGentle on sensitive skin\nLumeo Calm Moisturiser $28\nLumeo", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-t24", "split": "gr-test", "lang": "en", "text": "Work from home with Kestrel.\nEarn $500 a day from home.\nGuaranteed.\nJoin Kestrel today", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "en-t25", "split": "gr-test", "lang": "en", "text": "Brightfold Tips: football picks every Saturday.\nWin every bet\nGuaranteed picks every Saturday\nBrightfold Tips", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "en-t26", "split": "gr-test", "lang": "en", "text": "Lumeo Night Cream.\nWrinkles gone in 3 days. Guaranteed.\nLumeo Night Cream\n$39\nLumeo", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "en-t27", "split": "gr-test", "lang": "en", "text": "Slimora Night Burn.\nMelt belly fat while you sleep\nSlimora Night Burn\n30 capsules\nSlimora", "gold": ["WEIGHT"], "removed_visual": [], "trap": false}
+{"id": "en-t28", "split": "gr-test", "lang": "en", "text": "Slimora 14-day plan.\nDrop 3 dress sizes in 2 weeks\nSlimora 14-day plan\nStart today", "gold": ["WEIGHT"], "removed_visual": [], "trap": false}
+{"id": "en-t29", "split": "gr-test", "lang": "en", "text": "Oakline Oats.\nHigh-fibre breakfast oats\nEnjoy as part of a balanced diet\nOakline Oats $5\nOakline", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-t30", "split": "gr-test", "lang": "en", "text": "Lumeo Spot Serum. See the difference.\nBEFORE\nAFTER\nLumeo Spot Serum", "gold": [], "removed_visual": ["BEFORE_AFTER"], "trap": false}
+{"id": "en-t31", "split": "gr-test", "lang": "en", "text": "Slimora 30-day plan.\nDAY 1\nDAY 30\nSlimora 30-day plan", "gold": [], "removed_visual": ["BEFORE_AFTER"], "trap": false}
+{"id": "en-t32", "split": "gr-test", "lang": "en", "text": "Brightfold Kids Club.\nBefore & After School Club\nAges 5–11\nBrightfold Kids Club", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-t33", "split": "gr-test", "lang": "en", "text": "Oakline Buds wireless earbuds.\nPeakPods break in a month.\nOurs don't.\nOakline Buds $59", "gold": ["DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "en-t34", "split": "gr-test", "lang": "en", "text": "Oakline Power Bank 2.\n2x the battery of our previous model\nInternal lab test, May 2025\nOakline Power Bank 2\nOakline", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-t35", "split": "gr-test", "lang": "en", "text": "Harbor Lager party pack.\nHarbor Lager Party Pack\n4.5% ABV", "gold": [], "removed_visual": ["ALCOHOL"], "trap": false}
+{"id": "en-t36", "split": "gr-test", "lang": "en", "text": "Harbor Lager. Order now.\nHarbor Lager\nCrisp. Cold. Yours.\nOrder now\nHarbor", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "en-t37", "split": "gr-test", "lang": "en", "text": "Harbor Lager.\nHarbor Lager\n4.5% ABV\nPlease drink responsibly.\nHarbor", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-t38", "split": "gr-test", "lang": "en", "text": "Verdi Gin giveaway.\nWin a year's supply of Verdi Gin\n40% ABV. Drink responsibly.\nEnter by 30 Nov\nVerdi", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "en-t39", "split": "gr-test", "lang": "en", "text": "Oakline Daypack.\nThe best backpack on the planet\nOakline Daypack 22L\n$59\nOakline", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "en-t40", "split": "gr-test", "lang": "en", "text": "Brightfold candles.\nCedar & Fig\nHand-poured soy candle\nBrightfold $22\nBrightfold", "gold": [], "removed_visual": [], "trap": false}
+{"id": "en-t41", "split": "gr-test", "lang": "en", "text": "The 𝗯𝗲𝘀𝘁 sunscreen in the world ☀️ Lumeo SPF 50, $19.", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "en-t42", "split": "gr-test", "lang": "en", "text": "\"My doctor took me off my blood pressure meds after 3 months of Nuvola tea!\" – Linda, 58", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "en-t43", "split": "gr-test", "lang": "en", "text": "No gym. No diet. Just results. #SlimoraSquad\nSlimora Drops\nResults in weeks\nShop now", "gold": ["WEIGHT"], "removed_visual": [], "trap": false}
+{"id": "en-t44", "split": "gr-test", "lang": "en", "text": "Lumeo Barrier Cream.\nSmooth skin season\nLumeo Barrier Cream\n$26\nClinically shown to cure eczema in 2 weeks.\nLumeo", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "en-t45", "split": "gr-test", "lang": "en", "text": "Kestrel Yield savings.\n12% APY\nPrincipal protected. No risk.\nKestrel Yield\nKestrel", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "en-t46", "split": "gr-test", "lang": "en", "text": "We'll never promise you'll lose weight overnight. Just honest protein from Oakline.", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-t47", "split": "gr-test", "lang": "en", "text": "Harbor FC official store.\nNumber 1 fan?\nGet the official Harbor FC scarf\n$25\nHarbor", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-t48", "split": "gr-test", "lang": "en", "text": "Pre-game like a pro: 6 Harbor shots before kickoff 🍻", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "zh-h01", "split": "gr-hard", "lang": "zh", "text": "「青禾」空气炸锅双十一返场：5.5L 大容量，可视窗口随时看火候，一键 8 种菜单，新手也不翻车。很多宝子问和上一代比有什么不同——这一代加了双热管，受热更均匀，是全网口碑最好的空气炸锅，没有之一。到手价 ¥299，再送硅胶垫和食谱。", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "zh-h02", "split": "gr-hard", "lang": "zh", "text": "「澄心」益生菌固体饮料，原味和蓝莓两种口味。上周有位妈妈留言：孩子喝了两个月，过敏性鼻炎再也没犯过。我们不敢说多神奇，但 97% 的老顾客都会回购。冲泡方便，40℃ 以下温水即可，早晚各一条。30 条装 ¥168。", "gold": ["DATA", "MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zh-h03", "split": "gr-hard", "lang": "zh", "text": "「木朴」实木书桌新品上架。我们的客服团队最用心，下单后 2 小时内回电确认尺寸。桌面用北美白橡木，边角做了圆角处理，适合有孩子的家庭。本店 2026 年 10 月天猫木作书桌类目销量第一（数据来源：天猫生意参谋，2026 年 10 月）。1.2 米款 ¥1580，1.4 米款 ¥1880。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-h04", "split": "gr-hard", "lang": "zh", "text": "「知更」考研英语暑期班 7 月 15 日开课。课程包含词汇、长难句、阅读和写作四个模块，每周 3 次直播，回放可看到 12 月。往届学员反馈很好，报名即送真题解析电子版。本班承诺：考研英语一不过 70 分全额退款。名额有限，报满即止。", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zh-h05", "split": "gr-hard", "lang": "zh", "text": "「山屿」冲锋衣秋冬款。面料用三层压胶，防水指数 20000mm（第三方检测报告编号 SY-2026-0918，详情页可查）。说句实话，某些大牌冲锋衣卖两三千，其实就是贴牌货，标签一撕跟地摊货没区别。我们不玩品牌溢价，¥699 包邮。", "gold": ["DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "zh-h06", "split": "gr-hard", "lang": "zh", "text": "云栖草本泡脚包\n下班回家泡个脚\n坚持泡了一个月\n我的痛风再也没疼过", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zh-h07", "split": "gr-hard", "lang": "zh", "text": "醉山河光瓶酒，周末小聚。\n醉山河 42% vol\n老朋友聚一聚\n理性饮酒", "gold": [], "removed_visual": ["ALCOHOL"], "trap": false}
+{"id": "zh-h08", "split": "gr-hard", "lang": "zh", "text": "木朴铸铁锅，一口锅搞定家常菜。\n最佳火候：油温六成热\n第一步：热锅凉油\n治愈系下饭菜做好了", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-h09", "split": "gr-hard", "lang": "zh", "text": "澄心扫地机器人 S7，懒人必备。\n一键规划清扫路线\n实测吸尘率 99.9%\n史上最安静的扫地机", "gold": ["ABSOLUTE", "DATA"], "removed_visual": [], "trap": false}
+{"id": "zh-h10", "split": "gr-hard", "lang": "zh", "text": "木朴压榨花生油，5L 家庭装。\n压榨一级花生油\n执行标准 GB/T 1534\n5L ¥89\n木朴", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-h11", "split": "gr-hard", "lang": "zh", "text": "山屿财富稳享 1 号，热销中。\n山屿稳享 1 号\n成立至今从未亏损过一分钱\n山屿财富\n理财有风险，投资需谨慎\n山屿", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zh-h12", "split": "gr-hard", "lang": "zh", "text": "醉山河清香型白酒，选用本地高粱，地缸发酵，酒体清亮，入口绵柔。52% vol，500ml，¥128。适量饮酒，未成年人请勿饮酒。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-h01", "split": "gr-hard", "lang": "en", "text": "Meet the new Oakline Trail Pack 2. We rebuilt the hip belt after 1,200 customer reviews, moved the bottle pocket within reach and added a rain cover that packs into the lid. It's simply the most comfortable hiking pack ever made. 28 L, 1.1 kg, five colours. $139, free returns within 30 days.", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "en-h02", "split": "gr-hard", "lang": "en", "text": "Nuvola Calm Tea is our evening blend of chamomile, lemon balm and lavender. Steep for five minutes and add honey if you like. From our inbox this week: \"I was diagnosed with an anxiety disorder two years ago. Since switching to Nuvola Calm Tea I've come off my medication.\" 20 bags, $12.", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "en-h03", "split": "gr-hard", "lang": "en", "text": "Kestrel Invest stocks and shares ISA: invest from £25 a month across 2,000 funds, and change or pause any time. Nothing here is guaranteed: the value of investments can go down as well as up, and you may get back less than you put in. Past performance is not a reliable indicator of future results. Capital at risk.", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-h04", "split": "gr-hard", "lang": "en", "text": "Brightfold Academy summer bootcamp: six weeks of live coding classes, a portfolio project every week and one-to-one mentor reviews. Classes run Monday to Thursday, 7 to 9 pm. Finish the bootcamp and land a developer job within 90 days, or we refund every cent. Early bird price $1,490 until June 30.", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "en-h05", "split": "gr-hard", "lang": "en", "text": "New season, new you. The Slimora 21-day reset is a plan, not a diet: three shakes, one real meal and a daily walk. Members say they finally feel confident in a swimsuit again, no more hiding at the back of photos. Starter box $59, cancel any time.", "gold": ["WEIGHT"], "removed_visual": [], "trap": false}
+{"id": "en-h06", "split": "gr-hard", "lang": "en", "text": "Slimora drops. My 30 days.\nDay 1\nSlimora drops every morning\nDay 30", "gold": [], "removed_visual": ["BEFORE_AFTER"], "trap": false}
+{"id": "en-h07", "split": "gr-hard", "lang": "en", "text": "Harbor Lager. Game day.\nHarbor Lager 4.6% ABV\nMatch day.\nPlease drink responsibly.", "gold": [], "removed_visual": ["ALCOHOL"], "trap": false}
+{"id": "en-h08", "split": "gr-hard", "lang": "en", "text": "Lumeo evening routine in three steps.\nStep 1: cleanse\nStep 2: Lumeo Barrier Cream\nBest before 12/2027", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-h09", "split": "gr-hard", "lang": "en", "text": "Kestrel app. Copy the pros.\nI started with $200\nCopy my trades in the Kestrel app\n$5,000 a month, zero risk", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "en-h10", "split": "gr-hard", "lang": "en", "text": "Oakline Armor 2 phone case.\nOther cases crack.\nOurs don't.\nOakline Armor 2 $34\nOakline", "gold": ["DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "en-h11", "split": "gr-hard", "lang": "en", "text": "Lumeo Clear Gel for oily skin.\nLumeo Clear Gel\nGentle on sensitive skin\n$18\nClinically shown to cure acne in 7 days*\n*Internal study of 12 people\nLumeo", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "en-h12", "split": "gr-hard", "lang": "en", "text": "Harbor Session IPA: citrus hops, a light body and 4.2% ABV. Pairs with grilled fish and spicy noodles. Available in six-packs at selected stores. Must be 21+ to purchase. Please drink responsibly.", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-m01", "split": "gr-memory", "lang": "zh", "text": "青禾除螨仪上新：吸力 12kPa，噪音 62 分贝，是全网最好用的除螨仪。到手价 ¥399。", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "zh-m02", "split": "gr-memory", "lang": "zh", "text": "澄心益生菌新口味上市。有宝妈留言：坚持喝了 6 周，宝宝的过敏性皮炎再没复发。早晚各一条，40℃ 以下温水冲泡。", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zh-m03", "split": "gr-memory", "lang": "zh", "text": "知更四六级冲刺营 12 月 1 日开课，每周三次直播，回放可看到考前。本营承诺：六级不过 500 分，学费全退。", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zh-m04", "split": "gr-memory", "lang": "zh", "text": "森野 至尊® 系列睡袋上新：800 蓬白鹅绒，舒适温标 -10℃，整袋重 1.2kg。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-m05", "split": "gr-memory", "lang": "zh", "text": "轻羽 Trail 2 越野跑鞋上新：轻羽越野系列里最轻的一双，单只 245g（42 码），大底换成了更耐磨的橡胶。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-m06", "split": "gr-memory", "lang": "zh", "text": "拾光 G2 手机云台 11 月 20 日 10:00 全网首发，前 500 名下单送收纳包。三轴防抖，续航 12 小时。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-m07", "split": "gr-memory", "lang": "zh", "text": "云栖草本足浴包：艾草生姜配方，下班回家泡一泡，脚底暖洋洋。30 包装 ¥59。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-m08", "split": "gr-memory", "lang": "zh", "text": "野径碳纤维登山杖：单支 198g，三节快锁，承重 100kg（第三方检测报告编号 YJ-2026-1102）。¥259 一对。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-m09", "split": "gr-memory", "lang": "zh", "text": "禾田实木床：2026 年 10 月京东实木床类目销量第一（数据来源：京东商智，2026 年 10 月）。北美白橡木，1.8 米款 ¥3280。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-m10", "split": "gr-memory", "lang": "zh", "text": "澄心益生菌固体饮料，原味和蓝莓两种口味，每条 2g，独立小包装，出差带着方便。30 条装 ¥168。", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zh-m11", "split": "gr-memory", "lang": "zh", "text": "晨屿挂耳咖啡，销量第一，老顾客回购率 92%。10 包装 ¥39。", "gold": ["ABSOLUTE", "DATA"], "removed_visual": [], "trap": false}
+{"id": "zh-m12", "split": "gr-memory", "lang": "zh", "text": "青禾 3L 电饭煲：24 小时预约，陶瓷釉内胆，一键煮粥，糖友吃了血糖也稳。到手价 ¥299。", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "en-m01", "split": "gr-memory", "lang": "en", "text": "LeanLab Night Tea: drop a dress size while you sleep. No diet, no workouts. 20 tea bags.", "gold": ["WEIGHT"], "removed_visual": [], "trap": false}
+{"id": "en-m02", "split": "gr-memory", "lang": "en", "text": "Brightpath Copy-Trade: our members never lose. 12% a month, every month, guaranteed.", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "en-m03", "split": "gr-memory", "lang": "en", "text": "Glowra Barrier Balm: rosacea gone for good after one tube. Unscented, 50ml.", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "en-m04", "split": "gr-memory", "lang": "en", "text": "Hearth & Oak soy candles: order by 3pm for guaranteed next-day delivery, or the shipping is on us.", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-m05", "split": "gr-memory", "lang": "en", "text": "Nomad Mattress: 100-night trial. If you don't sleep better, return it for a full refund.", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-m06", "split": "gr-memory", "lang": "en", "text": "Voltra Pro Max charges 40% faster than our Voltra Pro (in-house lab test, 2026; method on the product page).", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-m07", "split": "gr-memory", "lang": "en", "text": "FitFuel Whey: 24g protein per scoop to support muscle recovery after training. Pair with a balanced diet and regular exercise. 18+.", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-m08", "split": "gr-memory", "lang": "en", "text": "Purely Skin Night Cream with 0.3% retinol and ceramides. Start twice a week, and wear sunscreen by day.", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-m09", "split": "gr-memory", "lang": "en", "text": "Sprynt Trail 3 grips 30% better on wet rock than our Trail 2 (in-house slip test, 2026; method on sprynt.com).", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-m10", "split": "gr-memory", "lang": "en", "text": "Brightpath Easy Saver: 3.1% AER (variable) on balances up to $50,000. Deposits are FDIC-insured through our partner bank. 18+ only.", "gold": [], "removed_visual": [], "trap": true}
+{"id": "en-m11", "split": "gr-memory", "lang": "en", "text": "Hopsmith Pale Ale is back for summer. Citrus hops, light body. 18+ only.", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "en-m12", "split": "gr-memory", "lang": "en", "text": "Cedar & Salt cast-iron pan: pre-seasoned, oven-safe to 260°C. Cooking in iron cures anaemia, so ditch the pills. $79.", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zv-01", "split": "video-text", "lang": "zh", "text": "栖木实木衣帽架，全网质量最好的衣帽架，没有之一。#收纳\n进门随手一挂\n北美白蜡木\n免工具三分钟装好\n到手价 ¥239", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "zv-02", "split": "video-text", "lang": "zh", "text": "拾味黑芝麻丸，每天两颗，白发变黑，脱发也治好了。\n九蒸九晒黑芝麻\n不加蔗糖\n独立小包装\n一盒 30 颗 ¥69", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zv-03", "split": "video-text", "lang": "zh", "text": "知行公考系统班，跟着学，笔试保证进面，不进面全额退。\n行测申论双科\n每晚 8 点直播\n随堂练习自动批改\n早鸟价 ¥1980", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zv-04", "split": "video-text", "lang": "zh", "text": "别再买某些大牌扫地机了，吸力弱还爱卡死，纯属交智商税。\n白鹭 S3 扫拖一体\n自动集尘 60 天\n避开袜子和线团\n首发 ¥2299", "gold": ["DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "zv-05", "split": "video-text", "lang": "zh", "text": "云川记忆棉护颈枕，89% 的用户说睡醒肩颈不僵了。\n慢回弹记忆棉\n双高度两面睡\n可拆洗枕套\n到手 ¥159", "gold": ["DATA"], "removed_visual": [], "trap": false}
+{"id": "zv-06", "split": "video-text", "lang": "zh", "text": "北岸精酿，下班来一罐，压力全消，第二天精神满满。\n北岸精酿 IPA\n酒精度 6.2%vol\n冰镇口感更好\n理性饮酒", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "zv-07", "split": "video-text", "lang": "zh", "text": "橙光 L2 学习台灯\n史上最护眼的台灯\n无频闪 显色 Ra97\n三档色温\n¥199 包邮", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "zv-08", "split": "video-text", "lang": "zh", "text": "栖木 M1 床垫，双十一预售\n7 区独立弹簧\n透气乳胶层\n国内顶级的睡眠体验\n100 晚试睡", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "zv-09", "split": "video-text", "lang": "zh", "text": "云栖艾草足贴\n睡前贴一片\n贴了半个月，我的失眠好了\n天然艾草\n60 片装 ¥49", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zv-10", "split": "video-text", "lang": "zh", "text": "澄心蓝莓叶黄素软糖，酸甜好吃\n写作业的好搭档\n每天两粒\n真实蓝莓果汁\n坚持吃，近视度数降下来", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zv-11", "split": "video-text", "lang": "zh", "text": "恒裕稳盈计划，了解一下\n稳健型产品\n随存随取\n年化 8% 保本保息\n详询客户经理", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zv-12", "split": "video-text", "lang": "zh", "text": "拾味柳州螺蛳粉\n正宗柳州风味\n别家螺蛳粉全是科技与狠活\n我们只用鲜笋\n5 包 ¥39.9", "gold": ["DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "zv-13", "split": "video-text", "lang": "zh", "text": "白鹭 R5 净水器，厨下安装\n除菌率 99.99%\n厨下式安装\n滤芯三年一换\n以旧换新 ¥1599", "gold": ["DATA"], "removed_visual": [], "trap": false}
+{"id": "zv-14", "split": "video-text", "lang": "zh", "text": "醉里桂花米酒，秋天的味道\n桂花米酒 8%vol\n冰镇更清爽\n喝一杯，一天的疲惫都没了\n理性饮酒", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "zv-15", "split": "video-text", "lang": "zh", "text": "橙光空气炸锅，懒人厨房\n5L 大容量\n可视窗口\n8 种预设菜单\n到手 ¥299\n宇宙第一好用", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "zv-16", "split": "video-text", "lang": "zh", "text": "云川长款羽绒服，冬天出门不怕冷\n90% 白鹅绒\n防泼水面料\n可拆卸毛领\n到手 ¥899\n最保暖的羽绒服就是它", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "zv-17", "split": "video-text", "lang": "zh", "text": "拾味苦荞茶，饭后来一杯\n大凉山黑苦荞\n颗粒饱满\n热水冲泡即可\n500 克 ¥39\n降血糖 降血压", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zv-18", "split": "video-text", "lang": "zh", "text": "知行英语四级冲刺营\n词汇听力两手抓\n每周两次模考\n老师一对一答疑\n报名 ¥399\n包过！不过退费", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zv-19", "split": "video-text", "lang": "zh", "text": "恒裕茶饮招商，开一家自己的店\n总部统一配送\n两周开业\n选址团队协助\n欢迎来电\n加盟稳赚 月入三万", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zv-20", "split": "video-text", "lang": "zh", "text": "白鹭声波电动牙刷\n每分钟 4 万次振动\n五种清洁模式\n续航 60 天\n到手 ¥199\n某某牌牙刷就是垃圾", "gold": ["DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "zv-21", "split": "video-text", "lang": "zh", "text": "澄心三合一洗衣凝珠\n一颗洗一桶\n低泡易漂\n淡淡花香\n60 颗 ¥49\n去渍力提升 300%", "gold": ["DATA"], "removed_visual": [], "trap": false}
+{"id": "zv-22", "split": "video-text", "lang": "zh", "text": "北岸 Pace 3 跑鞋\n超临界发泡中底\n碳板加持\n鞋面透气\n¥699\n98% 跑者推荐", "gold": ["DATA"], "removed_visual": [], "trap": false}
+{"id": "zv-23", "split": "video-text", "lang": "zh", "text": "醉山光瓶酒，老友小聚\n醉山 52%vol\n老友相聚\n好酒配好菜\n理性饮酒", "gold": [], "removed_visual": ["ALCOHOL"], "trap": false}
+{"id": "zv-24", "split": "video-text", "lang": "zh", "text": "北岸淡色拉格，周末看球\n北岸淡色拉格\n酒精度 4.5%vol\n周末看球\n理性饮酒", "gold": [], "removed_visual": ["ALCOHOL"], "trap": false}
+{"id": "zv-25", "split": "video-text", "lang": "zh", "text": "云川干红，晚餐的仪式感\n宁夏贺兰山东麓\n酒精度 13%vol\n搭配牛排\n理性饮酒", "gold": [], "removed_visual": ["ALCOHOL"], "trap": false}
+{"id": "zv-26", "split": "video-text", "lang": "zh", "text": "山屿冲锋衣，出游必备\n三层压胶面料\n防水 20000mm\n长假出游必备\n¥699", "gold": [], "removed_visual": ["FLAG"], "trap": false}
+{"id": "zv-27", "split": "video-text", "lang": "zh", "text": "拾味流心月饼礼盒\n奶黄流心\n六种口味\n中秋送礼\n礼盒 ¥168", "gold": [], "removed_visual": ["FLAG"], "trap": false}
+{"id": "zv-28", "split": "video-text", "lang": "zh", "text": "橙光运动水杯，一杯装 1 升\nTritan 材质\n一键弹盖\n刻度提醒喝水\n¥59", "gold": [], "removed_visual": ["FLAG"], "trap": false}
+{"id": "zv-29", "split": "video-text", "lang": "zh", "text": "醉山绍兴黄酒，冬酿上市\n绍兴手工冬酿\n最正宗的黄酒\n温一壶\n理性饮酒", "gold": ["ABSOLUTE"], "removed_visual": ["ALCOHOL"], "trap": false}
+{"id": "zv-30", "split": "video-text", "lang": "zh", "text": "知行考研集训营，保证上岸\n封闭式集训\n全程班主任跟进\n历年真题精讲\n报名 ¥12800\n上岸率 95%", "gold": ["DATA", "GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "zv-31", "split": "video-text", "lang": "zh", "text": "山屿户外帐篷，三秒速开\n三秒速开\n防暴雨涂层\n全国最好的帐篷\n¥459", "gold": ["ABSOLUTE"], "removed_visual": ["FLAG"], "trap": false}
+{"id": "zv-32", "split": "video-text", "lang": "zh", "text": "别用某某洗发水了，越洗越秃。云栖草本洗发水了解一下\n侧柏叶生姜配方\n无硅油\n温和清洁\n500ml ¥79\n治脱发 7 天见效", "gold": ["DISPARAGE", "MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "zv-33", "split": "video-text", "lang": "zh", "text": "换季收纳\n可叠放收纳箱\n透明可视\n底部带滑轮\n三只装 ¥89", "gold": [], "removed_visual": [], "trap": false}
+{"id": "zv-34", "split": "video-text", "lang": "zh", "text": "拾味挂耳咖啡，办公室续命\n云南保山小粒\n中深烘焙\n独立挂耳包\n20 包 ¥59", "gold": [], "removed_visual": [], "trap": false}
+{"id": "zv-35", "split": "video-text", "lang": "zh", "text": "白鹭 Air 2 蓝牙耳机\n半入耳设计\n单次续航 6 小时\n通透模式\n到手 ¥229", "gold": [], "removed_visual": [], "trap": false}
+{"id": "zv-36", "split": "video-text", "lang": "zh", "text": "橙光保温饭盒，带饭党看过来\n三层分格\n304 不锈钢内胆\n保温 6 小时\n¥119", "gold": [], "removed_visual": [], "trap": false}
+{"id": "zv-37", "split": "video-text", "lang": "zh", "text": "云川全棉四件套\n60 支长绒棉\n亲肤不起球\n四种颜色\n1.8 米床 ¥329", "gold": [], "removed_visual": [], "trap": false}
+{"id": "zv-38", "split": "video-text", "lang": "zh", "text": "拾味铸铁锅，一口锅搞定家常菜\n第一步：热锅凉油\n最佳火候：中火两分钟\n治愈系家常菜\n铸铁锅 ¥259", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zv-39", "split": "video-text", "lang": "zh", "text": "白鹭家政日常保洁\n日常保洁 4 小时\n顾客第一，服务至上\n工具自带\n首单 ¥168", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zv-40", "split": "video-text", "lang": "zh", "text": "澄心洗衣液 3kg 家庭装\n天猫 2026 年 10 月洗衣液类目销量第一\n数据来源：天猫生意参谋\n低泡易漂\n3kg ¥59", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zv-41", "split": "video-text", "lang": "zh", "text": "北岸 Pace 4 跑鞋新款\n新一代发泡中底\n缓震比上一代提升 20%\n检测报告编号 BA-2026-031\n¥799", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zv-42", "split": "video-text", "lang": "zh", "text": "恒裕稳健理财，长期持有\n历史年化 3.2%\n过往业绩不代表未来表现\n理财有风险，投资需谨慎\n详询客户经理", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zv-43", "split": "video-text", "lang": "zh", "text": "云川马拉松训练营\n每周三次课\n专业教练带跑\n陪你跑完人生第一个全马\n报名 ¥599", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zv-44", "split": "video-text", "lang": "zh", "text": "拾味冷泡乌龙茶\n冷水也能泡\n三分钟出味\n无糖\n20 包 ¥45", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zv-45", "split": "video-text", "lang": "zh", "text": "橙光运动水杯，健身房必备\n大容量 1.5 升\n防漏锁扣\n刻度提醒\n¥69", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zv-46", "split": "video-text", "lang": "zh", "text": "醉山新年礼盒\n醉山 42%vol\n新年礼盒\n送长辈的心意\n理性饮酒", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zv-47", "split": "video-text", "lang": "zh", "text": "拾味年货礼盒，过年回家带一份\n坚果肉脯八件套\n红红火火过大年\n送礼有面子\n礼盒 ¥199", "gold": [], "removed_visual": [], "trap": true}
+{"id": "zv-48", "split": "video-text", "lang": "zh", "text": "澄心 NFC 鲜榨橙汁\n不加一滴水\n冷链直送\n早餐来一杯\n1L ¥26", "gold": [], "removed_visual": [], "trap": true}
+{"id": "ev-01", "split": "video-text", "lang": "en", "text": "Norwyn Ergo 2: the most comfortable chair ever made. #wfh\nAdjustable lumbar support\nBreathable mesh back\nTool-free assembly\n$249, free shipping", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "ev-02", "split": "video-text", "lang": "en", "text": "Calla Bay bath flakes. Soak for 20 minutes and say goodbye to arthritis pain for good.\nPure magnesium flakes\nUnscented\nResealable pouch\n1 kg for $24", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "ev-03", "split": "video-text", "lang": "en", "text": "Quillon AutoTrade: guaranteed 15% monthly returns, zero risk.\nCopy expert portfolios\nStart with $50\nWithdraw anytime\nDownload today", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "ev-04", "split": "video-text", "lang": "en", "text": "Still cooking with BrandX pans? Enjoy the toxic flakes in your food.\nTri-ply stainless steel\nOven safe to 260°C\nDishwasher safe\n5-piece set $189", "gold": ["DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "ev-05", "split": "video-text", "lang": "en", "text": "Sunfold Slim Tea. Drop two dress sizes in 10 days, no diet needed.\nGreen tea and ginger\nCaffeine-light blend\n28 tea bags\n$19.99", "gold": ["WEIGHT"], "removed_visual": [], "trap": false}
+{"id": "ev-06", "split": "video-text", "lang": "en", "text": "Rough day? Three Tidal Oaks and you'll forget it ever happened.\nDry apple cider\n5.0% ABV\nBest served cold\nPlease drink responsibly", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "ev-07", "split": "video-text", "lang": "en", "text": "Velmora Studio headphones\nThe world's best headphones\n40-hour battery\nAdaptive noise cancelling\n$179", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "ev-08", "split": "video-text", "lang": "en", "text": "Brightleaf pillow spray for calmer nights\nLavender and chamomile\nCures insomnia in one night\nSpray on your pillow\n$16", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "ev-09", "split": "video-text", "lang": "en", "text": "Ashby & Reed raw honey\nRaw wildflower honey\nSpoon into tea\nGlass jar, 500 g\nKills cold and flu viruses", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "ev-10", "split": "video-text", "lang": "en", "text": "Northpeak SAT prep, fall cohort\nLive online classes\nWeekly practice tests\nScore 1500+ or your money back, guaranteed\nEnroll now", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "ev-11", "split": "video-text", "lang": "en", "text": "Corvo Academy online store course\nLearn dropshipping\nMake $10,000 a month, guaranteed\nLifetime access\n$97", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "ev-12", "split": "video-text", "lang": "en", "text": "Pinehollow hybrid mattress\nHybrid coil mattress\n100-night trial\nOther mattress brands are cheap junk\nQueen $699", "gold": ["DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "ev-13", "split": "video-text", "lang": "en", "text": "Velmora waist trainer\nLatex waist trainer\nWear it 8 hours, lose 4 inches\nThree sizes\n$34", "gold": ["WEIGHT"], "removed_visual": [], "trap": false}
+{"id": "ev-14", "split": "video-text", "lang": "en", "text": "Tidal Oak Vodka\nTidal Oak Vodka\n40% ABV\nTriple distilled\nDrink it, and the shyness is gone", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "ev-15", "split": "video-text", "lang": "en", "text": "Quillon Armor phone case\nDrop tested from 3 m\nRaised camera lip\nMagSafe compatible\n$29\n#1 strongest case on Earth", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "ev-16", "split": "video-text", "lang": "en", "text": "Calla Bay daily sunscreen SPF 50\nSPF 50 broad spectrum\nNo white cast\nWater resistant 40 min\n50 ml $22\nThe best sunscreen, period.", "gold": ["ABSOLUTE"], "removed_visual": [], "trap": false}
+{"id": "ev-17", "split": "video-text", "lang": "en", "text": "Sunfold elderberry gummies\nElderberry and zinc\nTwo gummies a day\nVegan\n60 count $18\nTreats asthma naturally", "gold": ["MEDICAL"], "removed_visual": [], "trap": false}
+{"id": "ev-18", "split": "video-text", "lang": "en", "text": "Corvo Signals members group\nDaily market notes\nPrivate chat\nCancel anytime\n$49 a month\nGuaranteed 3x profit", "gold": ["GUARANTEE"], "removed_visual": [], "trap": false}
+{"id": "ev-19", "split": "video-text", "lang": "en", "text": "Fernway electric kettle\n1.7 L capacity\nFive temperature presets\nKeep-warm mode\n$59\nBrandX kettles are a fire hazard", "gold": ["DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "ev-20", "split": "video-text", "lang": "en", "text": "Norwyn whey protein shake\n24 g protein\nChocolate flavor\nMixes in seconds\n30 servings $39\nLose 8 kg in 2 weeks", "gold": ["WEIGHT"], "removed_visual": [], "trap": false}
+{"id": "ev-21", "split": "video-text", "lang": "en", "text": "Ashby & Reed apple cider vinegar shots\nRaw apple cider vinegar\nGinger and lemon\nOne shot a morning\n12 shots $24\nMelts belly fat overnight", "gold": ["WEIGHT"], "removed_visual": [], "trap": false}
+{"id": "ev-22", "split": "video-text", "lang": "en", "text": "Pinehollow small-batch bourbon\nAged six years\n45% ABV\nCharred oak barrels\nPlease drink responsibly\nDrink more, worry less", "gold": ["ALCOHOL"], "removed_visual": [], "trap": false}
+{"id": "ev-23", "split": "video-text", "lang": "en", "text": "Brightleaf Pilsner\nBrightleaf Pilsner\n4.6% ABV\nBrewed in small batches\nPlease drink responsibly", "gold": [], "removed_visual": ["ALCOHOL"], "trap": false}
+{"id": "ev-24", "split": "video-text", "lang": "en", "text": "Velmora rosé, new vintage\nVelmora Rosé 2025\n12.5% ABV\nDry and fruity\nPlease drink responsibly", "gold": [], "removed_visual": ["ALCOHOL"], "trap": false}
+{"id": "ev-25", "split": "video-text", "lang": "en", "text": "Northpeak dry gin\nNorthpeak Dry Gin\n41% ABV\nJuniper and citrus\nPlease drink responsibly", "gold": [], "removed_visual": ["ALCOHOL"], "trap": false}
+{"id": "ev-26", "split": "video-text", "lang": "en", "text": "Calla Bay niacinamide serum\nNiacinamide 10%\nFragrance free\nDermatologist tested\n30 ml $28", "gold": [], "removed_visual": ["BEFORE_AFTER"], "trap": false}
+{"id": "ev-27", "split": "video-text", "lang": "en", "text": "Sunfold clarifying gel\nSalicylic acid 2%\nLightweight gel\nUse morning and night\n50 ml $19", "gold": [], "removed_visual": ["BEFORE_AFTER"], "trap": false}
+{"id": "ev-28", "split": "video-text", "lang": "en", "text": "Quillon whitening strips\nEnamel-safe formula\n14 treatments\nNo sensitivity\n$39", "gold": [], "removed_visual": ["BEFORE_AFTER"], "trap": false}
+{"id": "ev-29", "split": "video-text", "lang": "en", "text": "Tidal Oak spiced rum\nTidal Oak Spiced Rum\nThe smoothest rum in the world\n38% ABV\nPlease drink responsibly", "gold": ["ABSOLUTE"], "removed_visual": ["ALCOHOL"], "trap": false}
+{"id": "ev-30", "split": "video-text", "lang": "en", "text": "Corvo Fit 30-day plan: guaranteed results or your money back.\nHome workouts\nMeal plans included\nTrack your progress\n$15 a month\nLose 5 kg in a week", "gold": ["GUARANTEE", "WEIGHT"], "removed_visual": [], "trap": false}
+{"id": "ev-31", "split": "video-text", "lang": "en", "text": "Brightleaf calming cream\nOat and ceramides\nClears eczema in days\nFragrance free\n100 ml $21", "gold": ["MEDICAL"], "removed_visual": ["BEFORE_AFTER"], "trap": false}
+{"id": "ev-32", "split": "video-text", "lang": "en", "text": "Fernway Pro blender, the best blender on the market.\n1500 W motor\nCrushes ice in seconds\nSelf-cleaning mode\n$129\nBrandX blenders break in a month", "gold": ["ABSOLUTE", "DISPARAGE"], "removed_visual": [], "trap": false}
+{"id": "ev-33", "split": "video-text", "lang": "en", "text": "Norwyn commuter backpack\nFits a 16-inch laptop\nWater-repellent fabric\nHidden back pocket\n$89", "gold": [], "removed_visual": [], "trap": false}
+{"id": "ev-34", "split": "video-text", "lang": "en", "text": "Fernway bamboo cutting board\nOrganic bamboo\nJuice groove\nEasy to clean\nSet of 3 $35", "gold": [], "removed_visual": [], "trap": false}
+{"id": "ev-35", "split": "video-text", "lang": "en", "text": "Quillon 3-in-1 wireless charger\nPhone, watch and earbuds\n15 W fast charging\nFoldable stand\n$45", "gold": [], "removed_visual": [], "trap": false}
+{"id": "ev-36", "split": "video-text", "lang": "en", "text": "Calla Bay cotton towels\n100% Turkish cotton\nQuick-dry weave\nSix colors\nBath set $49", "gold": [], "removed_visual": [], "trap": false}
+{"id": "ev-37", "split": "video-text", "lang": "en", "text": "Velmora soy candle\nHand-poured soy wax\n45-hour burn time\nCedar and fig\n$26", "gold": [], "removed_visual": [], "trap": false}
+{"id": "ev-38", "split": "video-text", "lang": "en", "text": "Pinehollow strategy board game\n2 to 5 players\n45-minute games\nBest enjoyed with friends\n$39", "gold": [], "removed_visual": [], "trap": true}
+{"id": "ev-39", "split": "video-text", "lang": "en", "text": "Quillon Q8 phone\nOur best-ever battery\n30% longer than our previous model\nInternal lab test, 2026\nFrom $599", "gold": [], "removed_visual": [], "trap": true}
+{"id": "ev-40", "split": "video-text", "lang": "en", "text": "Northpeak grocery delivery\nOrder by Wednesday\nDelivery guaranteed by Friday\nFresh produce\nFree over $50", "gold": [], "removed_visual": [], "trap": true}
+{"id": "ev-41", "split": "video-text", "lang": "en", "text": "Velmora Boom portable speaker\nLose yourself in the music\n360° sound\n20-hour battery\n$79", "gold": [], "removed_visual": [], "trap": true}
+{"id": "ev-42", "split": "video-text", "lang": "en", "text": "Norwyn ultralight tent\nNumber one rule of camping: pack light\n1.2 kg total weight\nSets up in 3 minutes\n$219", "gold": [], "removed_visual": [], "trap": true}
+{"id": "ev-43", "split": "video-text", "lang": "en", "text": "Sunfold rolled oats\nWhole grain oats\n5 g fiber per serving\nPart of a balanced breakfast\n1 kg $6", "gold": [], "removed_visual": [], "trap": true}
+{"id": "ev-44", "split": "video-text", "lang": "en", "text": "Norwyn insulated sports bottle\nKeeps cold 24 hours\nLeak-proof lid\n1 L capacity\n$32", "gold": [], "removed_visual": [], "trap": true}
+{"id": "ev-45", "split": "video-text", "lang": "en", "text": "Fernway pour-over coffee kit\nCeramic dripper\nGlass carafe\n50 paper filters\n$42", "gold": [], "removed_visual": [], "trap": true}
+{"id": "ev-46", "split": "video-text", "lang": "en", "text": "Ashby & Reed Merlot\nAshby & Reed Merlot 2024\n13.5% ABV\nPairs with roast dinners\nPlease drink responsibly", "gold": [], "removed_visual": [], "trap": true}
+{"id": "ev-47", "split": "video-text", "lang": "en", "text": "Calla Bay tote, two colors\nChoose Sand or Slate\nRecycled canvas\nInner zip pocket\n$38", "gold": [], "removed_visual": [], "trap": true}
+{"id": "ev-48", "split": "video-text", "lang": "en", "text": "Brightleaf tea sampler, unboxing\nTwelve loose-leaf teas\nRecyclable tins\nBrewing guide inside\n$34", "gold": [], "removed_visual": [], "trap": true}
